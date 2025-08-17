@@ -1,0 +1,9247 @@
+----------------------
+Name: M4A4 | Eye of Horus
+Finish Catalog: 1255
+Texture: gs_m4a4_ra
+
+----------------------
+Name: P250 | Apep's Curse
+Finish Catalog: 1248
+Texture: gs_p250_apep
+
+----------------------
+Name: FAMAS | Waters of Nephthys
+Finish Catalog: 1241
+Texture: cu_famas_holo_ocean
+
+----------------------
+Name: P90 | ScaraB Rush
+Finish Catalog: 1250
+Texture: cu_p90_scarab_of_wisdom
+
+----------------------
+Name: Nova | Sobek's Bite
+Finish Catalog: 1247
+Texture: gs_nova_sobek
+
+----------------------
+Name: Glock-18 | Ramese's Reach
+Finish Catalog: 1240
+Texture: cu_glock_ramzes
+
+----------------------
+Name: MAG-7 | Copper Coated
+Finish Catalog: 1245
+Texture: gs_mag7_goold
+
+----------------------
+Name: AWP | Black Nile
+Finish Catalog: 1239
+Texture: gs_awp_strone
+
+----------------------
+Name: AK-47 | Steel Delta
+Finish Catalog: 1238
+Texture: gs_ak47_strone
+
+----------------------
+Name: Tec-9 | Mummy's Rot
+Finish Catalog: 1252
+Texture: cu_tec9_mummy
+
+----------------------
+Name: MAC-10 | Echoing Sands
+Finish Catalog: 1244
+Texture: cu_mac10_scarab
+
+----------------------
+Name: USP-S | Desert Tactical
+Finish Catalog: 1253
+Texture: gs_usps_tactical_camo
+
+----------------------
+Name: SSG 08 | Azure Glyph
+Finish Catalog: 1251
+Texture: gs_ssg08_anubis
+
+----------------------
+Name: M4A1-S | Mud-Spec
+Finish Catalog: 1243
+Texture: gs_m4a1s_milspec
+
+----------------------
+Name: AUG | Snake Pit
+Finish Catalog: 1249
+Texture: hy_dune_trap
+
+----------------------
+Name: MP7 | Sunbaked
+Finish Catalog: 1246
+Texture: gs_mp7_strone
+
+----------------------
+Name: XM1014 | Hieroglyph
+Finish Catalog: 1254
+Texture: cu_xm1014_pharaoh
+
+----------------------
+Name: M249 | Submerged
+Finish Catalog: 1242
+Texture: cu_m249_scarab
+
+----------------------
+Name: R8 Revolver | Inlay
+Finish Catalog: 1237
+Texture: gs_revolver_acanthus_bronze
+
+----------------------
+Name: M4A1-S | Imminent Danger
+Finish Catalog: 1073
+Texture: gs_m4a1_vertigo
+
+----------------------
+Name: SG 553 | Hazard Pay
+Finish Catalog: 1084
+Texture: cu_sg553_caution
+
+----------------------
+Name: Five-SeveN | Fall Hazard
+Finish Catalog: 1082
+Texture: cu_vertigo_fiveseven
+
+----------------------
+Name: P250 | Digital Architect
+Finish Catalog: 1081
+Texture: aa_vertigogeo_neon
+
+----------------------
+Name: MAG-7 | Prism Terrace
+Finish Catalog: 1072
+Texture: hy_geometric_steps_pearl
+
+----------------------
+Name: Galil AR | CAUTION!
+Finish Catalog: 1071
+Texture: sp_galil_caution
+
+----------------------
+Name: Negev | Infrastructure
+Finish Catalog: 1080
+Texture: hy_vertigospray
+
+----------------------
+Name: Nova | Interlock
+Finish Catalog: 1077
+Texture: hy_vertigoillusion_yellow
+
+----------------------
+Name: P90 | Schematic
+Finish Catalog: 1074
+Texture: hy_vertigogeo
+
+----------------------
+Name: AK-47 | Green Laminate
+Finish Catalog: 1070
+Texture: hy_ak47lam_green
+
+----------------------
+Name: PP-Bizon | Breaker Box
+Finish Catalog: 1083
+Texture: aa_wiring
+
+----------------------
+Name: SSG 08 | Carbon Fiber
+Finish Catalog: 70
+Texture: am_carbon_fiber
+
+----------------------
+Name: UMP-45 | Mechanism
+Finish Catalog: 1085
+Texture: aa_engine_performance
+
+----------------------
+Name: Glock-18 | Red Tire
+Finish Catalog: 1079
+Texture: sp_tire_tread_red
+
+----------------------
+Name: Dual Berettas | Oil Change
+Finish Catalog: 1086
+Texture: sp_engine_dirty
+
+----------------------
+Name: CZ75-Auto | Framework
+Finish Catalog: 1076
+Texture: hy_vertigoillusion
+
+----------------------
+Name: XM1014 | Blue Tire
+Finish Catalog: 1078
+Texture: sp_tire_tread_blue
+
+----------------------
+Name: FAMAS | Faulty Wiring
+Finish Catalog: 1066
+Texture: aa_wiring_yellow
+
+----------------------
+Name: MAC-10 | Strats
+Finish Catalog: 1075
+Texture: hy_vertigospray_blue
+
+----------------------
+
+----------------------
+Name: M4A4 | The Coalition
+Finish Catalog: 1063
+Texture: gs_m4a4_coalition
+
+----------------------
+Name: Glock-18 | Gamma Doppler
+Finish Catalog: 1119
+Texture: am_emerald_marbleized_glock
+
+----------------------
+Name: Glock-18 | Gamma Doppler
+Finish Catalog: 1120
+Texture: am_gamma_doppler_phase1_glock
+
+----------------------
+Name: Glock-18 | Gamma Doppler
+Finish Catalog: 1121
+Texture: am_gamma_doppler_phase2_glock
+
+----------------------
+Name: Glock-18 | Gamma Doppler
+Finish Catalog: 1122
+Texture: am_gamma_doppler_phase3_glock
+
+----------------------
+Name: Glock-18 | Gamma Doppler
+Finish Catalog: 1123
+Texture: am_gamma_doppler_phase4_glock
+
+----------------------
+Name: USP-S | Whiteout
+Finish Catalog: 1065
+Texture: so_whiteout_riptide
+
+----------------------
+Name: MAC-10 | Propaganda
+Finish Catalog: 1067
+Texture: cu_mac10_propaganda
+
+----------------------
+Name: FAMAS | Meltdown
+Finish Catalog: 1053
+Texture: am_nuclear_pattern4_famas
+
+----------------------
+Name: Nova | Red Quartz
+Finish Catalog: 248
+Texture: am_crystallized
+
+----------------------
+Name: MP5-SD | Autumn Twilly
+Finish Catalog: 1061
+Texture: hy_trainarchitect
+
+----------------------
+Name: P2000 | Space Race
+Finish Catalog: 1055
+Texture: aa_spacerace_orange
+
+----------------------
+Name: AWP | POP AWP
+Finish Catalog: 1058
+Texture: hy_technowar_rwb
+
+----------------------
+Name: CZ75-Auto | Syndicate
+Finish Catalog: 1064
+Texture: gs_train_cz75
+
+----------------------
+Name: R8 Revolver | Blaze
+Finish Catalog: 37
+Texture: aa_flames
+
+----------------------
+Name: Tec-9 | Safety Net
+Finish Catalog: 795
+Texture: hy_mesh_safetyorange
+
+----------------------
+Name: UMP-45 | Full Stop
+Finish Catalog: 250
+Texture: hy_varicamo_red
+
+----------------------
+Name: AUG | Amber Fade
+Finish Catalog: 246
+Texture: aa_fade_metallic
+
+----------------------
+Name: SSG 08 | Spring Twilly
+Finish Catalog: 1060
+Texture: hy_trainarchitect_green
+
+----------------------
+Name: M4A1-S | Fizzy POP
+Finish Catalog: 1059
+Texture: sp_technowar_red
+
+----------------------
+Name: Desert Eagle | Sputnik
+Finish Catalog: 1056
+Texture: sp_spacerace_blue
+
+----------------------
+
+----------------------
+Name: M4A1-S | Welcome to the Jungle
+Finish Catalog: 1001
+Texture: cu_m4a1_snake
+
+----------------------
+Name: AK-47 | Panthera onca
+Finish Catalog: 1018
+Texture: cu_ak_jaguar
+
+----------------------
+Name: P90 | Run and Hide
+Finish Catalog: 1000
+Texture: cu_jaguar_p90
+
+----------------------
+Name: USP-S | Ancient Visions
+Finish Catalog: 1031
+Texture: sp_ancient_bright
+
+----------------------
+Name: MAC-10 | Gold Brick
+Finish Catalog: 1025
+Texture: am_gold_brick
+
+----------------------
+Name: XM1014 | Ancient Lore
+Finish Catalog: 1021
+Texture: am_ancient_warm
+
+----------------------
+Name: FAMAS | Dark Water
+Finish Catalog: 60
+Texture: am_zebra_dark
+
+----------------------
+Name: Galil AR | Dusk Ruins
+Finish Catalog: 1032
+Texture: hy_ruins_red
+
+----------------------
+Name: AUG | Carved Jade
+Finish Catalog: 1033
+Texture: am_jade
+
+----------------------
+Name: Tec-9 | Blast From the Past
+Finish Catalog: 1024
+Texture: hy_ancient_tiles_peach
+
+----------------------
+Name: CZ75-Auto | Silver
+Finish Catalog: 32
+Texture: an_silver
+
+----------------------
+Name: G3SG1 | Ancient Ritual
+Finish Catalog: 1034
+Texture: am_ancient_wine
+
+----------------------
+Name: MP7 | Tall Grass
+Finish Catalog: 1023
+Texture: hy_drywood_green
+
+----------------------
+Name: P2000 | Panther Camo
+Finish Catalog: 1019
+Texture: am_black_panther
+
+----------------------
+Name: R8 Revolver | Night
+Finish Catalog: 40
+Texture: so_night
+
+----------------------
+Name: SSG 08 | Jungle Dashed
+Finish Catalog: 147
+Texture: sp_tape_short_jungle
+
+----------------------
+Name: Nova | Army Sheen
+Finish Catalog: 298
+Texture: am_army_shine
+
+----------------------
+Name: SG 553 | Lush Ruins
+Finish Catalog: 1022
+Texture: aa_ruins_green
+
+----------------------
+Name: P90 | Ancient Earth
+Finish Catalog: 1020
+Texture: aa_ancient_brown
+
+----------------------
+
+----------------------
+Name: AK-47 | X-Ray
+Finish Catalog: 1004
+Texture: cu_ak_xray
+
+----------------------
+Name: MAC-10 | Hot Snakes
+Finish Catalog: 1009
+Texture: gs_mac10_snake
+
+----------------------
+Name: AWP | Silk Tiger
+Finish Catalog: 1029
+Texture: am_tigers_blue
+
+----------------------
+Name: Glock-18 | Franklin
+Finish Catalog: 1016
+Texture: cu_money_glock
+
+----------------------
+Name: SG 553 | Hypnotic
+Finish Catalog: 61
+Texture: aa_vertigo
+
+----------------------
+Name: Galil AR | Phoenix Blacklight
+Finish Catalog: 1013
+Texture: sp_phoenix_tags_purple
+
+----------------------
+Name: P250 | Bengal Tiger
+Finish Catalog: 1030
+Texture: hy_p250_tiger
+
+----------------------
+Name: P90 | Tiger Pit
+Finish Catalog: 1015
+Texture: am_tigers_brown
+
+----------------------
+Name: Negev | Phoenix Stencil
+Finish Catalog: 1012
+Texture: hy_phoenix_tags_red
+
+----------------------
+Name: Desert Eagle | Night Heist
+Finish Catalog: 1006
+Texture: am_heist_plans_purple
+
+----------------------
+Name: Nova | Rust Coat
+Finish Catalog: 323
+Texture: aq_steel
+
+----------------------
+Name: R8 Revolver | Phoenix Marker
+Finish Catalog: 1011
+Texture: am_phoenix_tags_blue
+
+----------------------
+Name: UMP-45 | Houndstooth
+Finish Catalog: 1008
+Texture: hy_houndstooth_brown
+
+----------------------
+Name: MP7 | Vault Heist
+Finish Catalog: 1007
+Texture: am_heist_plans_yellow
+
+----------------------
+Name: M249 | Predator
+Finish Catalog: 170
+Texture: sp_zebracam
+
+----------------------
+Name: PP-Bizon | Death Rattle
+Finish Catalog: 293
+Texture: hy_nerodia
+
+----------------------
+Name: Sawed-Off | Clay Ambush
+Finish Catalog: 1014
+Texture: hy_tigers_tan
+
+----------------------
+Name: Tec-9 | Phoenix Chalk
+Finish Catalog: 1010
+Texture: hy_phoenix_tags_lilac
+
+----------------------
+Name: Dual Berettas | Heist
+Finish Catalog: 1005
+Texture: am_heist_plans_green
+
+----------------------
+
+----------------------
+Name: AWP | Fade
+Finish Catalog: 1026
+Texture: aa_awp_fade
+
+----------------------
+Name: M4A1-S | Blue Phosphor
+Finish Catalog: 1017
+Texture: am_m4a1s_bluesmoke
+
+----------------------
+Name: USP-S | Target Acquired
+Finish Catalog: 1027
+Texture: am_intelligence_magenta
+
+----------------------
+Name: UMP-45 | Crime Scene
+Finish Catalog: 1003
+Texture: cu_ump_crime_scene
+
+----------------------
+Name: Five-SeveN | Berries And Cherries
+Finish Catalog: 1002
+Texture: aa_fade_red_blue
+
+----------------------
+Name: FAMAS | Prime Conspiracy
+Finish Catalog: 999
+Texture: am_numbers_magenta
+
+----------------------
+Name: SCAR-20 | Magna Carta
+Finish Catalog: 1028
+Texture: hy_authority_purple
+
+----------------------
+Name: P2000 | Dispatch
+Finish Catalog: 997
+Texture: am_numbers_red_blue
+
+----------------------
+Name: SSG 08 | Threat Detected
+Finish Catalog: 996
+Texture: am_intelligence_orange
+
+----------------------
+Name: M4A4 | Global Offensive
+Finish Catalog: 993
+Texture: cu_csgo_camo
+
+----------------------
+Name: MAG-7 | Carbon Fiber
+Finish Catalog: 70
+Texture: am_carbon_fiber
+
+----------------------
+Name: MP5-SD | Nitro
+Finish Catalog: 798
+Texture: so_orange_accents3
+
+----------------------
+Name: Dual Berettas | Switch Board
+Finish Catalog: 998
+Texture: hy_numbers_green
+
+----------------------
+Name: Desert Eagle | The Bronze
+Finish Catalog: 992
+Texture: am_numbers_bronze
+
+----------------------
+Name: CZ75-Auto | Jungle Dashed
+Finish Catalog: 147
+Texture: sp_tape_short_jungle
+
+----------------------
+Name: P250 | Forest Night
+Finish Catalog: 78
+Texture: hy_forest_night
+
+----------------------
+Name: MP9 | Army Sheen
+Finish Catalog: 298
+Texture: am_army_shine
+
+----------------------
+Name: AUG | Surveillance
+Finish Catalog: 995
+Texture: am_intelligence_grey
+
+----------------------
+Name: XM1014 | Charter
+Finish Catalog: 994
+Texture: am_authority_brown
+
+----------------------
+
+----------------------
+Name: AWP | Desert Hydra
+Finish Catalog: 819
+Texture: gs_awp_hydra
+
+----------------------
+Name: Desert Eagle | Fennec Fox
+Finish Catalog: 764
+Texture: gs_deagle_fennec
+
+----------------------
+Name: MP5-SD | Oxide Oasis
+Finish Catalog: 923
+Texture: gs_mp5_neon_flektarn
+
+----------------------
+Name: AUG | Sand Storm
+Finish Catalog: 823
+Texture: gs_aug_sand_storm
+
+----------------------
+Name: Glock-18 | Pink DDPAT
+Finish Catalog: 84
+Texture: hy_ddpat_pink
+
+----------------------
+Name: XM1014 | Elegant Vines
+Finish Catalog: 821
+Texture: am_moro_textile_bright
+
+----------------------
+Name: SG 553 | Desert Blossom
+Finish Catalog: 765
+Texture: aa_desert_bloom_bright
+
+----------------------
+Name: M249 | Humidor
+Finish Catalog: 827
+Texture: sp_moro_carving_burnt
+
+----------------------
+Name: MP9 | Music Box
+Finish Catalog: 820
+Texture: am_mirage_flowers_metalic
+
+----------------------
+Name: USP-S | Purple DDPAT
+Finish Catalog: 818
+Texture: am_ddpat_purple
+
+----------------------
+Name: P90 | Verdant Growth
+Finish Catalog: 828
+Texture: sp_moro_textile_green_vine
+
+----------------------
+Name: CZ75-Auto | Midnight Palm
+Finish Catalog: 933
+Texture: sp_palm_night
+
+----------------------
+Name: FAMAS | CaliCamo
+Finish Catalog: 240
+Texture: hy_varicamo_desert
+
+----------------------
+Name: Dual Berettas | Drift Wood
+Finish Catalog: 824
+Texture: sp_dry_wood
+
+----------------------
+Name: SSG 08 | Prey
+Finish Catalog: 935
+Texture: sp_zebracam_red
+
+----------------------
+Name: MAC-10 | Sienna Damask
+Finish Catalog: 826
+Texture: sp_mirage_flowers_tan
+
+----------------------
+Name: MAG-7 | Navy Sheen
+Finish Catalog: 822
+Texture: am_navy_shine
+
+----------------------
+Name: PP-Bizon | Anolis
+Finish Catalog: 829
+Texture: hy_lizard_skin
+
+----------------------
+Name: P250 | Drought
+Finish Catalog: 825
+Texture: sp_desert_skulls_dawn
+
+----------------------
+
+----------------------
+Name: AK-47 | Gold Arabesque
+Finish Catalog: 921
+Texture: gs_ak47_gold_arabesque
+
+----------------------
+Name: SSG 08 | Death Strike
+Finish Catalog: 1052
+Texture: cu_ssg08_scorpion
+
+----------------------
+Name: UMP-45 | Fade
+Finish Catalog: 879
+Texture: aa_fade_ump
+
+----------------------
+Name: MAC-10 | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: M4A4 | Red DDPAT
+Finish Catalog: 926
+Texture: hy_ddpat_urban_red
+
+----------------------
+Name: USP-S | Orange Anolis
+Finish Catalog: 922
+Texture: am_lizard_red
+
+----------------------
+Name: Galil AR | Amber Fade
+Finish Catalog: 246
+Texture: aa_fade_metallic
+
+----------------------
+Name: G3SG1 | New Roots
+Finish Catalog: 930
+Texture: sp_moro_carving_lightblue
+
+----------------------
+Name: Nova | Quick Sand
+Finish Catalog: 929
+Texture: hy_torn_camo_paints
+
+----------------------
+Name: P250 | Black & Tan
+Finish Catalog: 928
+Texture: hy_desert_multicam
+
+----------------------
+Name: M249 | Midnight Palm
+Finish Catalog: 933
+Texture: sp_palm_night
+
+----------------------
+Name: Five-SeveN | Withered Vine
+Finish Catalog: 932
+Texture: sp_moro_textile_purple_yellow
+
+----------------------
+Name: MP9 | Old Roots
+Finish Catalog: 931
+Texture: sp_moro_carving_yellow
+
+----------------------
+Name: AUG | Spalted Wood
+Finish Catalog: 927
+Texture: hy_dry_wood
+
+----------------------
+Name: Sawed-Off | Parched
+Finish Catalog: 880
+Texture: hy_desert_bloom
+
+----------------------
+Name: MP7 | Prey
+Finish Catalog: 935
+Texture: sp_zebracam_red
+
+----------------------
+Name: SG 553 | Bleached
+Finish Catalog: 934
+Texture: sp_desert_skulls
+
+----------------------
+Name: P90 | Desert DDPAT
+Finish Catalog: 925
+Texture: hy_ddpat_desert
+
+----------------------
+Name: R8 Revolver | Desert Brush
+Finish Catalog: 924
+Texture: hy_brush_camo_tan
+
+----------------------
+
+----------------------
+Name: AWP | Gungnir
+Finish Catalog: 756
+Texture: gs_awp_gungnir
+
+----------------------
+Name: Negev | Mjölnir
+Finish Catalog: 763
+Texture: gs_negev_thor
+
+----------------------
+Name: P90 | Astral Jörmungandr
+Finish Catalog: 759
+Texture: am_jorm_blue
+
+----------------------
+Name: Desert Eagle | Emerald Jörmungandr
+Finish Catalog: 757
+Texture: am_jorm_green
+
+----------------------
+Name: AUG | Flame Jörmungandr
+Finish Catalog: 758
+Texture: am_jorm_orange
+
+----------------------
+Name: MAC-10 | Copper Borre
+Finish Catalog: 761
+Texture: am_knots_brown
+
+----------------------
+Name: XM1014 | Frost Borre
+Finish Catalog: 760
+Texture: am_knots_silver
+
+----------------------
+Name: CZ75-Auto | Emerald Quartz
+Finish Catalog: 859
+Texture: am_crystallized_green
+
+----------------------
+Name: SCAR-20 | Brass
+Finish Catalog: 159
+Texture: aq_brass
+
+----------------------
+Name: Dual Berettas | Pyre
+Finish Catalog: 860
+Texture: hy_gelpen_dark
+
+----------------------
+Name: MAG-7 | Chainmail
+Finish Catalog: 327
+Texture: am_chainmail
+
+----------------------
+Name: USP-S | Pathfinder
+Finish Catalog: 443
+Texture: sp_labyrinth2
+
+----------------------
+Name: M4A1-S | Moss Quartz
+Finish Catalog: 862
+Texture: am_crystallized_dark_green
+
+----------------------
+Name: FAMAS | Night Borre
+Finish Catalog: 863
+Texture: sp_knots_blue
+
+----------------------
+Name: SSG 08 | Red Stone
+Finish Catalog: 762
+Texture: so_rune_stone
+
+----------------------
+Name: MP7 | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: Galil AR | Tornado
+Finish Catalog: 101
+Texture: so_tornado
+
+----------------------
+Name: SG 553 | Barricade
+Finish Catalog: 861
+Texture: sp_asgard_wall
+
+----------------------
+
+----------------------
+Name: AWP | The Prince
+Finish Catalog: 736
+Texture: gs_awp_enamel
+
+----------------------
+Name: MAG-7 | Cinquedea
+Finish Catalog: 737
+Texture: gs_mag7_glass
+
+----------------------
+Name: Nova | Baroque Orange
+Finish Catalog: 746
+Texture: am_veneto2
+
+----------------------
+Name: MAC-10 | Red Filigree
+Finish Catalog: 742
+Texture: am_ren_red
+
+----------------------
+Name: MP9 | Stained Glass
+Finish Catalog: 867
+Texture: am_stained_glass
+
+----------------------
+Name: SSG 08 | Orange Filigree
+Finish Catalog: 743
+Texture: hy_ren_orange
+
+----------------------
+Name: Dual Berettas | Emerald
+Finish Catalog: 453
+Texture: an_emerald
+
+----------------------
+Name: G3SG1 | Violet Murano
+Finish Catalog: 739
+Texture: am_murano_violet
+
+----------------------
+Name: P90 | Baroque Red
+Finish Catalog: 744
+Texture: am_veneto_red
+
+----------------------
+Name: Tec-9 | Orange Murano
+Finish Catalog: 738
+Texture: hy_murano_orange
+
+----------------------
+Name: P250 | Dark Filigree
+Finish Catalog: 741
+Texture: am_ren_dark
+
+----------------------
+Name: SG 553 | Candy Apple
+Finish Catalog: 864
+Texture: so_red_sg553
+
+----------------------
+Name: AK-47 | Baroque Purple
+Finish Catalog: 745
+Texture: hy_veneto_purple
+
+----------------------
+Name: CZ75-Auto | Indigo
+Finish Catalog: 333
+Texture: so_indigo_and_grey
+
+----------------------
+Name: Negev | Boroque Sand
+Finish Catalog: 920
+Texture: hy_veneto_tan
+
+----------------------
+Name: R8 Revolver | Canal Spray
+Finish Catalog: 866
+Texture: sp_spray_water
+
+----------------------
+Name: SCAR-20 | Stone Mosaico
+Finish Catalog: 865
+Texture: hy_canals_tile
+
+----------------------
+Name: AUG | Navy Murano
+Finish Catalog: 740
+Texture: hy_murano_blue
+
+----------------------
+
+----------------------
+Name: AK-47 | Wild Lotus
+Finish Catalog: 724
+Texture: cu_ak_island_floral
+
+----------------------
+Name: MP9 | Wild Lily
+Finish Catalog: 734
+Texture: cu_mp9_island_floral
+
+----------------------
+Name: AUG | Midnight Lily
+Finish Catalog: 727
+Texture: am_bloom_blue
+
+----------------------
+Name: Glock-18 | Synth Leaf
+Finish Catalog: 732
+Texture: hy_leaf_blue
+
+----------------------
+Name: SSG 08 | Sea Calico
+Finish Catalog: 868
+Texture: hy_flowers_stmarc
+
+----------------------
+Name: FAMAS | Sundown
+Finish Catalog: 869
+Texture: sp_palm_sunset
+
+----------------------
+Name: MP7 | Teal Blossom
+Finish Catalog: 728
+Texture: sp_bud_green
+
+----------------------
+Name: Five-SeveN | Crimson Blossom
+Finish Catalog: 729
+Texture: hy_bud_red
+
+----------------------
+Name: UMP-45 | Day Lily
+Finish Catalog: 725
+Texture: hy_bloom_red
+
+----------------------
+Name: Tec-9 | Rust Leaf
+Finish Catalog: 733
+Texture: sp_leaf_orange
+
+----------------------
+Name: XM1014 | Banana Leaf
+Finish Catalog: 731
+Texture: hy_leaf_green
+
+----------------------
+Name: M4A4 | Dark Blossom
+Finish Catalog: 730
+Texture: sp_bud_blue
+
+----------------------
+Name: P90 | Sunset Lily
+Finish Catalog: 726
+Texture: sp_bloom_orange
+
+----------------------
+Name: M249 | Jungle
+Finish Catalog: 151
+Texture: so_jungle
+
+----------------------
+Name: Sawed-Off | Jungle Thicket
+Finish Catalog: 870
+Texture: sp_palm_green
+
+----------------------
+Name: PP-Bizon | Seabird
+Finish Catalog: 873
+Texture: so_aqua_stmarc
+
+----------------------
+Name: MAC-10 | Surfwood
+Finish Catalog: 871
+Texture: sp_twigs_beach
+
+----------------------
+Name: MP5-SD | Bamboo Garden
+Finish Catalog: 872
+Texture: hy_bamboo_stmarc
+
+----------------------
+
+----------------------
+Name: MP5-SD | Lab Rats
+Finish Catalog: 800
+Texture: hy_labrat_mp5
+
+----------------------
+
+----------------------
+Name: P250 | X-Ray
+Finish Catalog: 125
+Texture: cu_xray_p250
+
+----------------------
+
+----------------------
+Name: SG 553 | Integrale
+Finish Catalog: 750
+Texture: cu_sg553_rally
+
+----------------------
+Name: Dual Berettas | Twin Turbo
+Finish Catalog: 747
+Texture: cu_dual_elites_rally
+
+----------------------
+Name: AK-47 | Safety Net
+Finish Catalog: 795
+Texture: hy_mesh_safetyorange
+
+----------------------
+Name: MP7 | Fade
+Finish Catalog: 752
+Texture: aa_fade_mp7
+
+----------------------
+Name: P250 | Vino Primo
+Finish Catalog: 749
+Texture: gs_p250_checker
+
+----------------------
+Name: Sawed-Off | Brake Light
+Finish Catalog: 797
+Texture: aa_vertigo_red
+
+----------------------
+Name: USP-S | Check Engine
+Finish Catalog: 796
+Texture: sp_mesh_safetyred
+
+----------------------
+Name: M4A4 | Converter
+Finish Catalog: 793
+Texture: hy_red_hex
+
+----------------------
+Name: SSG 08 | Hand Brake
+Finish Catalog: 751
+Texture: gs_ssg08_checker
+
+----------------------
+Name: Glock-18 | High Beam
+Finish Catalog: 799
+Texture: aa_vertigo_blue
+
+----------------------
+Name: R8 Revolver | Nitro
+Finish Catalog: 798
+Texture: so_orange_accents3
+
+----------------------
+Name: MAC-10 | Calf Skin
+Finish Catalog: 748
+Texture: gs_mac10_checker
+
+----------------------
+Name: PP-Bizon | Candy Apple
+Finish Catalog: 3
+Texture: so_red
+
+----------------------
+Name: MAG-7 | Rust Coat
+Finish Catalog: 754
+Texture: aq_steel_inferno
+
+----------------------
+Name: AUG | Sweeper
+Finish Catalog: 794
+Texture: sp_mesh_safetyblack
+
+----------------------
+Name: MP9 | Slide
+Finish Catalog: 755
+Texture: hy_splatter3
+
+----------------------
+Name: MP5-SD | Dirt Drop
+Finish Catalog: 753
+Texture: sp_tape_short_rally
+
+----------------------
+Name: UMP-45 | Mudder
+Finish Catalog: 90
+Texture: hy_mottled_sand
+
+----------------------
+
+----------------------
+Name: M4A1-S | Control Panel
+Finish Catalog: 792
+Texture: gs_m4a1s_operator
+
+----------------------
+Name: Tec-9 | Remote Control
+Finish Catalog: 791
+Texture: gs_tec9_envoy
+
+----------------------
+Name: Glock-18 | Nuclear Garden
+Finish Catalog: 789
+Texture: am_nuclear_skulls_green
+
+----------------------
+Name: MAG-7 | Core Breach
+Finish Catalog: 787
+Texture: hy_nuclear_hotorange
+
+----------------------
+Name: AUG | Random Access
+Finish Catalog: 779
+Texture: am_circuitboard_orange
+
+----------------------
+Name: AWP | Acheron
+Finish Catalog: 788
+Texture: hy_nuclear_skulls_redblue
+
+----------------------
+Name: P250 | Exchanger
+Finish Catalog: 786
+Texture: hy_ducts_blue
+
+----------------------
+Name: MP5-SD | Co-Processor
+Finish Catalog: 781
+Texture: am_circuitboard_aqua
+
+----------------------
+Name: P90 | Facility Negative
+Finish Catalog: 776
+Texture: hy_blueprint_aqua
+
+----------------------
+Name: Galil AR | Cold Fusion
+Finish Catalog: 790
+Texture: hy_nuclear_skulls_aqua
+
+----------------------
+Name: Negev | Bulkhead
+Finish Catalog: 783
+Texture: hy_ducts_yellow
+
+----------------------
+Name: MP7 | Motherboard
+Finish Catalog: 782
+Texture: am_circuitboard_green
+
+----------------------
+Name: M4A4 | Mainframe
+Finish Catalog: 780
+Texture: am_circuitboard_silver
+
+----------------------
+Name: Nova | Mandrel
+Finish Catalog: 785
+Texture: hy_ducts_grey
+
+----------------------
+Name: Five-SeveN | Coolant
+Finish Catalog: 784
+Texture: hy_ducts_green
+
+----------------------
+Name: UMP-45 | Facility Dark
+Finish Catalog: 778
+Texture: hy_blueprint_bluered
+
+----------------------
+Name: P250 | Facility Draft
+Finish Catalog: 777
+Texture: hy_blueprint_red
+
+----------------------
+Name: PP-Bizon | Facility Sketch
+Finish Catalog: 775
+Texture: hy_blueprint_white
+
+----------------------
+
+----------------------
+Name: AUG | Akihabara Accept
+Finish Catalog: 455
+Texture: cu_anime_aug
+
+----------------------
+Name: AK-47 | Hydroponic
+Finish Catalog: 456
+Texture: am_bamboo_jungle
+
+----------------------
+Name: M4A4 | Daybreak
+Finish Catalog: 471
+Texture: am_kimono_sunrise
+
+----------------------
+Name: Desert Eagle | Sunset Storm 弐
+Finish Catalog: 470
+Texture: am_seastorm_shojo
+
+----------------------
+Name: Desert Eagle | Sunset Storm 壱
+Finish Catalog: 469
+Texture: am_seastorm_blood
+
+----------------------
+Name: Five-SeveN | Neon Kimono
+Finish Catalog: 464
+Texture: hy_kimono_diamonds
+
+----------------------
+Name: Tec-9 | Terrace
+Finish Catalog: 463
+Texture: hy_geometric_steps_yellow
+
+----------------------
+Name: MAG-7 | Counter Terrace
+Finish Catalog: 462
+Texture: hy_geometric_steps_green
+
+----------------------
+Name: Galil AR | Aqua Terrace
+Finish Catalog: 460
+Texture: am_geometric_steps
+
+----------------------
+Name: Desert Eagle | Midnight Storm
+Finish Catalog: 468
+Texture: am_seastorm
+
+----------------------
+Name: P250 | Crimson Kimono
+Finish Catalog: 466
+Texture: hy_kimono_diamonds_red
+
+----------------------
+Name: P250 | Mint Kimono
+Finish Catalog: 467
+Texture: sp_kimono_diamonds
+
+----------------------
+Name: G3SG1 | Orange Kimono
+Finish Catalog: 465
+Texture: hy_kimono_diamonds_orange
+
+----------------------
+Name: Tec-9 | Bamboo Forest
+Finish Catalog: 459
+Texture: hy_bamboo_jungle
+
+----------------------
+Name: Sawed-Off | Bamboo Shadow
+Finish Catalog: 458
+Texture: hy_bamboo_jungle_black
+
+----------------------
+Name: PP-Bizon | Bamboo Print
+Finish Catalog: 457
+Texture: hy_bamboo_jungle_ink
+
+----------------------
+
+----------------------
+Name: M4A1-S | Hot Rod
+Finish Catalog: 445
+Texture: an_red_m4a1s
+
+----------------------
+Name: Glock-18 | Twilight Galaxy
+Finish Catalog: 437
+Texture: am_aqua_flecks
+
+----------------------
+Name: Dual Berettas | Duelist
+Finish Catalog: 447
+Texture: gs_mother_of_pearl_elite
+
+----------------------
+Name: SG 553 | Bulldozer
+Finish Catalog: 39
+Texture: so_yellow
+
+----------------------
+Name: CZ75-Auto | Emerald
+Finish Catalog: 453
+Texture: an_emerald
+
+----------------------
+Name: Five-SeveN | Nitro
+Finish Catalog: 254
+Texture: so_orange_accents
+
+----------------------
+Name: MP7 | Full Stop
+Finish Catalog: 250
+Texture: hy_varicamo_red
+
+----------------------
+Name: P250 | Whiteout
+Finish Catalog: 102
+Texture: so_whiteout
+
+----------------------
+Name: MAC-10 | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: USP-S | Para Green
+Finish Catalog: 454
+Texture: so_khaki_green
+
+----------------------
+Name: Galil AR | Urban Rubble
+Finish Catalog: 237
+Texture: hy_varicamo_urban
+
+----------------------
+Name: Desert Eagle | Night
+Finish Catalog: 40
+Texture: so_night
+
+----------------------
+Name: MAG-7 | Seabird
+Finish Catalog: 473
+Texture: so_aqua
+
+----------------------
+Name: M249 | Impact Drill
+Finish Catalog: 472
+Texture: so_keycolors
+
+----------------------
+Name: CZ75-Auto | Army Sheen
+Finish Catalog: 298
+Texture: am_army_shine
+
+----------------------
+Name: SCAR-20 | Army Sheen
+Finish Catalog: 298
+Texture: am_army_shine
+
+----------------------
+
+----------------------
+Name: AWP | Medusa
+Finish Catalog: 446
+Texture: cu_medusa_awp
+
+----------------------
+Name: M4A4 | Poseidon
+Finish Catalog: 449
+Texture: cu_poseidon
+
+----------------------
+Name: M4A1-S | Icarus Fell
+Finish Catalog: 440
+Texture: hy_icarus
+
+----------------------
+Name: G3SG1 | Chronos
+Finish Catalog: 438
+Texture: cu_chronos_g3sg1
+
+----------------------
+Name: MP9 | Pandora's Box
+Finish Catalog: 448
+Texture: aa_pandora
+
+----------------------
+Name: UMP-45 | Minotaur's Labyrinth
+Finish Catalog: 441
+Texture: cu_labyrinth
+
+----------------------
+Name: M249 | Shipping Forecast
+Finish Catalog: 452
+Texture: hy_zodiac3
+
+----------------------
+Name: AWP | Sun in Leo
+Finish Catalog: 451
+Texture: hy_zodiac2
+
+----------------------
+Name: P2000 | Pathfinder
+Finish Catalog: 443
+Texture: sp_labyrinth2
+
+----------------------
+Name: Tec-9 | Hades
+Finish Catalog: 439
+Texture: hy_hades
+
+----------------------
+Name: Nova | Moon in Libra
+Finish Catalog: 450
+Texture: hy_zodiac1
+
+----------------------
+Name: Dual Berettas | Moon in Libra
+Finish Catalog: 450
+Texture: hy_zodiac1
+
+----------------------
+Name: AUG | Daedalus
+Finish Catalog: 444
+Texture: sp_labyrinth3
+
+----------------------
+Name: MP7 | Asterion
+Finish Catalog: 442
+Texture: sp_labyrinth
+
+----------------------
+
+----------------------
+Name: Galil AR | Cerberus
+Finish Catalog: 379
+Texture: cu_cerbrus_galil
+
+----------------------
+Name: FAMAS | Styx
+Finish Catalog: 371
+Texture: am_nuclear_skulls2_famas
+
+----------------------
+Name: Tec-9 | Toxic
+Finish Catalog: 374
+Texture: hy_nuclear_skulls5_tec9
+
+----------------------
+Name: MAC-10 | Nuclear Garden
+Finish Catalog: 372
+Texture: am_nuclear_skulls3_mac10
+
+----------------------
+Name: XM1014 | Bone Machine
+Finish Catalog: 370
+Texture: am_nuclear_skulls1_xm1014
+
+----------------------
+Name: MP9 | Setting Sun
+Finish Catalog: 368
+Texture: hy_nuclear_pattern2_mp9
+
+----------------------
+Name: Glock-18 | Reactor
+Finish Catalog: 367
+Texture: am_nuclear_pattern1_glock
+
+----------------------
+Name: SG 553 | Fallout Warning
+Finish Catalog: 378
+Texture: sp_nukestripe_maroon_sg553
+
+----------------------
+Name: Five-SeveN | Hot Shot
+Finish Catalog: 377
+Texture: so_grey_nuclear_orange_five_seven
+
+----------------------
+Name: PP-Bizon | Chemical Green
+Finish Catalog: 376
+Texture: so_grey_nuclear_green_bizon
+
+----------------------
+Name: AUG | Radiation Hazard
+Finish Catalog: 375
+Texture: sp_nukestripe_orange_aug
+
+----------------------
+Name: P250 | Contamination
+Finish Catalog: 373
+Texture: hy_nuclear_skulls4_p250
+
+----------------------
+Name: Negev | Nuclear Waste
+Finish Catalog: 369
+Texture: sp_nuclear_pattern3_negev
+
+----------------------
+
+----------------------
+Name: AK-47 | Jet Set
+Finish Catalog: 340
+Texture: cu_well_traveled_ak47
+
+----------------------
+Name: Desert Eagle | Pilot
+Finish Catalog: 347
+Texture: aq_pilot_deagle
+
+----------------------
+Name: AK-47 | First Class
+Finish Catalog: 341
+Texture: cu_green_leather_ak47
+
+----------------------
+Name: USP-S | Business Class
+Finish Catalog: 364
+Texture: cu_luggage_usp-s
+
+----------------------
+Name: XM1014 | Red Leather
+Finish Catalog: 348
+Texture: cu_leather_xm1014
+
+----------------------
+Name: Sawed-Off | First Class
+Finish Catalog: 345
+Texture: cu_green_leather_sawedoff
+
+----------------------
+Name: SG 553 | Traveler
+Finish Catalog: 363
+Texture: cu_luggage_sg553
+
+----------------------
+Name: P2000 | Coach Class
+Finish Catalog: 346
+Texture: cu_luggage_p2000
+
+----------------------
+Name: MAC-10 | Commuter
+Finish Catalog: 343
+Texture: cu_luggage_mac10
+
+----------------------
+Name: P90 | Leather
+Finish Catalog: 342
+Texture: cu_brown_leather_p90
+
+----------------------
+Name: CZ75-Auto | Green Plaid
+Finish Catalog: 366
+Texture: hy_plaid2
+
+----------------------
+Name: MP9 | Green Plaid
+Finish Catalog: 366
+Texture: hy_plaid2
+
+----------------------
+Name: MP7 | Olive Plaid
+Finish Catalog: 365
+Texture: hy_plaid1
+
+----------------------
+Name: SSG 08 | Sand Dune
+Finish Catalog: 99
+Texture: so_sand
+
+----------------------
+Name: G3SG1 | Contractor
+Finish Catalog: 46
+Texture: so_pmc
+
+----------------------
+
+----------------------
+Name: AWP | Dragon Lore
+Finish Catalog: 344
+Texture: cu_medieval_dragon_awp
+
+----------------------
+Name: M4A1-S | Knight
+Finish Catalog: 326
+Texture: am_metals
+
+----------------------
+Name: Desert Eagle | Hand Cannon
+Finish Catalog: 328
+Texture: aq_handcannon
+
+----------------------
+Name: CZ75-Auto | Chalice
+Finish Catalog: 325
+Texture: am_royal
+
+----------------------
+Name: MP9 | Dark Age
+Finish Catalog: 329
+Texture: am_metal_inlay
+
+----------------------
+Name: P2000 | Chainmail
+Finish Catalog: 327
+Texture: am_chainmail
+
+----------------------
+Name: USP-S | Royal Blue
+Finish Catalog: 332
+Texture: hy_indigo_usp
+
+----------------------
+Name: Sawed-Off | Rust Coat
+Finish Catalog: 323
+Texture: aq_steel
+
+----------------------
+Name: Nova | Green Apple
+Finish Catalog: 294
+Texture: so_green
+
+----------------------
+Name: MAG-7 | Silver
+Finish Catalog: 32
+Texture: an_silver
+
+----------------------
+Name: UMP-45 | Indigo
+Finish Catalog: 333
+Texture: so_indigo_and_grey
+
+----------------------
+Name: MAC-10 | Indigo
+Finish Catalog: 333
+Texture: so_indigo_and_grey
+
+----------------------
+Name: Dual Berettas | Briar
+Finish Catalog: 330
+Texture: hy_vines
+
+----------------------
+Name: SCAR-20 | Storm
+Finish Catalog: 100
+Texture: so_stormfront
+
+----------------------
+Name: P90 | Storm
+Finish Catalog: 100
+Texture: so_stormfront
+
+----------------------
+
+----------------------
+Name: M4A1-S | Master Piece
+Finish Catalog: 321
+Texture: cu_m4a1-s_silence
+
+----------------------
+Name: USP-S | Road Rash
+Finish Catalog: 318
+Texture: cu_usp_sandpapered
+
+----------------------
+Name: AWP | Pink DDPAT
+Finish Catalog: 84
+Texture: hy_ddpat_pink
+
+----------------------
+Name: CZ75-Auto | Nitro
+Finish Catalog: 322
+Texture: so_orange_accents2
+
+----------------------
+Name: SSG 08 | Detour
+Finish Catalog: 319
+Texture: hy_ssg08_marker
+
+----------------------
+Name: XM1014 | VariCamo Blue
+Finish Catalog: 238
+Texture: hy_varicamo_blue
+
+----------------------
+Name: P2000 | Grassland
+Finish Catalog: 95
+Texture: so_grassland
+
+----------------------
+Name: Glock-18 | Night
+Finish Catalog: 40
+Texture: so_night
+
+----------------------
+Name: Desert Eagle | Urban DDPAT
+Finish Catalog: 17
+Texture: hy_ddpat_urb
+
+----------------------
+Name: MP7 | Gunsmoke
+Finish Catalog: 15
+Texture: hy_gelpen
+
+----------------------
+Name: UMP-45 | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: Sawed-Off | Sage Spray
+Finish Catalog: 119
+Texture: sp_spray_desert_sage
+
+----------------------
+Name: MP9 | Storm
+Finish Catalog: 100
+Texture: so_stormfront
+
+----------------------
+Name: MAG-7 | Storm
+Finish Catalog: 100
+Texture: so_stormfront
+
+----------------------
+Name: M249 | Contrast Spray
+Finish Catalog: 22
+Texture: sp_spray
+
+----------------------
+
+----------------------
+Name: P250 | Franklin
+Finish Catalog: 295
+Texture: cu_money
+
+----------------------
+Name: AK-47 | Emerald Pinstripe
+Finish Catalog: 300
+Texture: cu_pinstripe_ak47
+
+----------------------
+Name: CZ75-Auto | Tuxedo
+Finish Catalog: 297
+Texture: so_orca
+
+----------------------
+Name: Galil AR | Tuxedo
+Finish Catalog: 297
+Texture: so_orca
+
+----------------------
+Name: Desert Eagle | Meteorite
+Finish Catalog: 296
+Texture: am_crystallized_dark
+
+----------------------
+Name: Nova | Caged Steel
+Finish Catalog: 299
+Texture: am_oval_hex
+
+----------------------
+Name: G3SG1 | Green Apple
+Finish Catalog: 294
+Texture: so_green
+
+----------------------
+Name: Glock-18 | Death Rattle
+Finish Catalog: 293
+Texture: hy_nerodia
+
+----------------------
+Name: UMP-45 | Carbon Fiber
+Finish Catalog: 70
+Texture: am_carbon_fiber
+
+----------------------
+Name: MAC-10 | Silver
+Finish Catalog: 32
+Texture: an_silver
+
+----------------------
+Name: SG 553 | Army Sheen
+Finish Catalog: 298
+Texture: am_army_shine
+
+----------------------
+Name: Negev | Army Sheen
+Finish Catalog: 298
+Texture: am_army_shine
+
+----------------------
+Name: R8 Revolver | Bone Mask
+Finish Catalog: 27
+Texture: sp_tape
+
+----------------------
+Name: Tec-9 | Urban DDPAT
+Finish Catalog: 17
+Texture: hy_ddpat_urb
+
+----------------------
+Name: Sawed-Off | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: MP7 | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+
+----------------------
+Name: M4A1-S | Nitro
+Finish Catalog: 254
+Texture: so_orange_accents
+
+----------------------
+Name: SSG 08 | Acid Fade
+Finish Catalog: 253
+Texture: aa_fade_grassland
+
+----------------------
+Name: Five-SeveN | Silver Quartz
+Finish Catalog: 252
+Texture: am_crystallized_silver
+
+----------------------
+Name: FAMAS | Teardown
+Finish Catalog: 244
+Texture: sp_mesh_hot_and_cold
+
+----------------------
+Name: M249 | Gator Mesh
+Finish Catalog: 243
+Texture: sp_mesh_python
+
+----------------------
+Name: Galil AR | VariCamo
+Finish Catalog: 235
+Texture: hy_varicamo
+
+----------------------
+Name: G3SG1 | VariCamo
+Finish Catalog: 235
+Texture: hy_varicamo
+
+----------------------
+Name: MP9 | Orange Peel
+Finish Catalog: 141
+Texture: sp_tape_orange
+
+----------------------
+Name: AUG | Condemned
+Finish Catalog: 110
+Texture: sp_mesh_forest_fire
+
+----------------------
+Name: USP-S | Forest Leaves
+Finish Catalog: 25
+Texture: sp_leaves
+
+----------------------
+Name: MP7 | Army Recon
+Finish Catalog: 245
+Texture: sp_spray_army
+
+----------------------
+Name: Tec-9 | Army Mesh
+Finish Catalog: 242
+Texture: sp_mesh_army
+
+----------------------
+Name: SSG 08 | Blue Spruce
+Finish Catalog: 96
+Texture: so_moss
+
+----------------------
+Name: SCAR-20 | Contractor
+Finish Catalog: 46
+Texture: so_pmc
+
+----------------------
+Name: Dual Berettas | Contractor
+Finish Catalog: 46
+Texture: so_pmc
+
+----------------------
+
+----------------------
+Name: Dual Berettas | Cobalt Quartz
+Finish Catalog: 249
+Texture: am_crystallized_blue
+
+----------------------
+Name: P90 | Teardown
+Finish Catalog: 244
+Texture: sp_mesh_hot_and_cold
+
+----------------------
+Name: USP-S | Night Ops
+Finish Catalog: 236
+Texture: hy_varicamo_night
+
+----------------------
+Name: SG 553 | Anodized Navy
+Finish Catalog: 28
+Texture: an_navy
+
+----------------------
+Name: PP-Bizon | Night Ops
+Finish Catalog: 236
+Texture: hy_varicamo_night
+
+----------------------
+Name: FAMAS | Cyanospatter
+Finish Catalog: 92
+Texture: hy_reef
+
+----------------------
+Name: Desert Eagle | Mudder
+Finish Catalog: 90
+Texture: hy_mottled_sand
+
+----------------------
+Name: AWP | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: XM1014 | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: G3SG1 | Jungle Dashed
+Finish Catalog: 147
+Texture: sp_tape_short_jungle
+
+----------------------
+Name: SG 553 | Waves Perforated
+Finish Catalog: 136
+Texture: sp_tape_dots_waves
+
+----------------------
+Name: Galil AR | Sage Spray
+Finish Catalog: 119
+Texture: sp_spray_desert_sage
+
+----------------------
+Name: AUG | Storm
+Finish Catalog: 100
+Texture: so_stormfront
+
+----------------------
+Name: XM1014 | Blue Spruce
+Finish Catalog: 96
+Texture: so_moss
+
+----------------------
+Name: P250 | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+
+----------------------
+Name: AWP | Pit Viper
+Finish Catalog: 251
+Texture: hy_snakeskin
+
+----------------------
+Name: Sawed-Off | Full Stop
+Finish Catalog: 250
+Texture: hy_varicamo_red
+
+----------------------
+Name: MP7 | Anodized Navy
+Finish Catalog: 28
+Texture: an_navy
+
+----------------------
+Name: Glock-18 | Candy Apple
+Finish Catalog: 3
+Texture: so_red
+
+----------------------
+Name: XM1014 | CaliCamo
+Finish Catalog: 240
+Texture: hy_varicamo_desert
+
+----------------------
+Name: M4A1-S | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: Dual Berettas | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: P2000 | Granite Marbleized
+Finish Catalog: 21
+Texture: hy_granite
+
+----------------------
+Name: UMP-45 | Gunsmoke
+Finish Catalog: 15
+Texture: hy_gelpen
+
+----------------------
+Name: Nova | Candy Apple
+Finish Catalog: 3
+Texture: so_red
+
+----------------------
+Name: PP-Bizon | Sand Dashed
+Finish Catalog: 148
+Texture: sp_tape_short_sand
+
+----------------------
+Name: Nova | Sand Dune
+Finish Catalog: 99
+Texture: so_sand
+
+----------------------
+Name: FAMAS | Colony
+Finish Catalog: 47
+Texture: so_space_marine
+
+----------------------
+Name: AUG | Contractor
+Finish Catalog: 46
+Texture: so_pmc
+
+----------------------
+Name: Tec-9 | Groundwater
+Finish Catalog: 2
+Texture: so_olive
+
+----------------------
+
+----------------------
+Name: MAG-7 | Bulldozer
+Finish Catalog: 39
+Texture: so_yellow
+
+----------------------
+Name: MAC-10 | Amber Fade
+Finish Catalog: 246
+Texture: aa_fade_metallic
+
+----------------------
+Name: UMP-45 | Blaze
+Finish Catalog: 37
+Texture: aa_flames
+
+----------------------
+Name: MP9 | Hot Rod
+Finish Catalog: 33
+Texture: an_red
+
+----------------------
+Name: SG 553 | Gator Mesh
+Finish Catalog: 243
+Texture: sp_mesh_python
+
+----------------------
+Name: Negev | CaliCamo
+Finish Catalog: 240
+Texture: hy_varicamo_desert
+
+----------------------
+Name: SSG 08 | Tropical Storm
+Finish Catalog: 233
+Texture: sp_palm_shadow
+
+----------------------
+Name: MP7 | Orange Peel
+Finish Catalog: 141
+Texture: sp_tape_orange
+
+----------------------
+Name: Glock-18 | Groundwater
+Finish Catalog: 2
+Texture: so_olive
+
+----------------------
+Name: Galil AR | Hunting Blind
+Finish Catalog: 241
+Texture: sp_mesh_slashes
+
+----------------------
+Name: P90 | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: G3SG1 | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: AUG | Colony
+Finish Catalog: 47
+Texture: so_space_marine
+
+----------------------
+Name: Five-SeveN | Contractor
+Finish Catalog: 46
+Texture: so_pmc
+
+----------------------
+Name: P250 | Bone Mask
+Finish Catalog: 27
+Texture: sp_tape
+
+----------------------
+
+----------------------
+Name: Tec-9 | Red Quartz
+Finish Catalog: 248
+Texture: am_crystallized
+
+----------------------
+Name: Sawed-Off | Amber Fade
+Finish Catalog: 246
+Texture: aa_fade_metallic
+
+----------------------
+Name: Desert Eagle | Urban Rubble
+Finish Catalog: 237
+Texture: hy_varicamo_urban
+
+----------------------
+Name: P90 | Ash Wood
+Finish Catalog: 234
+Texture: sp_twigs
+
+----------------------
+Name: SCAR-20 | Carbon Fiber
+Finish Catalog: 70
+Texture: am_carbon_fiber
+
+----------------------
+Name: P250 | Metallic DDPAT
+Finish Catalog: 34
+Texture: am_urban
+
+----------------------
+Name: MAG-7 | Metallic DDPAT
+Finish Catalog: 34
+Texture: am_urban
+
+----------------------
+Name: M4A4 | Urban DDPAT
+Finish Catalog: 17
+Texture: hy_ddpat_urb
+
+----------------------
+Name: MAC-10 | Candy Apple
+Finish Catalog: 3
+Texture: so_red
+
+----------------------
+Name: PP-Bizon | Urban Dashed
+Finish Catalog: 149
+Texture: sp_tape_short_urban
+
+----------------------
+Name: Nova | Polar Mesh
+Finish Catalog: 107
+Texture: sp_mesh_arctic_contrast
+
+----------------------
+Name: Five-SeveN | Forest Night
+Finish Catalog: 78
+Texture: hy_forest_night
+
+----------------------
+Name: G3SG1 | Polar Camo
+Finish Catalog: 74
+Texture: hy_arctic_contrast
+
+----------------------
+Name: Dual Berettas | Colony
+Finish Catalog: 47
+Texture: so_space_marine
+
+----------------------
+Name: UMP-45 | Urban DDPAT
+Finish Catalog: 17
+Texture: hy_ddpat_urb
+
+----------------------
+
+----------------------
+Name: R8 Revolver | Amber Fade
+Finish Catalog: 523
+Texture: aa_fade_metallic_revolver
+
+----------------------
+Name: P2000 | Amber Fade
+Finish Catalog: 246
+Texture: aa_fade_metallic
+
+----------------------
+Name: SG 553 | Damascus Steel
+Finish Catalog: 247
+Texture: aq_damascus_sg553
+
+----------------------
+Name: M4A1-S | VariCamo
+Finish Catalog: 235
+Texture: hy_varicamo
+
+----------------------
+Name: PP-Bizon | Brass
+Finish Catalog: 159
+Texture: aq_brass
+
+----------------------
+Name: Tec-9 | VariCamo
+Finish Catalog: 235
+Texture: hy_varicamo
+
+----------------------
+Name: MAC-10 | Palm
+Finish Catalog: 157
+Texture: sp_palm
+
+----------------------
+Name: Five-SeveN | Orange Peel
+Finish Catalog: 141
+Texture: sp_tape_orange
+
+----------------------
+Name: AK-47 | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: Sawed-Off | Snake Camo
+Finish Catalog: 30
+Texture: sp_snake
+
+----------------------
+Name: Nova | Predator
+Finish Catalog: 170
+Texture: sp_zebracam
+
+----------------------
+Name: MP9 | Sand Dashed
+Finish Catalog: 148
+Texture: sp_tape_short_sand
+
+----------------------
+Name: P90 | Sand Spray
+Finish Catalog: 124
+Texture: sp_spray_sand
+
+----------------------
+Name: SCAR-20 | Sand Mesh
+Finish Catalog: 116
+Texture: sp_mesh_sand
+
+----------------------
+Name: P250 | Sand Dune
+Finish Catalog: 99
+Texture: so_sand
+
+----------------------
+Name: G3SG1 | Desert Storm
+Finish Catalog: 8
+Texture: hy_desert
+
+----------------------
+
+----------------------
+Name: SCAR-20 | Emerald
+Finish Catalog: 196
+Texture: an_emerald_bravo
+
+----------------------
+Name: FAMAS | Spitfire
+Finish Catalog: 194
+Texture: sp_spitfire_famas_bravo
+
+----------------------
+Name: PP-Bizon | Rust Coat
+Finish Catalog: 203
+Texture: aq_steel_bravo
+
+----------------------
+Name: MAG-7 | Hazard
+Finish Catalog: 198
+Texture: sp_hazard_bravo
+
+----------------------
+Name: AUG | Anodized Navy
+Finish Catalog: 197
+Texture: an_navy_bravo
+
+----------------------
+Name: Glock-18 | Sand Dune
+Finish Catalog: 208
+Texture: so_sand_bravo
+
+----------------------
+Name: P250 | Facets
+Finish Catalog: 207
+Texture: hy_crumple_dark_bravo
+
+----------------------
+Name: Sawed-Off | Mosaico
+Finish Catalog: 204
+Texture: hy_ali_tile_bravo
+
+----------------------
+Name: Negev | Palm
+Finish Catalog: 201
+Texture: sp_palm_bravo
+
+----------------------
+Name: SSG 08 | Mayan Dreams
+Finish Catalog: 200
+Texture: hy_mayan_dreams_bravo
+
+----------------------
+Name: Five-SeveN | Anodized Gunmetal
+Finish Catalog: 210
+Texture: an_gunmetal_bravo
+
+----------------------
+Name: MP7 | Groundwater
+Finish Catalog: 209
+Texture: so_olive_bravo
+
+----------------------
+Name: Tec-9 | Tornado
+Finish Catalog: 206
+Texture: so_tornado_bravo
+
+----------------------
+Name: XM1014 | Jungle
+Finish Catalog: 205
+Texture: so_jungle_bravo
+
+----------------------
+Name: M249 | Jungle DDPAT
+Finish Catalog: 202
+Texture: hy_ddpat_jungle_bravo
+
+----------------------
+Name: MP9 | Dry Season
+Finish Catalog: 199
+Texture: sp_tape_dots_bravo
+
+----------------------
+
+----------------------
+Name: MP9 | Bulldozer
+Finish Catalog: 39
+Texture: so_yellow
+
+----------------------
+Name: Glock-18 | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: AUG | Hot Rod
+Finish Catalog: 33
+Texture: an_red
+
+----------------------
+Name: Negev | Anodized Navy
+Finish Catalog: 28
+Texture: an_navy
+
+----------------------
+Name: Five-SeveN | Candy Apple
+Finish Catalog: 3
+Texture: so_red
+
+----------------------
+Name: SG 553 | Tornado
+Finish Catalog: 101
+Texture: so_tornado
+
+----------------------
+Name: UMP-45 | Caramel
+Finish Catalog: 93
+Texture: so_caramel
+
+----------------------
+
+----------------------
+Name: MP7 | Whiteout
+Finish Catalog: 102
+Texture: so_whiteout
+
+----------------------
+Name: P2000 | Silver
+Finish Catalog: 32
+Texture: an_silver
+
+----------------------
+Name: Galil AR | Winter Forest
+Finish Catalog: 76
+Texture: hy_forest_winter
+
+----------------------
+Name: M249 | Blizzard Marbleized
+Finish Catalog: 75
+Texture: hy_blizzard
+
+----------------------
+Name: G3SG1 | Arctic Camo
+Finish Catalog: 6
+Texture: hy_arctic
+
+----------------------
+Name: FAMAS | Contrast Spray
+Finish Catalog: 22
+Texture: sp_spray
+
+----------------------
+
+----------------------
+Name: Tec-9 | Nuclear Threat
+Finish Catalog: 179
+Texture: sp_nukestripe_green_tec9
+
+----------------------
+Name: P250 | Nuclear Threat
+Finish Catalog: 168
+Texture: sp_nukestripe_green
+
+----------------------
+Name: M4A4 | Radiation Hazard
+Finish Catalog: 167
+Texture: sp_nukestripe_orange
+
+----------------------
+Name: XM1014 | Fallout Warning
+Finish Catalog: 169
+Texture: sp_nukestripe_maroon
+
+----------------------
+Name: UMP-45 | Fallout Warning
+Finish Catalog: 169
+Texture: sp_nukestripe_maroon
+
+----------------------
+Name: P90 | Fallout Warning
+Finish Catalog: 169
+Texture: sp_nukestripe_maroon
+
+----------------------
+Name: Sawed-Off | Irradiated Alert
+Finish Catalog: 171
+Texture: sp_nukestripe_brown
+
+----------------------
+Name: MAG-7 | Irradiated Alert
+Finish Catalog: 171
+Texture: sp_nukestripe_brown
+
+----------------------
+Name: PP-Bizon | Irradiated Alert
+Finish Catalog: 171
+Texture: sp_nukestripe_brown
+
+----------------------
+
+----------------------
+Name: SCAR-20 | Splash Jam
+Finish Catalog: 165
+Texture: hy_hunter_blaze_pink
+
+----------------------
+Name: M4A4 | Modern Hunter
+Finish Catalog: 164
+Texture: hy_hunter_modern
+
+----------------------
+Name: XM1014 | Blaze Orange
+Finish Catalog: 166
+Texture: hy_hunter_blaze_orange
+
+----------------------
+Name: Nova | Blaze Orange
+Finish Catalog: 166
+Texture: hy_hunter_blaze_orange
+
+----------------------
+Name: P250 | Modern Hunter
+Finish Catalog: 164
+Texture: hy_hunter_modern
+
+----------------------
+Name: Nova | Modern Hunter
+Finish Catalog: 164
+Texture: hy_hunter_modern
+
+----------------------
+Name: PP-Bizon | Modern Hunter
+Finish Catalog: 164
+Texture: hy_hunter_modern
+
+----------------------
+Name: P2000 | Grassland Leaves
+Finish Catalog: 104
+Texture: sp_leaves_grassland
+
+----------------------
+Name: MAC-10 | Tornado
+Finish Catalog: 101
+Texture: so_tornado
+
+----------------------
+Name: XM1014 | Grassland
+Finish Catalog: 95
+Texture: so_grassland
+
+----------------------
+Name: PP-Bizon | Forest Leaves
+Finish Catalog: 25
+Texture: sp_leaves
+
+----------------------
+
+----------------------
+Name: Tec-9 | Brass
+Finish Catalog: 159
+Texture: aq_brass
+
+----------------------
+Name: Dual Berettas | Anodized Navy
+Finish Catalog: 28
+Texture: an_navy
+
+----------------------
+Name: M4A4 | Tornado
+Finish Catalog: 101
+Texture: so_tornado
+
+----------------------
+Name: P250 | Gunsmoke
+Finish Catalog: 15
+Texture: hy_gelpen
+
+----------------------
+Name: Nova | Walnut
+Finish Catalog: 158
+Texture: cu_walnut_nova
+
+----------------------
+Name: MAG-7 | Sand Dune
+Finish Catalog: 99
+Texture: so_sand
+
+----------------------
+
+----------------------
+Name: Dual Berettas | Demolition
+Finish Catalog: 153
+Texture: so_tangerine
+
+----------------------
+Name: AK-47 | Black Laminate
+Finish Catalog: 172
+Texture: hy_ak47lam_bw
+
+----------------------
+Name: P90 | Glacier Mesh
+Finish Catalog: 111
+Texture: sp_mesh_glacier
+
+----------------------
+Name: PP-Bizon | Carbon Fiber
+Finish Catalog: 70
+Texture: am_carbon_fiber
+
+----------------------
+Name: XM1014 | Urban Perforated
+Finish Catalog: 135
+Texture: sp_tape_dots_urban
+
+----------------------
+Name: MAC-10 | Urban DDPAT
+Finish Catalog: 17
+Texture: hy_ddpat_urb
+
+----------------------
+
+----------------------
+Name: Tec-9 | Ossified
+Finish Catalog: 36
+Texture: am_ossify
+
+----------------------
+Name: AK-47 | Jungle Spray
+Finish Catalog: 122
+Texture: sp_spray_jungle
+
+----------------------
+Name: M4A4 | Jungle Tiger
+Finish Catalog: 16
+Texture: hy_v_tiger
+
+----------------------
+Name: Five-SeveN | Jungle
+Finish Catalog: 151
+Texture: so_jungle
+
+----------------------
+Name: SSG 08 | Lichen Dashed
+Finish Catalog: 26
+Texture: sp_short_tape
+
+----------------------
+Name: Nova | Forest Leaves
+Finish Catalog: 25
+Texture: sp_leaves
+
+----------------------
+
+----------------------
+Name: Glock-18 | Brass
+Finish Catalog: 159
+Texture: aq_brass
+
+----------------------
+Name: P2000 | Scorpion
+Finish Catalog: 71
+Texture: am_scorpion_p2000
+
+----------------------
+Name: Desert Eagle | Blaze
+Finish Catalog: 37
+Texture: aa_flames
+
+----------------------
+Name: Sawed-Off | Copper
+Finish Catalog: 41
+Texture: aq_copper
+
+----------------------
+Name: AWP | Snake Camo
+Finish Catalog: 30
+Texture: sp_snake
+
+----------------------
+Name: AUG | Copperhead
+Finish Catalog: 10
+Texture: hy_copperhead
+
+----------------------
+Name: AK-47 | Predator
+Finish Catalog: 170
+Texture: sp_zebracam
+
+----------------------
+Name: SCAR-20 | Palm
+Finish Catalog: 157
+Texture: sp_palm
+
+----------------------
+Name: M4A4 | Desert Storm
+Finish Catalog: 8
+Texture: hy_desert
+
+----------------------
+
+----------------------
+
+----------------------
+Name: AWP | Printstream
+Finish Catalog: 1206
+Texture: awp_printstream
+
+----------------------
+Name: FAMAS | Bad Trip
+Finish Catalog: 1184
+Texture: famas_badtrip
+
+----------------------
+Name: UMP-45 | K.O. Factory
+Finish Catalog: 1194
+Texture: ump45_old_cartoon
+
+----------------------
+Name: Glock-18 | Shinobu
+Finish Catalog: 1208
+Texture: glock_shinobu
+
+----------------------
+Name: AK-47 | Searing Rage
+Finish Catalog: 1207
+Texture: ak47_explosive
+
+----------------------
+Name: P90 | Wave Breaker
+Finish Catalog: 1190
+Texture: p90_boost_blue
+
+----------------------
+Name: Galil AR | Control
+Finish Catalog: 1185
+Texture: galil_control_strike
+
+----------------------
+Name: Nova | Rising Sun
+Finish Catalog: 1192
+Texture: nova_rising_sun
+
+----------------------
+Name: Zeus x27 | Tosai
+Finish Catalog: 1183
+Texture: zeus_tosai
+
+----------------------
+Name: Desert Eagle | Serpent Strike
+Finish Catalog: 1189
+Texture: deagle_snake_pattern
+
+----------------------
+Name: XM1014 | Mockingbird
+Finish Catalog: 1182
+Texture: xm1014_mockingbird
+
+----------------------
+Name: MP9 | Nexus
+Finish Catalog: 1193
+Texture: mp9_nexus
+
+----------------------
+Name: USP-S | PC-GRN
+Finish Catalog: 1186
+Texture: usps_bruteforce_green
+
+----------------------
+Name: P2000 | Sure Grip
+Finish Catalog: 1181
+Texture: p2k_fractal
+
+----------------------
+Name: SSG 08 | Memorial
+Finish Catalog: 1187
+Texture: ssg08_brutalist
+
+----------------------
+Name: MAG-7 | Resupply
+Finish Catalog: 1188
+Texture: mag7_ammo_box
+
+----------------------
+Name: M4A4 | Choppa
+Finish Catalog: 1210
+Texture: m4a4_green_camo
+
+----------------------
+
+----------------------
+Name: M4A1-S | Vaporwave
+Finish Catalog: 106
+Texture: m4a1s_vaporwave
+
+----------------------
+Name: Glock-18 | Gold Toof
+Finish Catalog: 129
+Texture: glock_chomper
+
+----------------------
+Name: UMP-45 | Neo-Noir
+Finish Catalog: 131
+Texture: ump45_neo_noir
+
+----------------------
+Name: P250 | Epicenter
+Finish Catalog: 130
+Texture: p250_impact
+
+----------------------
+Name: AK-47 | The Outsiders
+Finish Catalog: 113
+Texture: ak47_t_bus
+
+----------------------
+Name: SSG 08 | Rapid Transit
+Finish Catalog: 128
+Texture: ssg08_transit_white
+
+----------------------
+Name: P90 | Randy Rush
+Finish Catalog: 127
+Texture: p90_randy_rush
+
+----------------------
+Name: MAC-10 | Saibā Oni
+Finish Catalog: 126
+Texture: mac10_ozaki
+
+----------------------
+Name: Dual Berettas | Hydro Strike
+Finish Catalog: 112
+Texture: dual_elite_hydro_strike
+
+----------------------
+Name: M4A4 | Turbine
+Finish Catalog: 118
+Texture: m4a4_fusion
+
+----------------------
+Name: SCAR-20 | Trail Blazer
+Finish Catalog: 117
+Texture: scar20_fury_topo
+
+----------------------
+Name: R8 Revolver | Tango
+Finish Catalog: 123
+Texture: r8_roses_and_guns
+
+----------------------
+Name: M249 | Hypnosis
+Finish Catalog: 120
+Texture: m249_hypnosis
+
+----------------------
+Name: AUG | Luxe Trim
+Finish Catalog: 121
+Texture: aug_puffer
+
+----------------------
+Name: MP5-SD | Statics
+Finish Catalog: 1180
+Texture: mp5_statics_blue
+
+----------------------
+Name: Desert Eagle | Calligraffiti
+Finish Catalog: 114
+Texture: deagle_calligraff
+
+----------------------
+Name: USP-S | 027
+Finish Catalog: 115
+Texture: usp_field_snake
+
+----------------------
+
+----------------------
+Name: AK-47 | Inheritance
+Finish Catalog: 1171
+Texture: ak_porcelain
+
+----------------------
+Name: AWP | Chrome Cannon
+Finish Catalog: 1170
+Texture: awp_tempered
+
+----------------------
+Name: USP-S | Jawbreaker
+Finish Catalog: 1173
+Texture: usps_doggy
+
+----------------------
+Name: Zeus x27 | Olympus
+Finish Catalog: 1172
+Texture: zeus_thunder_god
+
+----------------------
+Name: M4A1-S | Black Lotus
+Finish Catalog: 1166
+Texture: m4a1s_black_lotus
+
+----------------------
+Name: Sawed-Off | Analog Input
+Finish Catalog: 1160
+Texture: sawedoff_gamer
+
+----------------------
+Name: MP7 | Just Smile
+Finish Catalog: 1163
+Texture: mp7_just_smile
+
+----------------------
+Name: Five-SeveN | Hybrid
+Finish Catalog: 1168
+Texture: fiveseven_hybrid
+
+----------------------
+Name: M4A4 | Etch Lord
+Finish Catalog: 1165
+Texture: m4a4_snakebite
+
+----------------------
+Name: Glock-18 | Block-18
+Finish Catalog: 1167
+Texture: glock_brick_mondrian
+
+----------------------
+Name: XM1014 | Irezumi
+Finish Catalog: 1174
+Texture: xm1014_irezumi
+
+----------------------
+Name: UMP-45 | Motorized
+Finish Catalog: 1175
+Texture: ump45_assembled_engine
+
+----------------------
+Name: Tec-9 | Slag
+Finish Catalog: 1159
+Texture: tec9_junkyard_engineering
+
+----------------------
+Name: SSG 08 | Dezastre
+Finish Catalog: 1161
+Texture: ssg08_dezastre
+
+----------------------
+Name: Nova | Dark Sigil
+Finish Catalog: 1162
+Texture: nova_drakkar
+
+----------------------
+Name: MAC-10 | Light Box
+Finish Catalog: 1164
+Texture: mac10_illusion
+
+----------------------
+Name: Dual Berettas | Hideout
+Finish Catalog: 1169
+Texture: dual_berettas_lethal_grin
+
+----------------------
+
+----------------------
+Name: AK-47 | Head Shot
+Finish Catalog: 1221
+Texture: cu_ak_head_shot_holo
+
+----------------------
+Name: M4A4 | Temukau
+Finish Catalog: 1228
+Texture: cu_m4a4_temukau
+
+----------------------
+Name: P2000 | Wicked Sick
+Finish Catalog: 1224
+Texture: cu_p2000_decline
+
+----------------------
+Name: UMP-45 | Wild Child
+Finish Catalog: 1236
+Texture: cu_ump_clutch_kick
+
+----------------------
+Name: AWP | Duality
+Finish Catalog: 1222
+Texture: gs_awp_limbo_snake
+
+----------------------
+Name: P90 | Neoqueen
+Finish Catalog: 1233
+Texture: gs_p90_neoqueen
+
+----------------------
+Name: R8 Revolver | Banana Cannon
+Finish Catalog: 1232
+Texture: gs_r8_banana
+
+----------------------
+Name: MAC-10 | Sakkaku
+Finish Catalog: 1229
+Texture: cu_mac10_sakkaku
+
+----------------------
+Name: Glock-18 | Umbral Rabbit
+Finish Catalog: 1227
+Texture: cu_glock_moon_rabbit
+
+----------------------
+Name: M4A1-S | Emphorosaur-S
+Finish Catalog: 1223
+Texture: cu_m4a1s_feeding_frenzy
+
+----------------------
+Name: Tec-9 | Rebel
+Finish Catalog: 1235
+Texture: cu_tec9_freedom
+
+----------------------
+Name: SG 553 | Cyberforce
+Finish Catalog: 1234
+Texture: cu_sg553_cyberforce
+
+----------------------
+Name: MP5-SD | Liquidation
+Finish Catalog: 1231
+Texture: cu_mp5sd_quick_liquidation
+
+----------------------
+Name: P250 | Re.built
+Finish Catalog: 1230
+Texture: cu_p250_rebuilt
+
+----------------------
+Name: SCAR-20 | Fragments
+Finish Catalog: 1226
+Texture: gs_scar_fragments_black
+
+----------------------
+Name: MP9 | Featherweight
+Finish Catalog: 1225
+Texture: cu_mp9_superlight
+
+----------------------
+Name: MAG-7 | Insomnia
+Finish Catalog: 1220
+Texture: cu_mag7_insomnia
+
+----------------------
+
+----------------------
+Name: AWP | Chromatic Aberration
+Finish Catalog: 1144
+Texture: cu_awp_chroma_pink
+
+----------------------
+Name: USP-S | Printstream
+Finish Catalog: 1142
+Texture: cu_usp_printstream
+
+----------------------
+Name: Sawed-Off | Kiss♥Love
+Finish Catalog: 1155
+Texture: cu_sawedoff_kisslove
+
+----------------------
+Name: P250 | Visions
+Finish Catalog: 1153
+Texture: gs_p250_visions
+
+----------------------
+Name: AK-47 | Ice Coaled
+Finish Catalog: 1143
+Texture: cu_ak47_cogthings
+
+----------------------
+Name: Dual Berettas | Flora Carnivora
+Finish Catalog: 1156
+Texture: cu_dual_elites_evil_flora
+
+----------------------
+Name: P90 | Vent Rush
+Finish Catalog: 1154
+Texture: gs_p90_tangled
+
+----------------------
+Name: SG 553 | Dragon Tech
+Finish Catalog: 1151
+Texture: cu_sg553_cyber_dragon
+
+----------------------
+Name: M249 | Downtown
+Finish Catalog: 1148
+Texture: cu_m249_downvote
+
+----------------------
+Name: R8 Revolver | Crazy 8
+Finish Catalog: 1145
+Texture: gs_revolver_purple_elite
+
+----------------------
+Name: Glock-18 | Winterized
+Finish Catalog: 1158
+Texture: gs_glock_elite_camo
+
+----------------------
+Name: UMP-45 | Roadblock
+Finish Catalog: 1157
+Texture: gs_ump_roadblock
+
+----------------------
+Name: Negev | Drop Me
+Finish Catalog: 1152
+Texture: cu_negev_clear_sky
+
+----------------------
+Name: MAC-10 | Monkeyflage
+Finish Catalog: 1150
+Texture: cu_mac10_monkeyflage
+
+----------------------
+Name: M4A4 | Poly Mag
+Finish Catalog: 1149
+Texture: cu_m4a4_elite_tactical
+
+----------------------
+Name: Galil AR | Destroyer
+Finish Catalog: 1147
+Texture: cu_galil_destroyer
+
+----------------------
+Name: FAMAS | Meow 36
+Finish Catalog: 1146
+Texture: gs_famas_corp_meow
+
+----------------------
+
+----------------------
+Name: MP9 | Starlight Protector
+Finish Catalog: 1134
+Texture: gs_mp9_starlight
+
+----------------------
+Name: AK-47 | Nightwish
+Finish Catalog: 1141
+Texture: cu_ak47_nightwish
+
+----------------------
+Name: MP7 | Abyssal Apparition
+Finish Catalog: 1133
+Texture: cu_mp7_fear
+
+----------------------
+Name: FAMAS | Rapid Eye Movement
+Finish Catalog: 1127
+Texture: gs_famas_rapid_eyes
+
+----------------------
+Name: Dual Berettas | Melondrama
+Finish Catalog: 1126
+Texture: cu_elites_beware
+
+----------------------
+Name: USP-S | Ticket to Hell
+Finish Catalog: 1136
+Texture: cu_usp_to_hell
+
+----------------------
+Name: XM1014 | Zombie Offensive
+Finish Catalog: 1135
+Texture: am_xm_zombie_offensive
+
+----------------------
+Name: M4A1-S | Night Terror
+Finish Catalog: 1130
+Texture: gs_m4a1s_insomnia
+
+----------------------
+Name: G3SG1 | Dream Glade
+Finish Catalog: 1129
+Texture: cu_g3sg1_glade
+
+----------------------
+Name: PP-Bizon | Space Cat
+Finish Catalog: 1125
+Texture: cu_bizon_spacecat
+
+----------------------
+Name: Sawed-Off | Spirit Board
+Finish Catalog: 1140
+Texture: cu_sawedoff_ouija
+
+----------------------
+Name: SCAR-20 | Poultrygeist
+Finish Catalog: 1139
+Texture: sp_scar_chickenfight
+
+----------------------
+Name: P2000 | Lifted Spirits
+Finish Catalog: 1138
+Texture: cu_p2k_flying_dream
+
+----------------------
+Name: MP5-SD | Necro Jr.
+Finish Catalog: 1137
+Texture: gs_mp5_kid_necronomicon
+
+----------------------
+Name: MAG-7 | Foresight
+Finish Catalog: 1132
+Texture: cu_mag7_predictor
+
+----------------------
+Name: MAC-10 | Ensnared
+Finish Catalog: 1131
+Texture: cu_mac10_pixie
+
+----------------------
+Name: Five-SeveN | Scrawl
+Finish Catalog: 1128
+Texture: cu_fiveseven_alpha_omega
+
+----------------------
+
+----------------------
+Name: Desert Eagle | Ocean Drive
+Finish Catalog: 1090
+Texture: cu_deagle_kitch
+
+----------------------
+Name: AK-47 | Leet Museo
+Finish Catalog: 1087
+Texture: gs_ak47_abstract
+
+----------------------
+Name: SSG 08 | Turbo Peek
+Finish Catalog: 1101
+Texture: cu_ssg_overtake
+
+----------------------
+Name: Glock-18 | Snack Attack
+Finish Catalog: 1100
+Texture: cu_glock_snackattack
+
+----------------------
+Name: MAC-10 | Toybox
+Finish Catalog: 1098
+Texture: cu_mac10_toybox
+
+----------------------
+Name: M4A4 | Spider Lily
+Finish Catalog: 1097
+Texture: gs_m4_flowers
+
+----------------------
+Name: MP9 | Mount Fuji
+Finish Catalog: 1094
+Texture: aa_mp9_fuji_pink
+
+----------------------
+Name: Five-SeveN | Boost Protocol
+Finish Catalog: 1093
+Texture: gs_five_seven_efusion
+
+----------------------
+Name: FAMAS | ZX Spectron
+Finish Catalog: 1092
+Texture: cu_famas_spectron
+
+----------------------
+Name: MAG-7 | BI83 Spectrum
+Finish Catalog: 1089
+Texture: gs_mag7_bismuth
+
+----------------------
+Name: XM1014 | Watchdog
+Finish Catalog: 1103
+Texture: gs_xm1014_watchdog
+
+----------------------
+Name: USP-S | Black Lotus
+Finish Catalog: 1102
+Texture: cu_usp_black_lotus
+
+----------------------
+Name: PP-Bizon | Lumen
+Finish Catalog: 1099
+Texture: gs_bizon_flasher
+
+----------------------
+Name: MP7 | Guerrilla
+Finish Catalog: 1096
+Texture: cu_mp7_khaki
+
+----------------------
+Name: G3SG1 | Keeping Tabs
+Finish Catalog: 1095
+Texture: cu_g3sg1_tacticalmap
+
+----------------------
+Name: Dual Berettas | Tread
+Finish Catalog: 1091
+Texture: gs_dual_berettas_tread
+
+----------------------
+Name: AUG | Plague
+Finish Catalog: 1088
+Texture: gs_aug_plague
+
+----------------------
+
+----------------------
+Name: M4A4 | In Living Color
+Finish Catalog: 1041
+Texture: cu_m4a4_love
+
+----------------------
+Name: USP-S | The Traitor
+Finish Catalog: 1040
+Texture: gs_usps_hangedman
+
+----------------------
+Name: Galil AR | Chromatic Aberration
+Finish Catalog: 1038
+Texture: cu_galil_chroma_pink
+
+----------------------
+Name: XM1014 | XOXO
+Finish Catalog: 1046
+Texture: aq_xm1014_punk
+
+----------------------
+Name: MP9 | Food Chain
+Finish Catalog: 1037
+Texture: cu_mp9_food_chain
+
+----------------------
+Name: AK-47 | Slate
+Finish Catalog: 1035
+Texture: gs_ak47_professional
+
+----------------------
+Name: Desert Eagle | Trigger Discipline
+Finish Catalog: 1050
+Texture: cu_deag_trigger_discipline
+
+----------------------
+Name: MAC-10 | Button Masher
+Finish Catalog: 1045
+Texture: cu_mac10_portable
+
+----------------------
+Name: Negev | dev_texture
+Finish Catalog: 1043
+Texture: cu_negev_devtexture
+
+----------------------
+Name: P250 | Cyber Shell
+Finish Catalog: 1044
+Texture: gs_p250_cybershell
+
+----------------------
+Name: Nova | Windblown
+Finish Catalog: 1051
+Texture: sp_nova_wind_dispersal
+
+----------------------
+Name: R8 Revolver | Junk Yard
+Finish Catalog: 1047
+Texture: gs_r8_rustking
+
+----------------------
+Name: UMP-45 | Oscillator
+Finish Catalog: 1049
+Texture: am_ump45_electrowave
+
+----------------------
+Name: CZ75-Auto | Circaetus
+Finish Catalog: 1036
+Texture: cu_cz75_whirlwind
+
+----------------------
+Name: M249 | O.S.I.P.R.
+Finish Catalog: 1042
+Texture: gs_m249_combine
+
+----------------------
+Name: Glock-18 | Clear Polymer
+Finish Catalog: 1039
+Texture: gs_glock_polymer
+
+----------------------
+Name: SG 553 | Heavy Metal
+Finish Catalog: 1048
+Texture: gs_sg553_deathmetal
+
+----------------------
+
+----------------------
+Name: Glock-18 | Neo-Noir
+Finish Catalog: 988
+Texture: cu_glock_noir
+
+----------------------
+Name: M4A1-S | Printstream
+Finish Catalog: 984
+Texture: cu_m4a1s_printstream
+
+----------------------
+Name: USP-S | Monster Mashup
+Finish Catalog: 991
+Texture: cu_usp_krokos
+
+----------------------
+Name: M4A4 | Cyber Security
+Finish Catalog: 985
+Texture: cu_m4a4_cyberpunk
+
+----------------------
+Name: Five-SeveN | Fairy Tale
+Finish Catalog: 979
+Texture: cu_five_seven_diary
+
+----------------------
+Name: UMP-45 | Gold Bismuth
+Finish Catalog: 990
+Texture: gs_ump_gold_bismuth
+
+----------------------
+Name: SSG 08 | Parallax
+Finish Catalog: 989
+Texture: cu_ssg08_chromatic
+
+----------------------
+Name: Nova | Clear Polymer
+Finish Catalog: 987
+Texture: cu_nova_polymer
+
+----------------------
+Name: Dual Berettas | Dezastre
+Finish Catalog: 978
+Texture: gs_dual_elites_dezastre
+
+----------------------
+Name: AWP | Exoskeleton
+Finish Catalog: 975
+Texture: gs_awp_exoskeleton
+
+----------------------
+Name: MP5-SD | Condition Zero
+Finish Catalog: 986
+Texture: gs_mp5_conditionzero
+
+----------------------
+Name: M249 | Deep Relief
+Finish Catalog: 983
+Texture: cu_m249_deep_relief
+
+----------------------
+Name: P250 | Contaminant
+Finish Catalog: 982
+Texture: cu_p250_infect
+
+----------------------
+Name: Galil AR | Vandal
+Finish Catalog: 981
+Texture: gs_galil_vandal
+
+----------------------
+Name: G3SG1 | Digital Mesh
+Finish Catalog: 980
+Texture: gs_g3sg1_disrupt
+
+----------------------
+Name: P90 | Cocoa Rampage
+Finish Catalog: 977
+Texture: hy_p90_dino_rampage
+
+----------------------
+Name: CZ75-Auto | Vendetta
+Finish Catalog: 976
+Texture: gs_cz75_vendetta
+
+----------------------
+
+----------------------
+Name: AK-47 | Legion of Anubis
+Finish Catalog: 959
+Texture: cu_ak47_anubis
+
+----------------------
+Name: Desert Eagle | Printstream
+Finish Catalog: 962
+Texture: cu_deag_printstream
+
+----------------------
+Name: XM1014 | Entombed
+Finish Catalog: 970
+Texture: cu_xm1014_amulet_blue
+
+----------------------
+Name: Glock-18 | Vogue
+Finish Catalog: 963
+Texture: cu_glock_eyecontact
+
+----------------------
+Name: M4A4 | Tooth Fairy
+Finish Catalog: 971
+Texture: cu_m4a4_queenfairy
+
+----------------------
+Name: MP5-SD | Kitbash
+Finish Catalog: 974
+Texture: gs_mp5sd_wasteland_legacy
+
+----------------------
+Name: Galil AR | Connexion
+Finish Catalog: 972
+Texture: gs_galil_phoenix
+
+----------------------
+Name: MAC-10 | Allure
+Finish Catalog: 965
+Texture: cu_mac10_isoonna
+
+----------------------
+Name: Tec-9 | Brother
+Finish Catalog: 964
+Texture: gs_tec9_guerilla
+
+----------------------
+Name: MAG-7 | Monster Call
+Finish Catalog: 961
+Texture: cu_mag7_monster_call
+
+----------------------
+Name: PP-Bizon | Runic
+Finish Catalog: 973
+Texture: gs_bizon_hellraider
+
+----------------------
+Name: P90 | Freight
+Finish Catalog: 969
+Texture: gs_p90_container
+
+----------------------
+Name: P250 | Cassette
+Finish Catalog: 968
+Texture: cu_p250_cassette
+
+----------------------
+Name: SSG 08 | Mainframe 001
+Finish Catalog: 967
+Texture: cu_ssg08_mainframe
+
+----------------------
+Name: SG 553 | Ol' Rusty
+Finish Catalog: 966
+Texture: gs_sg553_rusty
+
+----------------------
+Name: P2000 | Gnarled
+Finish Catalog: 960
+Texture: aq_p2000_lost_world
+
+----------------------
+Name: Negev | Ultralight
+Finish Catalog: 958
+Texture: cu_negev_ultralight
+
+----------------------
+
+----------------------
+Name: Glock-18 | Bullet Queen
+Finish Catalog: 957
+Texture: cu_glock18_warmaiden
+
+----------------------
+Name: M4A1-S | Player Two
+Finish Catalog: 946
+Texture: cu_m4a1s_csgo2048
+
+----------------------
+Name: MAG-7 | Justice
+Finish Catalog: 948
+Texture: gs_mag7_justice
+
+----------------------
+Name: MAC-10 | Disco Tech
+Finish Catalog: 947
+Texture: cu_mac10_nacre
+
+----------------------
+Name: AK-47 | Phantom Disruptor
+Finish Catalog: 941
+Texture: cu_ak-47_phantom_disruptor
+
+----------------------
+Name: SSG 08 | Fever Dream
+Finish Catalog: 956
+Texture: cu_ssg08_fever_dream
+
+----------------------
+Name: SG 553 | Darkwing
+Finish Catalog: 955
+Texture: cu_sg553_darkwing
+
+----------------------
+Name: SCAR-20 | Enforcer
+Finish Catalog: 954
+Texture: gs_scar20_enforcer
+
+----------------------
+Name: Sawed-Off | Apocalypto
+Finish Catalog: 953
+Texture: cu_sawedoff_apocalypto
+
+----------------------
+Name: P2000 | Acid Etched
+Finish Catalog: 951
+Texture: aq_p2000_acid_clover
+
+----------------------
+Name: R8 Revolver | Bone Forged
+Finish Catalog: 952
+Texture: gs_r8_leviathan
+
+----------------------
+Name: Negev | Prototype
+Finish Catalog: 950
+Texture: cu_negev_prototype
+
+----------------------
+Name: MP5-SD | Desert Strike
+Finish Catalog: 949
+Texture: cu_mp5_desert_strike
+
+----------------------
+Name: Desert Eagle | Blue Ply
+Finish Catalog: 945
+Texture: cu_deagle_replica
+
+----------------------
+Name: CZ75-Auto | Distressed
+Finish Catalog: 944
+Texture: cu_cz75_cerakote
+
+----------------------
+Name: AWP | Capillary
+Finish Catalog: 943
+Texture: cu_awp_vein
+
+----------------------
+Name: AUG | Tom Cat
+Finish Catalog: 942
+Texture: gs_aug_thunderstorm
+
+----------------------
+
+----------------------
+Name: FAMAS | Commemoration
+Finish Catalog: 919
+Texture: gs_famas_legacy_gold
+
+----------------------
+Name: AWP | Wildfire
+Finish Catalog: 917
+Texture: cu_awp_wildfire
+
+----------------------
+Name: AUG | Death by Puppy
+Finish Catalog: 913
+Texture: am_aug_death_by_doggy
+
+----------------------
+Name: P90 | Nostalgia
+Finish Catalog: 911
+Texture: cu_p90_nostalgia
+
+----------------------
+Name: MP9 | Hydra
+Finish Catalog: 910
+Texture: cu_mp9_hydra
+
+----------------------
+Name: UMP-45 | Plastique
+Finish Catalog: 916
+Texture: cu_ump_bomb
+
+----------------------
+Name: P250 | Inferno
+Finish Catalog: 907
+Texture: gs_p250_inferno
+
+----------------------
+Name: Five-SeveN | Buddy
+Finish Catalog: 906
+Texture: cu_fiveseven_gsg9
+
+----------------------
+Name: MP5-SD | Agent
+Finish Catalog: 915
+Texture: gs_mp5_fbi
+
+----------------------
+Name: M249 | Aztec
+Finish Catalog: 902
+Texture: aq_m249_aztec
+
+----------------------
+Name: Glock-18 | Sacrifice
+Finish Catalog: 918
+Texture: cu_glock_hero
+
+----------------------
+Name: FAMAS | Decommissioned
+Finish Catalog: 904
+Texture: cu_famas_nuke_tension
+
+----------------------
+Name: SCAR-20 | Assault
+Finish Catalog: 914
+Texture: cu_scar_assault
+
+----------------------
+Name: MAG-7 | Popdog
+Finish Catalog: 909
+Texture: gs_mag7_popdog
+
+----------------------
+Name: MAC-10 | Classic Crate
+Finish Catalog: 908
+Texture: gs_mac10_dust_crate
+
+----------------------
+Name: Tec-9 | Flash Out
+Finish Catalog: 905
+Texture: cu_tec9_flash
+
+----------------------
+Name: Dual Berettas | Elite 1.6
+Finish Catalog: 903
+Texture: gs_dual_elites_classic
+
+----------------------
+
+----------------------
+Name: MAC-10 | Stalker
+Finish Catalog: 898
+Texture: gs_mac10_stalker
+
+----------------------
+Name: AWP | Containment Breach
+Finish Catalog: 887
+Texture: cu_awp_virus
+
+----------------------
+Name: SSG 08 | Bloodshot
+Finish Catalog: 899
+Texture: cu_ssg08_tickler
+
+----------------------
+Name: SG 553 | Colony IV
+Finish Catalog: 897
+Texture: cu_sg553_reactor
+
+----------------------
+Name: Tec-9 | Decimator
+Finish Catalog: 889
+Texture: gs_tec9_decimator
+
+----------------------
+Name: P2000 | Obsidian
+Finish Catalog: 894
+Texture: cu_p2000_obsidian
+
+----------------------
+Name: MP7 | Neon Ply
+Finish Catalog: 893
+Texture: cu_mp7_replica
+
+----------------------
+Name: AUG | Arctic Wolf
+Finish Catalog: 886
+Texture: cu_aug_whitefang
+
+----------------------
+Name: AK-47 | Rat Rod
+Finish Catalog: 885
+Texture: gs_ak47_nibbler
+
+----------------------
+Name: PP-Bizon | Embargo
+Finish Catalog: 884
+Texture: cu_bizon_road_warrior
+
+----------------------
+Name: M249 | Warbird
+Finish Catalog: 900
+Texture: gs_m249_warbird_veteran
+
+----------------------
+Name: SCAR-20 | Torn
+Finish Catalog: 896
+Texture: sp_scar20_striker_dust
+
+----------------------
+Name: Dual Berettas | Balance
+Finish Catalog: 895
+Texture: gs_dual_elites_rose
+
+----------------------
+Name: R8 Revolver | Memento
+Finish Catalog: 892
+Texture: gs_r8_memento
+
+----------------------
+Name: G3SG1 | Black Sand
+Finish Catalog: 891
+Texture: cu_g3sg1_blacksand
+
+----------------------
+Name: Nova | Plume
+Finish Catalog: 890
+Texture: cu_nova_featherswing
+
+----------------------
+Name: MP5-SD | Acid Wash
+Finish Catalog: 888
+Texture: gs_mp5_etch
+
+----------------------
+
+----------------------
+Name: M4A4 | The Emperor
+Finish Catalog: 844
+Texture: gs_m4a4_emperor
+
+----------------------
+Name: Five-SeveN | Angry Mob
+Finish Catalog: 837
+Texture: cu_five_seven_angry
+
+----------------------
+Name: XM1014 | Incinegator
+Finish Catalog: 850
+Texture: cu_xm1014_incinerator
+
+----------------------
+Name: AUG | Momentum
+Finish Catalog: 845
+Texture: cu_aug_momentum
+
+----------------------
+Name: R8 Revolver | Skull Crusher
+Finish Catalog: 843
+Texture: cu_revolver_oppressor
+
+----------------------
+Name: UMP-45 | Moonrise
+Finish Catalog: 851
+Texture: aa_ump45_moonrise_sunset
+
+----------------------
+Name: MP5-SD | Gauss
+Finish Catalog: 846
+Texture: gs_mp5sd_astromatic
+
+----------------------
+Name: Desert Eagle | Light Rail
+Finish Catalog: 841
+Texture: gs_deagle_exo
+
+----------------------
+Name: Tec-9 | Bamboozle
+Finish Catalog: 839
+Texture: cu_tec9_bamboo
+
+----------------------
+Name: AWP | Atheris
+Finish Catalog: 838
+Texture: cu_awp_viper
+
+----------------------
+Name: P90 | Off World
+Finish Catalog: 849
+Texture: cu_p90_offworld
+
+----------------------
+Name: P250 | Verdigris
+Finish Catalog: 848
+Texture: aq_p250_verdigris
+
+----------------------
+Name: MP7 | Mischief
+Finish Catalog: 847
+Texture: cu_mp7_racketeer
+
+----------------------
+Name: Galil AR | Akoben
+Finish Catalog: 842
+Texture: sp_galil_akoben
+
+----------------------
+Name: MAC-10 | Whitefish
+Finish Catalog: 840
+Texture: gs_mac10_fish_bait
+
+----------------------
+Name: AK-47 | Uncharted
+Finish Catalog: 836
+Texture: cu_ak47_aztec
+
+----------------------
+Name: FAMAS | Crypsis
+Finish Catalog: 835
+Texture: sp_famas_ghost_insects
+
+----------------------
+
+----------------------
+Name: AWP | Neo-Noir
+Finish Catalog: 803
+Texture: cu_awp_neonoir
+
+----------------------
+Name: AK-47 | Asiimov
+Finish Catalog: 801
+Texture: cu_ak47_asiimov
+
+----------------------
+Name: MP5-SD | Phosphor
+Finish Catalog: 810
+Texture: gs_mp5_festival_drip
+
+----------------------
+Name: Desert Eagle | Mecha Industries
+Finish Catalog: 805
+Texture: gs_deagle_mecha
+
+----------------------
+Name: UMP-45 | Momentum
+Finish Catalog: 802
+Texture: cu_ump_arrows
+
+----------------------
+Name: USP-S | Flashback
+Finish Catalog: 817
+Texture: cu_usp_flashback
+
+----------------------
+Name: P250 | Nevermore
+Finish Catalog: 813
+Texture: aa_p250_gravediggers
+
+----------------------
+Name: MAC-10 | Pipe Down
+Finish Catalog: 812
+Texture: gs_mac10_exo_pipes
+
+----------------------
+Name: Galil AR | Signal
+Finish Catalog: 807
+Texture: hy_galil_signal_red
+
+----------------------
+Name: G3SG1 | Scavenger
+Finish Catalog: 806
+Texture: gs_g3sg1_savage
+
+----------------------
+Name: Tec-9 | Fubar
+Finish Catalog: 816
+Texture: gs_tec9_fubar
+
+----------------------
+Name: SG 553 | Danger Close
+Finish Catalog: 815
+Texture: gs_sg553_over_heated
+
+----------------------
+Name: Sawed-Off | Black Sand
+Finish Catalog: 814
+Texture: cu_sawedoff_black_sand
+
+----------------------
+Name: M4A4 | Magnesium
+Finish Catalog: 811
+Texture: gs_m4a4_chopper_ghost
+
+----------------------
+Name: Nova | Wood Fired
+Finish Catalog: 809
+Texture: gs_nova_hunter_brute
+
+----------------------
+Name: Glock-18 | Oxide Blaze
+Finish Catalog: 808
+Texture: cu_glock18_corroden
+
+----------------------
+Name: MP9 | Modest Threat
+Finish Catalog: 804
+Texture: gs_mp9_colony01
+
+----------------------
+
+----------------------
+Name: Desert Eagle | Code Red
+Finish Catalog: 711
+Texture: gs_deagle_aggressor
+
+----------------------
+Name: AK-47 | Neon Rider
+Finish Catalog: 707
+Texture: cu_ak_neon_rider
+
+----------------------
+Name: FAMAS | Eye of Athena
+Finish Catalog: 723
+Texture: cu_famas_owl_orange
+
+----------------------
+Name: Sawed-Off | Devourer
+Finish Catalog: 720
+Texture: cu_sawedoff_devourer
+
+----------------------
+Name: M4A1-S | Nightmare
+Finish Catalog: 714
+Texture: cu_m4a1s_nightmare
+
+----------------------
+Name: MP7 | Powercore
+Finish Catalog: 719
+Texture: gs_powercore_mp7
+
+----------------------
+Name: AWP | PAW
+Finish Catalog: 718
+Texture: am_awp_pawpaw
+
+----------------------
+Name: Nova | Toy Soldier
+Finish Catalog: 716
+Texture: cu_nova_toy_soldier
+
+----------------------
+Name: G3SG1 | High Seas
+Finish Catalog: 712
+Texture: gs_g3sg1_buccaneer
+
+----------------------
+Name: CZ75-Auto | Eco
+Finish Catalog: 709
+Texture: cu_cz75_eco
+
+----------------------
+Name: Tec-9 | Snek-9
+Finish Catalog: 722
+Texture: cu_tec9_snake
+
+----------------------
+Name: R8 Revolver | Survivalist
+Finish Catalog: 721
+Texture: cu_r8_survivalist
+
+----------------------
+Name: P90 | Traction
+Finish Catalog: 717
+Texture: gs_p90_tread
+
+----------------------
+Name: MP9 | Capillary
+Finish Catalog: 715
+Texture: cu_mp9_vein
+
+----------------------
+Name: Glock-18 | Warhawk
+Finish Catalog: 713
+Texture: gs_glock_thunder_dust
+
+----------------------
+Name: Dual Berettas | Shred
+Finish Catalog: 710
+Texture: sp_elites_winter_raider
+
+----------------------
+Name: AUG | Amber Slipstream
+Finish Catalog: 708
+Texture: hy_aug_torn_orange
+
+----------------------
+
+----------------------
+Name: MP7 | Bloodsport
+Finish Catalog: 696
+Texture: gs_mp7_bloodsport
+
+----------------------
+Name: M4A4 | Neo-Noir
+Finish Catalog: 695
+Texture: cu_m4a4_neo_noir
+
+----------------------
+Name: USP-S | Cortex
+Finish Catalog: 705
+Texture: cu_usp_cut
+
+----------------------
+Name: AWP | Mortis
+Finish Catalog: 691
+Texture: gs_awp_death
+
+----------------------
+Name: AUG | Stymphalian
+Finish Catalog: 690
+Texture: gs_aug_stymphalian_birds
+
+----------------------
+Name: UMP-45 | Arctic Wolf
+Finish Catalog: 704
+Texture: cu_ump45_white_fang
+
+----------------------
+Name: MAG-7 | SWAG-7
+Finish Catalog: 703
+Texture: aq_mag7_swag7
+
+----------------------
+Name: Nova | Wild Six
+Finish Catalog: 699
+Texture: gs_nova_anchorite
+
+----------------------
+Name: Negev | Lionfish
+Finish Catalog: 698
+Texture: sp_negev_lionfish
+
+----------------------
+Name: Glock-18 | Moonrise
+Finish Catalog: 694
+Texture: aa_glock_18_urban_moon_fever
+
+----------------------
+Name: XM1014 | Oxide Blaze
+Finish Catalog: 706
+Texture: cu_xm1014_oxide_blaze
+
+----------------------
+Name: SG 553 | Aloha
+Finish Catalog: 702
+Texture: sp_sg533_aloha
+
+----------------------
+Name: R8 Revolver | Grip
+Finish Catalog: 701
+Texture: gs_revolver_tread
+
+----------------------
+Name: P2000 | Urban Hazard
+Finish Catalog: 700
+Texture: cu_p2000_urban_hazard
+
+----------------------
+Name: MP9 | Black Sand
+Finish Catalog: 697
+Texture: cu_mp9_black_sand
+
+----------------------
+Name: Five-SeveN | Flame Test
+Finish Catalog: 693
+Texture: gs_fiveseven_hot_rod_violet
+
+----------------------
+Name: PP-Bizon | Night Riot
+Finish Catalog: 692
+Texture: cu_bizon_riot
+
+----------------------
+
+----------------------
+Name: P250 | See Ya Later
+Finish Catalog: 678
+Texture: cu_p250_cybercroc
+
+----------------------
+Name: AK-47 | The Empress
+Finish Catalog: 675
+Texture: gs_ak47_empress
+
+----------------------
+Name: R8 Revolver | Llama Cannon
+Finish Catalog: 683
+Texture: gs_r8_llamacannon
+
+----------------------
+Name: M4A1-S | Leaded Glass
+Finish Catalog: 681
+Texture: gs_m4a1_shatter
+
+----------------------
+Name: PP-Bizon | High Roller
+Finish Catalog: 676
+Texture: cu_bizon_all_in
+
+----------------------
+Name: XM1014 | Ziggy
+Finish Catalog: 689
+Texture: aq_xm1014_ziggy_anarchy
+
+----------------------
+Name: UMP-45 | Exposure
+Finish Catalog: 688
+Texture: cu_ump45_x-ray_machine
+
+----------------------
+Name: CZ75-Auto | Tacticat
+Finish Catalog: 687
+Texture: gs_cz75_tacticat
+
+----------------------
+Name: SG 553 | Phantom
+Finish Catalog: 686
+Texture: gs_sg553_phantom
+
+----------------------
+Name: MP9 | Goo
+Finish Catalog: 679
+Texture: cu_mp9_goo
+
+----------------------
+Name: SCAR-20 | Jungle Slipstream
+Finish Catalog: 685
+Texture: hy_scar20_jungle_slipstream
+
+----------------------
+Name: Tec-9 | Cracked Opal
+Finish Catalog: 684
+Texture: cu_tec9_cracked_opal
+
+----------------------
+Name: MAC-10 | Oceanic
+Finish Catalog: 682
+Texture: am_mac10_oceani
+
+----------------------
+Name: Glock-18 | Off World
+Finish Catalog: 680
+Texture: cu_glock_indigo
+
+----------------------
+Name: G3SG1 | Hunter
+Finish Catalog: 677
+Texture: gs_g3sg1_cetme_redux
+
+----------------------
+Name: AUG | Triqua
+Finish Catalog: 674
+Texture: cu_aug_orange_triangle
+
+----------------------
+Name: Sawed-Off | Morris
+Finish Catalog: 673
+Texture: aq_sawed-off_flower
+
+----------------------
+
+----------------------
+Name: AWP | Oni Taiji
+Finish Catalog: 662
+Texture: cu_awp_hannya
+
+----------------------
+Name: Five-SeveN | Hyper Beast
+Finish Catalog: 660
+Texture: cu_fiveseven_hyperbeast
+
+----------------------
+Name: M4A4 | Hellfire
+Finish Catalog: 664
+Texture: cu_m4a4_hellfire
+
+----------------------
+Name: Galil AR | Sugar Rush
+Finish Catalog: 661
+Texture: cu_galil_candychaos
+
+----------------------
+Name: Dual Berettas | Cobra Strike
+Finish Catalog: 658
+Texture: gs_dualberettas_cobra
+
+----------------------
+Name: SSG 08 | Death's Head
+Finish Catalog: 670
+Texture: cu_ssg08_deathshead
+
+----------------------
+Name: P90 | Death Grip
+Finish Catalog: 669
+Texture: hy_p90_barebones_blue
+
+----------------------
+Name: P250 | Red Rock
+Finish Catalog: 668
+Texture: cu_p250_axiom
+
+----------------------
+Name: P2000 | Woodsman
+Finish Catalog: 667
+Texture: cu_p2000_hunter
+
+----------------------
+Name: AK-47 | Orbit Mk01
+Finish Catalog: 656
+Texture: gs_ak_colony01_red
+
+----------------------
+Name: UMP-45 | Metal Flowers
+Finish Catalog: 672
+Texture: aq_ump45_flameflower
+
+----------------------
+Name: Tec-9 | Cut Out
+Finish Catalog: 671
+Texture: aq_tec9_chalk_pattern
+
+----------------------
+Name: MAG-7 | Hard Water
+Finish Catalog: 666
+Texture: am_mag7_caustic
+
+----------------------
+Name: MAC-10 | Aloha
+Finish Catalog: 665
+Texture: am_mac10_aloha
+
+----------------------
+Name: M4A1-S | Briefing
+Finish Catalog: 663
+Texture: cu_m4a1s_metritera
+
+----------------------
+Name: FAMAS | Macabre
+Finish Catalog: 659
+Texture: sp_famas_macabre
+
+----------------------
+Name: USP-S | Blueprint
+Finish Catalog: 657
+Texture: cu_usps_blueprint
+
+----------------------
+
+----------------------
+Name: USP-S | Neo-Noir
+Finish Catalog: 653
+Texture: cu_usps_noir
+
+----------------------
+Name: AK-47 | Bloodsport
+Finish Catalog: 639
+Texture: gs_ak47_bloodsport
+
+----------------------
+Name: M4A1-S | Decimator
+Finish Catalog: 644
+Texture: gs_m4a1_decimator
+
+----------------------
+Name: CZ75-Auto | Xiangliu
+Finish Catalog: 643
+Texture: gs_cz_snakes_purple
+
+----------------------
+Name: AWP | Fever Dream
+Finish Catalog: 640
+Texture: cu_awp_psychopath
+
+----------------------
+Name: XM1014 | Seasons
+Finish Catalog: 654
+Texture: aq_xm_leaf_fade
+
+----------------------
+Name: UMP-45 | Scaffold
+Finish Catalog: 652
+Texture: gs_ump_abyss
+
+----------------------
+Name: MAC-10 | Last Dive
+Finish Catalog: 651
+Texture: aa_mac10_the_last_dive
+
+----------------------
+Name: M249 | Emerald Poison Dart
+Finish Catalog: 648
+Texture: sp_m249_frog_original
+
+----------------------
+Name: Galil AR | Crimson Tsunami
+Finish Catalog: 647
+Texture: sp_galil_wave
+
+----------------------
+Name: Sawed-Off | Zander
+Finish Catalog: 655
+Texture: aq_sawedoff_zander2
+
+----------------------
+Name: P250 | Ripple
+Finish Catalog: 650
+Texture: am_p250_sputnik
+
+----------------------
+Name: MP7 | Akoben
+Finish Catalog: 649
+Texture: sp_mp7_tribal_yellow
+
+----------------------
+Name: Five-SeveN | Capillary
+Finish Catalog: 646
+Texture: cu_fiveseven_vein
+
+----------------------
+Name: Desert Eagle | Oxide Blaze
+Finish Catalog: 645
+Texture: cu_desert_eagle_corroden
+
+----------------------
+Name: SCAR-20 | Blueprint
+Finish Catalog: 642
+Texture: cu_blueprint_scar
+
+----------------------
+Name: PP-Bizon | Jungle Slipstream
+Finish Catalog: 641
+Texture: hy_bizon_torn_green
+
+----------------------
+
+----------------------
+Name: M4A4 | Buzz Kill
+Finish Catalog: 632
+Texture: gs_m4a4_sector
+
+----------------------
+Name: SSG 08 | Dragonfire
+Finish Catalog: 624
+Texture: cu_ssg08_dragonfire_scope
+
+----------------------
+Name: Sawed-Off | Wasteland Princess
+Finish Catalog: 638
+Texture: cu_wp_sawedoff
+
+----------------------
+Name: P90 | Shallow Grave
+Finish Catalog: 636
+Texture: gs_p90_shallow_grave
+
+----------------------
+Name: FAMAS | Mecha Industries
+Finish Catalog: 626
+Texture: gs_famas_mecha
+
+----------------------
+Name: USP-S | Cyrex
+Finish Catalog: 637
+Texture: cu_usp_cyrex
+
+----------------------
+Name: Nova | Gila
+Finish Catalog: 634
+Texture: am_nova_sand
+
+----------------------
+Name: M4A1-S | Flashback
+Finish Catalog: 631
+Texture: cu_m4a1_flashback
+
+----------------------
+Name: G3SG1 | Stinger
+Finish Catalog: 628
+Texture: gs_g3sg1_viper_yellow
+
+----------------------
+Name: Dual Berettas | Royal Consorts
+Finish Catalog: 625
+Texture: gs_dual_berettas_golden_venice
+
+----------------------
+Name: P2000 | Turf
+Finish Catalog: 635
+Texture: gs_p2000-sport
+
+----------------------
+Name: MAG-7 | Sonar
+Finish Catalog: 633
+Texture: am_mag7_malform
+
+----------------------
+Name: MP9 | Sand Scale
+Finish Catalog: 630
+Texture: aa_hide-mp9
+
+----------------------
+Name: Galil AR | Black Sand
+Finish Catalog: 629
+Texture: cu_galil_ar-camo
+
+----------------------
+Name: MP7 | Cirrus
+Finish Catalog: 627
+Texture: gs_final_pooldeadv2
+
+----------------------
+Name: Glock-18 | Ironwork
+Finish Catalog: 623
+Texture: aq_glock_dark-fall
+
+----------------------
+Name: CZ75-Auto | Polymer
+Finish Catalog: 622
+Texture: am_czv2_mf
+
+----------------------
+
+----------------------
+Name: FAMAS | Roll Cage
+Finish Catalog: 604
+Texture: gs_famas_rally
+
+----------------------
+Name: AK-47 | Neon Revolution
+Finish Catalog: 600
+Texture: cu_ak47_anarchy
+
+----------------------
+Name: Tec-9 | Fuel Injector
+Finish Catalog: 614
+Texture: gs_tec9_supercharged
+
+----------------------
+Name: MP9 | Airlock
+Finish Catalog: 609
+Texture: cu_mp9_narcis
+
+----------------------
+Name: AUG | Syd Mead
+Finish Catalog: 601
+Texture: gs_aug_syd_mead
+
+----------------------
+Name: SG 553 | Triarch
+Finish Catalog: 613
+Texture: cu_sg556_triarch
+
+----------------------
+Name: SCAR-20 | Powercore
+Finish Catalog: 612
+Texture: gs_scar20_powercore
+
+----------------------
+Name: MAG-7 | Petroglyph
+Finish Catalog: 608
+Texture: cu_mag7_tribal
+
+----------------------
+Name: Glock-18 | Weasel
+Finish Catalog: 607
+Texture: cu_glock18_weasel
+
+----------------------
+Name: Desert Eagle | Directive
+Finish Catalog: 603
+Texture: aq_desert_eagle_constable
+
+----------------------
+Name: XM1014 | Slipstream
+Finish Catalog: 616
+Texture: hy_xm1014_fractal_blue
+
+----------------------
+Name: UMP-45 | Briefing
+Finish Catalog: 615
+Texture: cu_ump45_metritera
+
+----------------------
+Name: P90 | Grim
+Finish Catalog: 611
+Texture: cu_p90_grimm
+
+----------------------
+Name: Negev | Dazzle
+Finish Catalog: 610
+Texture: hy_negev_dazzle
+
+----------------------
+Name: G3SG1 | Ventilator
+Finish Catalog: 606
+Texture: gs_g3sg1_ventilator
+
+----------------------
+Name: Five-SeveN | Scumbria
+Finish Catalog: 605
+Texture: aq_five_seven_scumbria
+
+----------------------
+Name: CZ75-Auto | Imprint
+Finish Catalog: 602
+Texture: gs_cz75_tread
+
+----------------------
+
+----------------------
+Name: M4A1-S | Mecha Industries
+Finish Catalog: 587
+Texture: gs_m4a1_mecha_industries
+
+----------------------
+Name: Glock-18 | Wasteland Rebel
+Finish Catalog: 586
+Texture: cu_glock_wasteland_rebel
+
+----------------------
+Name: SCAR-20 | Bloodsport
+Finish Catalog: 597
+Texture: gs_scar20_bloodsport
+
+----------------------
+Name: P2000 | Imperial Dragon
+Finish Catalog: 591
+Texture: gs_p2000_imperial_dragon
+
+----------------------
+Name: M4A4 | Desolate Space
+Finish Catalog: 588
+Texture: cu_m4a4_desolate_space
+
+----------------------
+Name: Sawed-Off | Limelight
+Finish Catalog: 596
+Texture: cu_sawed_off_lime
+
+----------------------
+Name: R8 Revolver | Reboot
+Finish Catalog: 595
+Texture: cu_r8_cybersport
+
+----------------------
+Name: P90 | Chopper
+Finish Catalog: 593
+Texture: gs_p90_full_throttle
+
+----------------------
+Name: AWP | Phobos
+Finish Catalog: 584
+Texture: gs_awp_phobos
+
+----------------------
+Name: AUG | Aristocrat
+Finish Catalog: 583
+Texture: gs_aug_aristocrat
+
+----------------------
+Name: Tec-9 | Ice Cap
+Finish Catalog: 599
+Texture: am_tec_9_sea_salt
+
+----------------------
+Name: SG 553 | Aerial
+Finish Catalog: 598
+Texture: cu_sg553_aerial
+
+----------------------
+Name: PP-Bizon | Harvester
+Finish Catalog: 594
+Texture: gs_pp_bizon_harvester
+
+----------------------
+Name: P250 | Iron Clad
+Finish Catalog: 592
+Texture: gs_p250_metal_panels
+
+----------------------
+Name: Nova | Exo
+Finish Catalog: 590
+Texture: aq_nova_sci_fi
+
+----------------------
+Name: MAC-10 | Carnivore
+Finish Catalog: 589
+Texture: aq_mac_10_alien_camo
+
+----------------------
+Name: Five-SeveN | Violent Daimyo
+Finish Catalog: 585
+Texture: cu_five_seven_daimyo
+
+----------------------
+
+----------------------
+Name: M4A1-S | Chantico's Fire
+Finish Catalog: 548
+Texture: cu_m4a1s_soultaker
+
+----------------------
+Name: PP-Bizon | Judgement of Anubis
+Finish Catalog: 542
+Texture: cu_bizon_Curse
+
+----------------------
+Name: UMP-45 | Primal Saber
+Finish Catalog: 556
+Texture: cu_ump45_primalsaber
+
+----------------------
+Name: P250 | Asiimov
+Finish Catalog: 551
+Texture: cu_p250_asiimov
+
+----------------------
+Name: AUG | Fleet Flock
+Finish Catalog: 541
+Texture: cu_aug_swallows
+
+----------------------
+Name: XM1014 | Black Tie
+Finish Catalog: 557
+Texture: cu_xm1014_spectrum
+
+----------------------
+Name: Tec-9 | Re-Entry
+Finish Catalog: 555
+Texture: am_tec9_redblast
+
+----------------------
+Name: SSG 08 | Ghost Crusader
+Finish Catalog: 554
+Texture: gs_ssg08_armacore
+
+----------------------
+Name: Galil AR | Firefight
+Finish Catalog: 546
+Texture: gs_galilar_incenerator
+
+----------------------
+Name: CZ75-Auto | Red Astor
+Finish Catalog: 543
+Texture: gs_cz75a_redastor
+
+----------------------
+Name: SG 553 | Atlas
+Finish Catalog: 553
+Texture: cu_sg553_atlas
+
+----------------------
+Name: Sawed-Off | Fubar
+Finish Catalog: 552
+Texture: gs_sawedoff_fubar
+
+----------------------
+Name: P2000 | Oceanic
+Finish Catalog: 550
+Texture: hy_p2000_oceani
+
+----------------------
+Name: MP9 | Bioleak
+Finish Catalog: 549
+Texture: am_mp9_bioleak
+
+----------------------
+Name: M249 | Spectre
+Finish Catalog: 547
+Texture: cu_m249_spectre
+
+----------------------
+Name: G3SG1 | Orange Crash
+Finish Catalog: 545
+Texture: sp_g3sg1_militiaorange
+
+----------------------
+Name: Dual Berettas | Ventilators
+Finish Catalog: 544
+Texture: gs_dualberettas_ventilators
+
+----------------------
+
+----------------------
+Name: M4A4 | The Battlestar
+Finish Catalog: 533
+Texture: gs_m4a4_pioneer
+
+----------------------
+Name: AK-47 | Fuel Injector
+Finish Catalog: 524
+Texture: gs_ak47_supercharged
+
+----------------------
+Name: Nova | Hyper Beast
+Finish Catalog: 537
+Texture: cu_nova_hyperbeast
+
+----------------------
+Name: Desert Eagle | Kumicho Dragon
+Finish Catalog: 527
+Texture: aq_deserteagle_kumichodragon
+
+----------------------
+Name: AWP | Elite Build
+Finish Catalog: 525
+Texture: cu_awp_mastery
+
+----------------------
+Name: MP7 | Impire
+Finish Catalog: 536
+Texture: sp_mp7_impire
+
+----------------------
+Name: MAG-7 | Praetorian
+Finish Catalog: 535
+Texture: gs_mag7_praetorian
+
+----------------------
+Name: Glock-18 | Royal Legion
+Finish Catalog: 532
+Texture: gs_glock18_award
+
+----------------------
+Name: Five-SeveN | Triumvirate
+Finish Catalog: 530
+Texture: cu_fiveseven_augmented
+
+----------------------
+Name: FAMAS | Valence
+Finish Catalog: 529
+Texture: aq_famas_contour
+
+----------------------
+Name: USP-S | Lead Conduit
+Finish Catalog: 540
+Texture: gs_usp_voltage
+
+----------------------
+Name: Tec-9 | Jambiya
+Finish Catalog: 539
+Texture: gs_tec9_jambiya
+
+----------------------
+Name: SSG 08 | Necropos
+Finish Catalog: 538
+Texture: cu_ssg08_necropos
+
+----------------------
+Name: MAC-10 | Lapis Gator
+Finish Catalog: 534
+Texture: am_mac10_electricity
+
+----------------------
+Name: Dual Berettas | Cartel
+Finish Catalog: 528
+Texture: aq_dualberettas_cartel
+
+----------------------
+Name: PP-Bizon | Photic Zone
+Finish Catalog: 526
+Texture: cu_bizon_citizen
+
+----------------------
+
+----------------------
+Name: R8 Revolver | Fade
+Finish Catalog: 522
+Texture: aa_fade_revolver
+
+----------------------
+Name: M4A4 | Royal Paladin
+Finish Catalog: 512
+Texture: gs_m4a4_royal_squire
+
+----------------------
+Name: P90 | Shapewood
+Finish Catalog: 516
+Texture: cu_p90_shapewood
+
+----------------------
+Name: G3SG1 | The Executioner
+Finish Catalog: 511
+Texture: cu_g3sg1_executioner
+
+----------------------
+Name: AK-47 | Point Disarray
+Finish Catalog: 506
+Texture: cu_ak47_point_disarray
+
+----------------------
+Name: XM1014 | Teclu Burner
+Finish Catalog: 521
+Texture: aq_xm1014_hot_rod
+
+----------------------
+Name: Tec-9 | Avalanche
+Finish Catalog: 520
+Texture: cu_tec9_avalanche
+
+----------------------
+Name: SG 553 | Tiger Moth
+Finish Catalog: 519
+Texture: gs_sg553_tiger_moth
+
+----------------------
+Name: Negev | Power Loader
+Finish Catalog: 514
+Texture: cu_negev_impact
+
+----------------------
+Name: Five-SeveN | Retrobution
+Finish Catalog: 510
+Texture: cu_fiveseven_retrobution
+
+----------------------
+Name: PP-Bizon | Fuel Rod
+Finish Catalog: 508
+Texture: cu_bizon_noxious
+
+----------------------
+Name: SCAR-20 | Outbreak
+Finish Catalog: 518
+Texture: hy_scar20_jungler
+
+----------------------
+Name: Sawed-Off | Yorick
+Finish Catalog: 517
+Texture: gs_sawedoff_necromancer
+
+----------------------
+Name: P2000 | Imperial
+Finish Catalog: 515
+Texture: am_p2000_imperial_red
+
+----------------------
+Name: Desert Eagle | Corinthian
+Finish Catalog: 509
+Texture: aq_deagle_corinthian
+
+----------------------
+Name: AUG | Ricochet
+Finish Catalog: 507
+Texture: am_aug_jumble
+
+----------------------
+Name: R8 Revolver | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+
+----------------------
+Name: USP-S | Kill Confirmed
+Finish Catalog: 504
+Texture: cu_usp_kill_confirmed
+
+----------------------
+Name: M4A1-S | Golden Coil
+Finish Catalog: 497
+Texture: gs_m4a1s_snakebite_gold
+
+----------------------
+Name: SSG 08 | Big Iron
+Finish Catalog: 503
+Texture: cu_ssg08_technicality
+
+----------------------
+Name: G3SG1 | Flux
+Finish Catalog: 493
+Texture: gs_g3sg1_flux_purple
+
+----------------------
+Name: AK-47 | Frontside Misty
+Finish Catalog: 490
+Texture: cu_ak47_winter_sport
+
+----------------------
+Name: P250 | Wingshot
+Finish Catalog: 501
+Texture: hy_p250_crackshot
+
+----------------------
+Name: MP7 | Special Delivery
+Finish Catalog: 500
+Texture: cu_mp7_classified
+
+----------------------
+Name: M249 | Nebula Crusader
+Finish Catalog: 496
+Texture: gs_m249_nebula_crusader
+
+----------------------
+Name: Galil AR | Stone Cold
+Finish Catalog: 494
+Texture: gs_galil_nightwing
+
+----------------------
+Name: XM1014 | Scumbria
+Finish Catalog: 505
+Texture: aq_xm1014_scumbria
+
+----------------------
+Name: SCAR-20 | Green Marine
+Finish Catalog: 502
+Texture: gs_scar20_peacemaker03
+
+----------------------
+Name: MAG-7 | Cobalt Core
+Finish Catalog: 499
+Texture: cu_mag7_myrcene
+
+----------------------
+Name: MAC-10 | Rangeen
+Finish Catalog: 498
+Texture: cu_mac10_alekhya_duo
+
+----------------------
+Name: Glock-18 | Wraiths
+Finish Catalog: 495
+Texture: gs_glock18_wrathys
+
+----------------------
+Name: FAMAS | Survivor Z
+Finish Catalog: 492
+Texture: cu_famas_lenta
+
+----------------------
+Name: Dual Berettas | Dualing Dragons
+Finish Catalog: 491
+Texture: cu_dualberretta_dragons
+
+----------------------
+
+----------------------
+Name: AWP | Hyper Beast
+Finish Catalog: 475
+Texture: cu_awp_hyper_beast
+
+----------------------
+Name: AK-47 | Aquamarine Revenge
+Finish Catalog: 474
+Texture: cu_ak47_courage_alt
+
+----------------------
+Name: SG 553 | Cyrex
+Finish Catalog: 487
+Texture: cu_sg553_cyrex
+
+----------------------
+Name: MP7 | Nemesis
+Finish Catalog: 481
+Texture: cu_mp7_nemsis
+
+----------------------
+Name: CZ75-Auto | Yellow Jacket
+Finish Catalog: 476
+Texture: cu_cz75a_chastizer
+
+----------------------
+Name: P2000 | Handgun
+Finish Catalog: 485
+Texture: aq_p2000_boom
+
+----------------------
+Name: Negev | Loudmouth
+Finish Catalog: 483
+Texture: cu_negev_annihilator
+
+----------------------
+Name: MP9 | Ruby Poison Dart
+Finish Catalog: 482
+Texture: am_mp9_nitrogen
+
+----------------------
+Name: M4A4 | Evil Daimyo
+Finish Catalog: 480
+Texture: cu_m4a4_evil_daimyo
+
+----------------------
+Name: FAMAS | Neural Net
+Finish Catalog: 477
+Texture: am_famas_dots
+
+----------------------
+Name: USP-S | Torque
+Finish Catalog: 489
+Texture: cu_usp_progressiv
+
+----------------------
+Name: UMP-45 | Riot
+Finish Catalog: 488
+Texture: cu_ump45_uproar
+
+----------------------
+Name: P90 | Elite Build
+Finish Catalog: 486
+Texture: cu_p90_mastery
+
+----------------------
+Name: Nova | Ranger
+Finish Catalog: 484
+Texture: cu_nova_ranger
+
+----------------------
+Name: Glock-18 | Bunsen Burner
+Finish Catalog: 479
+Texture: aq_glock18_flames_blue
+
+----------------------
+Name: Galil AR | Rocket Pop
+Finish Catalog: 478
+Texture: cu_galilar_particles
+
+----------------------
+
+----------------------
+Name: MAC-10 | Neon Rider
+Finish Catalog: 433
+Texture: cu_mac10_neonrider
+
+----------------------
+Name: M4A1-S | Hyper Beast
+Finish Catalog: 430
+Texture: cu_m4a1_hyper_beast
+
+----------------------
+Name: FAMAS | Djinn
+Finish Catalog: 429
+Texture: aq_famas_jinn
+
+----------------------
+Name: Galil AR | Eco
+Finish Catalog: 428
+Texture: cu_galil_eco
+
+----------------------
+Name: Five-SeveN | Monkey Business
+Finish Catalog: 427
+Texture: cu_fiveseven_banana
+
+----------------------
+Name: UMP-45 | Grand Prix
+Finish Catalog: 436
+Texture: am_ump_racer
+
+----------------------
+Name: CZ75-Auto | Pole Position
+Finish Catalog: 435
+Texture: cu_cz75_precision
+
+----------------------
+Name: MAG-7 | Heat
+Finish Catalog: 431
+Texture: cu_mag7_redhot
+
+----------------------
+Name: AWP | Worm God
+Finish Catalog: 424
+Texture: aq_awp_twine
+
+----------------------
+Name: Sawed-Off | Origami
+Finish Catalog: 434
+Texture: cu_sawedoff_origami
+
+----------------------
+Name: Negev | Man-o'-war
+Finish Catalog: 432
+Texture: am_negev_glory
+
+----------------------
+Name: P250 | Valence
+Finish Catalog: 426
+Texture: aq_p250_contour
+
+----------------------
+Name: Desert Eagle | Bronze Deco
+Finish Catalog: 425
+Texture: am_bronze_sparkle
+
+----------------------
+Name: MP7 | Armor Core
+Finish Catalog: 423
+Texture: aq_mp7_ultramodern
+
+----------------------
+Name: AK-47 | Elite Build
+Finish Catalog: 422
+Texture: cu_ak47_mastery
+
+----------------------
+
+----------------------
+Name: Galil AR | Chatterbox
+Finish Catalog: 398
+Texture: cu_galil_abrasion
+
+----------------------
+Name: AWP | Man-o'-war
+Finish Catalog: 395
+Texture: am_awp_glory
+
+----------------------
+Name: P250 | Muertos
+Finish Catalog: 404
+Texture: cu_p250_mandala
+
+----------------------
+Name: M4A4 | 龍王 (Dragon King)
+Finish Catalog: 400
+Texture: cu_m4a4_ancestral
+
+----------------------
+Name: AK-47 | Cartel
+Finish Catalog: 394
+Texture: aq_ak47_cartel
+
+----------------------
+Name: Sawed-Off | Serenity
+Finish Catalog: 405
+Texture: cu_sawedoff_deva
+
+----------------------
+Name: MAC-10 | Malachite
+Finish Catalog: 402
+Texture: am_mac10_malachite
+
+----------------------
+Name: Desert Eagle | Naga
+Finish Catalog: 397
+Texture: aq_deagle_naga
+
+----------------------
+Name: Dual Berettas | Urban Shock
+Finish Catalog: 396
+Texture: cu_elites_urbanstorm
+
+----------------------
+Name: XM1014 | Quicksilver
+Finish Catalog: 407
+Texture: aq_xm1014_sigla
+
+----------------------
+Name: SCAR-20 | Grotto
+Finish Catalog: 406
+Texture: aq_scar20_leak
+
+----------------------
+Name: MP9 | Deadly Poison
+Finish Catalog: 403
+Texture: cu_mp9_deadly_poison
+
+----------------------
+Name: M249 | System Lock
+Finish Catalog: 401
+Texture: cu_m249_sektor
+
+----------------------
+Name: Glock-18 | Catacombs
+Finish Catalog: 399
+Texture: cu_glock_deathtoll
+
+----------------------
+
+----------------------
+Name: P2000 | Fire Elemental
+Finish Catalog: 389
+Texture: cu_p2000_fire_elemental
+
+----------------------
+Name: AK-47 | Wasteland Rebel
+Finish Catalog: 380
+Texture: cu_tribute_ak47
+
+----------------------
+Name: XM1014 | Tranquility
+Finish Catalog: 393
+Texture: cu_xm1014_caritas
+
+----------------------
+Name: SCAR-20 | Cardiac
+Finish Catalog: 391
+Texture: cu_scar20_intervention
+
+----------------------
+Name: P250 | Cartel
+Finish Catalog: 388
+Texture: aq_p250_cartel
+
+----------------------
+Name: Sawed-Off | Highwayman
+Finish Catalog: 390
+Texture: aq_sawedoff_blackgold
+
+----------------------
+Name: M4A4 | Griffin
+Finish Catalog: 384
+Texture: cu_m4a4_griffin
+
+----------------------
+Name: M4A1-S | Basilisk
+Finish Catalog: 383
+Texture: aq_m4a1s_basilisk
+
+----------------------
+Name: Glock-18 | Grinder
+Finish Catalog: 381
+Texture: aq_glock_coiled
+
+----------------------
+Name: UMP-45 | Delusion
+Finish Catalog: 392
+Texture: sp_ump45_d-visions
+
+----------------------
+Name: Five-SeveN | Urban Hazard
+Finish Catalog: 387
+Texture: cu_fiveseven_urban_hazard
+
+----------------------
+Name: MP9 | Dart
+Finish Catalog: 386
+Texture: cu_mp9_chevron
+
+----------------------
+Name: MAG-7 | Firestarter
+Finish Catalog: 385
+Texture: sp_mag7_firebitten
+
+----------------------
+Name: G3SG1 | Murky
+Finish Catalog: 382
+Texture: am_g3sg1_murky
+
+----------------------
+
+----------------------
+Name: AK-47 | Jaguar
+Finish Catalog: 316
+Texture: cu_panther_ak47
+
+----------------------
+Name: M4A4 | Bullet Rain
+Finish Catalog: 155
+Texture: cu_bullet_rain_m4a1
+
+----------------------
+Name: P2000 | Corticera
+Finish Catalog: 184
+Texture: cu_favela_p2000
+
+----------------------
+Name: AWP | Corticera
+Finish Catalog: 181
+Texture: cu_favela_awp
+
+----------------------
+Name: Nova | Bloomstick
+Finish Catalog: 62
+Texture: cu_spring_nova
+
+----------------------
+Name: AUG | Bengal Tiger
+Finish Catalog: 9
+Texture: hy_tiger
+
+----------------------
+Name: Desert Eagle | Crimson Web
+Finish Catalog: 232
+Texture: hy_webs_darker
+
+----------------------
+Name: Glock-18 | Steel Disruption
+Finish Catalog: 230
+Texture: am_ddpatdense_silver
+
+----------------------
+Name: MP7 | Ocean Foam
+Finish Catalog: 213
+Texture: am_ossify_blue
+
+----------------------
+Name: P90 | Virus
+Finish Catalog: 20
+Texture: hy_zombie
+
+----------------------
+Name: PP-Bizon | Blue Streak
+Finish Catalog: 13
+Texture: hy_splatter
+
+----------------------
+Name: XM1014 | Red Python
+Finish Catalog: 320
+Texture: hy_snakeskin_red
+
+----------------------
+Name: Negev | Bratatat
+Finish Catalog: 317
+Texture: cu_bratatat_negev
+
+----------------------
+Name: CZ75-Auto | Hexane
+Finish Catalog: 218
+Texture: hy_bluehex
+
+----------------------
+Name: USP-S | Blood Tiger
+Finish Catalog: 217
+Texture: hy_redtiger
+
+----------------------
+Name: MAC-10 | Ultraviolet
+Finish Catalog: 98
+Texture: so_purple
+
+----------------------
+Name: SSG 08 | Dark Water
+Finish Catalog: 60
+Texture: am_zebra_dark
+
+----------------------
+
+----------------------
+Name: M4A1-S | Cyrex
+Finish Catalog: 360
+Texture: cu_m4a1s_cyrex
+
+----------------------
+Name: P90 | Asiimov
+Finish Catalog: 359
+Texture: cu_p90-asiimov
+
+----------------------
+Name: Glock-18 | Water Elemental
+Finish Catalog: 353
+Texture: cu_glock-liquescent
+
+----------------------
+Name: Five-SeveN | Fowl Play
+Finish Catalog: 352
+Texture: aq_57_feathers
+
+----------------------
+Name: Desert Eagle | Conspiracy
+Finish Catalog: 351
+Texture: cu_deagle_aureus
+
+----------------------
+Name: P250 | Supernova
+Finish Catalog: 358
+Texture: cu_bittersweet
+
+----------------------
+Name: Nova | Koi
+Finish Catalog: 356
+Texture: cu_nova_koi
+
+----------------------
+Name: CZ75-Auto | Tigris
+Finish Catalog: 350
+Texture: cu_c75a-tiger
+
+----------------------
+Name: PP-Bizon | Osiris
+Finish Catalog: 349
+Texture: cu_bizon-osiris
+
+----------------------
+Name: UMP-45 | Labyrinth
+Finish Catalog: 362
+Texture: hy_lines_orange
+
+----------------------
+Name: SSG 08 | Abyss
+Finish Catalog: 361
+Texture: aq_leviathan
+
+----------------------
+Name: P2000 | Ivory
+Finish Catalog: 357
+Texture: cu_p2000_ivory
+
+----------------------
+Name: Negev | Desert-Strike
+Finish Catalog: 355
+Texture: cu_negev_titanstorm
+
+----------------------
+Name: MP7 | Urban Hazard
+Finish Catalog: 354
+Texture: cu_mp7-commander
+
+----------------------
+
+----------------------
+Name: M4A4 | Desert-Strike
+Finish Catalog: 336
+Texture: cu_titanstorm
+
+----------------------
+Name: AK-47 | Vulcan
+Finish Catalog: 302
+Texture: cu_ak47_rubber
+
+----------------------
+Name: USP-S | Caiman
+Finish Catalog: 339
+Texture: cu_kaiman
+
+----------------------
+Name: SCAR-20 | Cyrex
+Finish Catalog: 312
+Texture: cu_scar_cyrex
+
+----------------------
+Name: M4A1-S | Atomic Alloy
+Finish Catalog: 301
+Texture: am_m4a1-s_alloy_orange
+
+----------------------
+Name: MAC-10 | Tatter
+Finish Catalog: 337
+Texture: cu_korupt
+
+----------------------
+Name: XM1014 | Heaven Guard
+Finish Catalog: 314
+Texture: cu_xm1014_heaven_guard
+
+----------------------
+Name: PP-Bizon | Antique
+Finish Catalog: 306
+Texture: cu_bizon_antique
+
+----------------------
+Name: AUG | Torque
+Finish Catalog: 305
+Texture: cu_aug_progressiv
+
+----------------------
+Name: P2000 | Pulse
+Finish Catalog: 338
+Texture: cu_p2000_pulse
+
+----------------------
+Name: P90 | Module
+Finish Catalog: 335
+Texture: an_royalbleed
+
+----------------------
+Name: CZ75-Auto | Twist
+Finish Catalog: 334
+Texture: am_gyrate
+
+----------------------
+Name: Galil AR | Kami
+Finish Catalog: 308
+Texture: hy_galil_kami
+
+----------------------
+Name: SSG 08 | Slashed
+Finish Catalog: 304
+Texture: cu_ssg08_immortal
+
+----------------------
+Name: Tec-9 | Isaac
+Finish Catalog: 303
+Texture: cu_tec9_asiimov
+
+----------------------
+
+----------------------
+Name: AUG | Chameleon
+Finish Catalog: 280
+Texture: cu_aug_chameleonaire
+
+----------------------
+Name: AWP | Asiimov
+Finish Catalog: 279
+Texture: cu_awp_asimov
+
+----------------------
+Name: Nova | Antique
+Finish Catalog: 286
+Texture: cu_nova_antique
+
+----------------------
+Name: P90 | Trigon
+Finish Catalog: 283
+Texture: cu_p90_trigon
+
+----------------------
+Name: AK-47 | Redline
+Finish Catalog: 282
+Texture: cu_ak47_cobra
+
+----------------------
+Name: USP-S | Guardian
+Finish Catalog: 290
+Texture: cu_usp_elegant
+
+----------------------
+Name: FAMAS | Sergeant
+Finish Catalog: 288
+Texture: an_famas_sgt
+
+----------------------
+Name: SG 553 | Pulse
+Finish Catalog: 287
+Texture: cu_sg553_pulse
+
+----------------------
+Name: MAC-10 | Heat
+Finish Catalog: 284
+Texture: cu_mac10_redhot
+
+----------------------
+Name: MAG-7 | Heaven Guard
+Finish Catalog: 291
+Texture: cu_mag7_heaven
+
+----------------------
+Name: Tec-9 | Sandstorm
+Finish Catalog: 289
+Texture: cu_tec9_sandstorm
+
+----------------------
+Name: Negev | Terrain
+Finish Catalog: 285
+Texture: sp_negev_turq_terrain
+
+----------------------
+Name: UMP-45 | Corporal
+Finish Catalog: 281
+Texture: cu_ump_corporal
+
+----------------------
+
+----------------------
+Name: CZ75-Auto | Victoria
+Finish Catalog: 270
+Texture: aq_etched_cz75
+
+----------------------
+Name: P250 | Undertow
+Finish Catalog: 271
+Texture: am_p250_beaded_paint
+
+----------------------
+Name: CZ75-Auto | The Fuschia Is Now
+Finish Catalog: 269
+Texture: am_fuschia
+
+----------------------
+Name: Five-SeveN | Copper Galaxy
+Finish Catalog: 274
+Texture: am_copper_flecks
+
+----------------------
+Name: Desert Eagle | Heirloom
+Finish Catalog: 273
+Texture: aq_engraved_deagle
+
+----------------------
+Name: Tec-9 | Titanium Bit
+Finish Catalog: 272
+Texture: am_fluted_tec9
+
+----------------------
+Name: CZ75-Auto | Tread Plate
+Finish Catalog: 268
+Texture: am_diamond_plate
+
+----------------------
+Name: Glock-18 | Blue Fissure
+Finish Catalog: 278
+Texture: hy_craquelure
+
+----------------------
+Name: USP-S | Stainless
+Finish Catalog: 277
+Texture: aq_usp_stainless
+
+----------------------
+Name: Dual Berettas | Panther
+Finish Catalog: 276
+Texture: so_panther
+
+----------------------
+Name: P2000 | Red FragCam
+Finish Catalog: 275
+Texture: hy_poly_camo
+
+----------------------
+Name: CZ75-Auto | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+
+----------------------
+Name: Sawed-Off | The Kraken
+Finish Catalog: 256
+Texture: cu_sawedoff_octopump
+
+----------------------
+Name: M4A4 | Asiimov
+Finish Catalog: 255
+Texture: cu_m4_asimov
+
+----------------------
+Name: AWP | Redline
+Finish Catalog: 259
+Texture: cu_awp_cobra
+
+----------------------
+Name: P250 | Mehndi
+Finish Catalog: 258
+Texture: cu_p250_refined
+
+----------------------
+Name: M4A1-S | Guardian
+Finish Catalog: 257
+Texture: cu_m4a1-s_elegant
+
+----------------------
+Name: Nova | Rising Skull
+Finish Catalog: 263
+Texture: cu_skull_nova
+
+----------------------
+Name: MP9 | Rose Iron
+Finish Catalog: 262
+Texture: am_thorny_rose_mp9
+
+----------------------
+Name: Dual Berettas | Marina
+Finish Catalog: 261
+Texture: hy_marina_sunrise
+
+----------------------
+Name: FAMAS | Pulse
+Finish Catalog: 260
+Texture: cu_famas_pulse
+
+----------------------
+Name: PP-Bizon | Cobalt Halftone
+Finish Catalog: 267
+Texture: am_turqoise_halftone
+
+----------------------
+Name: M249 | Magma
+Finish Catalog: 266
+Texture: aq_obsidian
+
+----------------------
+Name: Five-SeveN | Kami
+Finish Catalog: 265
+Texture: hy_kami
+
+----------------------
+Name: Galil AR | Sandstorm
+Finish Catalog: 264
+Texture: cu_sandstorm
+
+----------------------
+
+----------------------
+Name: M4A4 | X-Ray
+Finish Catalog: 215
+Texture: cu_xray_m4
+
+----------------------
+Name: Desert Eagle | Cobalt Disruption
+Finish Catalog: 231
+Texture: am_ddpatdense_peacock
+
+----------------------
+Name: AWP | Electric Hive
+Finish Catalog: 227
+Texture: hy_hive
+
+----------------------
+Name: FAMAS | Afterimage
+Finish Catalog: 154
+Texture: cu_broken_path_famas
+
+----------------------
+Name: P90 | Blind Spot
+Finish Catalog: 228
+Texture: hy_modspots
+
+----------------------
+Name: AK-47 | Blue Laminate
+Finish Catalog: 226
+Texture: hy_ak47lam_blue
+
+----------------------
+Name: P250 | Steel Disruption
+Finish Catalog: 230
+Texture: am_ddpatdense_silver
+
+----------------------
+Name: G3SG1 | Azure Zebra
+Finish Catalog: 229
+Texture: sp_zebracam_blue
+
+----------------------
+Name: Nova | Ghost Camo
+Finish Catalog: 225
+Texture: sp_camo_wood_blue
+
+----------------------
+Name: PP-Bizon | Water Sigil
+Finish Catalog: 224
+Texture: hy_water_crest
+
+----------------------
+Name: Five-SeveN | Nightshade
+Finish Catalog: 223
+Texture: hy_flowers
+
+----------------------
+Name: Galil AR | Blue Titanium
+Finish Catalog: 216
+Texture: an_titanium30v
+
+----------------------
+
+----------------------
+Name: SSG 08 | Blood in the Water
+Finish Catalog: 222
+Texture: cu_shark
+
+----------------------
+Name: USP-S | Serum
+Finish Catalog: 221
+Texture: am_electric_red
+
+----------------------
+Name: P90 | Cold Blooded
+Finish Catalog: 67
+Texture: am_slither_p90
+
+----------------------
+Name: Dual Berettas | Hemoglobin
+Finish Catalog: 220
+Texture: am_ossify_red
+
+----------------------
+Name: Nova | Graphite
+Finish Catalog: 214
+Texture: am_crumple
+
+----------------------
+Name: MP9 | Hypnotic
+Finish Catalog: 61
+Texture: aa_vertigo
+
+----------------------
+Name: Five-SeveN | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: SCAR-20 | Crimson Web
+Finish Catalog: 232
+Texture: hy_webs_darker
+
+----------------------
+Name: P250 | Hive
+Finish Catalog: 219
+Texture: hy_redhex
+
+----------------------
+Name: FAMAS | Hexane
+Finish Catalog: 218
+Texture: hy_bluehex
+
+----------------------
+Name: M4A1-S | Blood Tiger
+Finish Catalog: 217
+Texture: hy_redtiger
+
+----------------------
+Name: Tec-9 | Blue Titanium
+Finish Catalog: 216
+Texture: an_titanium30v
+
+----------------------
+
+----------------------
+Name: Desert Eagle | Golden Koi
+Finish Catalog: 185
+Texture: am_scales_bravo
+
+----------------------
+Name: AK-47 | Fire Serpent
+Finish Catalog: 180
+Texture: cu_fireserpent_ak47_bravo
+
+----------------------
+Name: AWP | Graphite
+Finish Catalog: 212
+Texture: am_crumple_bravo
+
+----------------------
+Name: P2000 | Ocean Foam
+Finish Catalog: 211
+Texture: am_ossify_blue_p2000_bravo
+
+----------------------
+Name: P90 | Emerald Dragon
+Finish Catalog: 182
+Texture: cu_dragon_p90_bravo
+
+----------------------
+Name: M4A1-S | Bright Water
+Finish Catalog: 189
+Texture: hy_ocean_bravo
+
+----------------------
+Name: MAC-10 | Graven
+Finish Catalog: 188
+Texture: aq_etched_mac10_bravo
+
+----------------------
+Name: M4A4 | Zirka
+Finish Catalog: 187
+Texture: sp_star_bravo
+
+----------------------
+Name: USP-S | Overgrowth
+Finish Catalog: 183
+Texture: hy_siege_bravo
+
+----------------------
+Name: G3SG1 | Demeter
+Finish Catalog: 195
+Texture: hy_bluepolygon_bravo
+
+----------------------
+Name: UMP-45 | Bone Pile
+Finish Catalog: 193
+Texture: sp_skull_diagram_bravo
+
+----------------------
+Name: Galil AR | Shattered
+Finish Catalog: 192
+Texture: hy_crumple_bravo
+
+----------------------
+Name: Nova | Tempest
+Finish Catalog: 191
+Texture: hy_seaside_bravo
+
+----------------------
+Name: Dual Berettas | Black Limba
+Finish Catalog: 190
+Texture: cu_season_elites_bravo
+
+----------------------
+Name: SG 553 | Wave Spray
+Finish Catalog: 186
+Texture: sp_spray_waves_bravo
+
+----------------------
+
+----------------------
+Name: P90 | Death by Kitty
+Finish Catalog: 156
+Texture: cu_catskulls_p90
+
+----------------------
+Name: AWP | BOOM
+Finish Catalog: 174
+Texture: hy_blam_simple
+
+----------------------
+Name: AK-47 | Red Laminate
+Finish Catalog: 14
+Texture: hy_ak47lam
+
+----------------------
+Name: P250 | Splash
+Finish Catalog: 162
+Texture: sp_splash_p250
+
+----------------------
+Name: Sawed-Off | Orange DDPAT
+Finish Catalog: 83
+Texture: hy_ddpat_orange
+
+----------------------
+Name: Galil AR | Orange DDPAT
+Finish Catalog: 83
+Texture: hy_ddpat_orange
+
+----------------------
+Name: FAMAS | Doomkitty
+Finish Catalog: 178
+Texture: hy_doomkitty
+
+----------------------
+Name: MAG-7 | Memento
+Finish Catalog: 177
+Texture: hy_icosahedron
+
+----------------------
+Name: M4A4 | Faded Zebra
+Finish Catalog: 176
+Texture: sp_zebracam_bw
+
+----------------------
+
+----------------------
+Name: AWP | Lightning Strike
+Finish Catalog: 51
+Texture: am_lightning_awp
+
+----------------------
+Name: Desert Eagle | Hypnotic
+Finish Catalog: 61
+Texture: aa_vertigo
+
+----------------------
+Name: AK-47 | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: M4A1-S | Dark Water
+Finish Catalog: 60
+Texture: am_zebra_dark
+
+----------------------
+Name: USP-S | Dark Water
+Finish Catalog: 60
+Texture: am_zebra_dark
+
+----------------------
+Name: Glock-18 | Dragon Tattoo
+Finish Catalog: 48
+Texture: am_dragon_glock
+
+----------------------
+Name: SG 553 | Ultraviolet
+Finish Catalog: 98
+Texture: so_purple
+
+----------------------
+Name: AUG | Wings
+Finish Catalog: 73
+Texture: hy_feathers_aug
+
+----------------------
+Name: MP7 | Skulls
+Finish Catalog: 11
+Texture: hy_skulls
+
+----------------------
+Name: ★ Sport Gloves | Nocts
+Finish Catalog: 10076
+Texture: sporty_jaguar
+
+----------------------
+Name: ★ Sport Gloves | Scarlet Shamagh
+Finish Catalog: 10075
+Texture: sporty_houndstooth_red
+
+----------------------
+Name: ★ Sport Gloves | Big Game
+Finish Catalog: 10074
+Texture: sporty_hunter
+
+----------------------
+Name: ★ Sport Gloves | Slingshot
+Finish Catalog: 10073
+Texture: sporty_slingshot
+
+----------------------
+Name: ★ Sport Gloves | Vice
+Finish Catalog: 10048
+Texture: sporty_blue_pink
+
+----------------------
+Name: ★ Sport Gloves | Omega
+Finish Catalog: 10047
+Texture: sporty_black_webbing_yellow
+
+----------------------
+Name: ★ Sport Gloves | Bronze Morph
+Finish Catalog: 10046
+Texture: sporty_poison_frog_red_green
+
+----------------------
+Name: ★ Sport Gloves | Amphibious
+Finish Catalog: 10045
+Texture: sporty_poison_frog_blue_white
+
+----------------------
+Name: ★ Sport Gloves | Hedge Maze
+Finish Catalog: 10038
+Texture: sporty_green
+
+----------------------
+Name: ★ Sport Gloves | Pandora's Box
+Finish Catalog: 10037
+Texture: sporty_purple
+
+----------------------
+Name: ★ Sport Gloves | Arid
+Finish Catalog: 10019
+Texture: sporty_military
+
+----------------------
+Name: ★ Sport Gloves | Superconductor
+Finish Catalog: 10018
+Texture: sporty_light_blue
+
+----------------------
+Name: ★ Specialist Gloves | Field Agent
+Finish Catalog: 10068
+Texture: specialist_fbi
+
+----------------------
+Name: ★ Specialist Gloves | Tiger Strike
+Finish Catalog: 10067
+Texture: specialist_tiger_orange
+
+----------------------
+Name: ★ Specialist Gloves | Lt. Commander
+Finish Catalog: 10066
+Texture: specialist_ricksaw_camo
+
+----------------------
+Name: ★ Specialist Gloves | Marble Fade
+Finish Catalog: 10065
+Texture: specialist_marble_fade
+
+----------------------
+Name: ★ Specialist Gloves | Mogul
+Finish Catalog: 10064
+Texture: specialist_winterhex
+
+----------------------
+Name: ★ Specialist Gloves | Fade
+Finish Catalog: 10063
+Texture: specialist_fade
+
+----------------------
+Name: ★ Specialist Gloves | Buckshot
+Finish Catalog: 10062
+Texture: specialist_forest_brown
+
+----------------------
+Name: ★ Specialist Gloves | Crimson Web
+Finish Catalog: 10061
+Texture: specialist_webs_red
+
+----------------------
+Name: ★ Specialist Gloves | Foundation
+Finish Catalog: 10035
+Texture: specialist_orange_white
+
+----------------------
+Name: ★ Specialist Gloves | Emerald Web
+Finish Catalog: 10034
+Texture: specialist_emerald_web
+
+----------------------
+Name: ★ Specialist Gloves | Crimson Kimono
+Finish Catalog: 10033
+Texture: specialist_kimono_diamonds_red
+
+----------------------
+Name: ★ Specialist Gloves | Forest DDPAT
+Finish Catalog: 10030
+Texture: specialist_ddpat_green_camo
+
+----------------------
+Name: ★ Moto Gloves | 3rd Commando Company
+Finish Catalog: 10080
+Texture: motorcycle_commando_ksk
+
+----------------------
+Name: ★ Moto Gloves | Blood Pressure
+Finish Catalog: 10079
+Texture: motorcycle_carbonfiber_red
+
+----------------------
+Name: ★ Moto Gloves | Smoke Out
+Finish Catalog: 10078
+Texture: motorcycle_smoke
+
+----------------------
+Name: ★ Moto Gloves | Finish Line
+Finish Catalog: 10077
+Texture: motorcycle_checker_flag_blue_green
+
+----------------------
+Name: ★ Moto Gloves | Polygon
+Finish Catalog: 10052
+Texture: motorcycle_trigrid_blue
+
+----------------------
+Name: ★ Moto Gloves | Transport
+Finish Catalog: 10051
+Texture: motorcycle_yellow_camo
+
+----------------------
+Name: ★ Moto Gloves | Turtle
+Finish Catalog: 10050
+Texture: motorcycle_basic_green_orange
+
+----------------------
+Name: ★ Moto Gloves | POW!
+Finish Catalog: 10049
+Texture: motorcycle_choco_boom
+
+----------------------
+Name: ★ Moto Gloves | Cool Mint
+Finish Catalog: 10028
+Texture: motorcycle_triangle_blue
+
+----------------------
+Name: ★ Moto Gloves | Boom!
+Finish Catalog: 10027
+Texture: motorcycle_mono_boom
+
+----------------------
+Name: ★ Moto Gloves | Spearmint
+Finish Catalog: 10026
+Texture: motorcycle_mint_triangle
+
+----------------------
+Name: ★ Moto Gloves | Eclipse
+Finish Catalog: 10024
+Texture: motorcycle_basic_black
+
+----------------------
+Name: ★ Hydra Gloves | Case Hardened
+Finish Catalog: 10060
+Texture: bloodhound_hydra_case_hardened
+
+----------------------
+Name: ★ Hydra Gloves | Rattler
+Finish Catalog: 10059
+Texture: bloodhound_hydra_snakeskin_brass
+
+----------------------
+Name: ★ Hydra Gloves | Mangrove
+Finish Catalog: 10058
+Texture: bloodhound_hydra_green_leather_mesh_brass
+
+----------------------
+Name: ★ Hydra Gloves | Emerald
+Finish Catalog: 10057
+Texture: bloodhound_hydra_black_green
+
+----------------------
+Name: ★ Hand Wraps | CAUTION!
+Finish Catalog: 10084
+Texture: handwrap_leathery_caution
+
+----------------------
+Name: ★ Hand Wraps | Constrictor
+Finish Catalog: 10083
+Texture: handwrap_leathery_snakeskin_orange
+
+----------------------
+Name: ★ Hand Wraps | Giraffe
+Finish Catalog: 10082
+Texture: handwrap_leathery_fabric_giraffe
+
+----------------------
+Name: ★ Hand Wraps | Desert Shamagh
+Finish Catalog: 10081
+Texture: handwrap_fabric_houndstooth_orange
+
+----------------------
+Name: ★ Hand Wraps | Arboreal
+Finish Catalog: 10056
+Texture: handwrap_leathery_fabric_green_camo
+
+----------------------
+Name: ★ Hand Wraps | Duct Tape
+Finish Catalog: 10055
+Texture: handwrap_leathery_ducttape
+
+----------------------
+Name: ★ Hand Wraps | Overprint
+Finish Catalog: 10054
+Texture: handwrap_leathery_fabric_geometric_blue
+
+----------------------
+Name: ★ Hand Wraps | Cobalt Skulls
+Finish Catalog: 10053
+Texture: handwrap_leathery_fabric_blue_skulls
+
+----------------------
+Name: ★ Hand Wraps | Badlands
+Finish Catalog: 10036
+Texture: handwrap_fabric_orange_camo
+
+----------------------
+Name: ★ Hand Wraps | Slaughter
+Finish Catalog: 10021
+Texture: handwrap_red_slaughter
+
+----------------------
+Name: ★ Hand Wraps | Spruce DDPAT
+Finish Catalog: 10010
+Texture: handwrap_camo_grey
+
+----------------------
+Name: ★ Hand Wraps | Leather
+Finish Catalog: 10009
+Texture: handwrap_leathery
+
+----------------------
+Name: ★ Driver Gloves | Black Tie
+Finish Catalog: 10072
+Texture: slick_stitched_black_white
+
+----------------------
+Name: ★ Driver Gloves | Queen Jaguar
+Finish Catalog: 10071
+Texture: slick_jaguar_yellow
+
+----------------------
+Name: ★ Driver Gloves | Snow Leopard
+Finish Catalog: 10070
+Texture: slick_jaguar_white
+
+----------------------
+Name: ★ Driver Gloves | Rezan the Red
+Finish Catalog: 10069
+Texture: slick_rezan
+
+----------------------
+Name: ★ Driver Gloves | Racing Green
+Finish Catalog: 10044
+Texture: slick_stitched_green_grey
+
+----------------------
+Name: ★ Driver Gloves | Overtake
+Finish Catalog: 10043
+Texture: slick_stitched_black_orange
+
+----------------------
+Name: ★ Driver Gloves | Imperial Plaid
+Finish Catalog: 10042
+Texture: slick_plaid_purple
+
+----------------------
+Name: ★ Driver Gloves | King Snake
+Finish Catalog: 10041
+Texture: slick_snakeskin_white
+
+----------------------
+Name: ★ Driver Gloves | Diamondback
+Finish Catalog: 10040
+Texture: slick_snakeskin_yellow
+
+----------------------
+Name: ★ Driver Gloves | Crimson Weave
+Finish Catalog: 10016
+Texture: slick_red
+
+----------------------
+Name: ★ Driver Gloves | Convoy
+Finish Catalog: 10015
+Texture: slick_military
+
+----------------------
+Name: ★ Driver Gloves | Lunar Weave
+Finish Catalog: 10013
+Texture: slick_black
+
+----------------------
+Name: ★ Broken Fang Gloves | Unhinged
+Finish Catalog: 10088
+Texture: operation10_snakeskin_black
+
+----------------------
+Name: ★ Broken Fang Gloves | Needle Point
+Finish Catalog: 10087
+Texture: operation10_floral
+
+----------------------
+Name: ★ Broken Fang Gloves | Yellow-banded
+Finish Catalog: 10086
+Texture: operation10_poison_frog_black_yellow
+
+----------------------
+Name: ★ Broken Fang Gloves | Jade
+Finish Catalog: 10085
+Texture: operation10_metalic_green
+
+----------------------
+Name: ★ Bloodhound Gloves | Guerrilla
+Finish Catalog: 10039
+Texture: bloodhound_guerrilla
+
+----------------------
+Name: ★ Bloodhound Gloves | Bronzed
+Finish Catalog: 10008
+Texture: bloodhound_metallic
+
+----------------------
+Name: ★ Bloodhound Gloves | Snakebite
+Finish Catalog: 10007
+Texture: bloodhound_snakeskin_brass
+
+----------------------
+Name: ★ Bloodhound Gloves | Charred
+Finish Catalog: 10006
+Texture: bloodhound_black_silver
+
+----------------------
+Name: ★ Bayonet | Freehand
+Finish Catalog: 580
+Texture: am_marked_up
+
+----------------------
+Name: ★ Bayonet | Bright Water
+Finish Catalog: 578
+Texture: hy_ocean_knife
+
+----------------------
+Name: ★ Bayonet | Autotronic
+Finish Catalog: 573
+Texture: gs_bayonet_autotronic
+
+----------------------
+Name: ★ Bayonet | Gamma Doppler
+Finish Catalog: 572
+Texture: am_gamma_doppler_phase4
+
+----------------------
+Name: ★ Bayonet | Gamma Doppler
+Finish Catalog: 571
+Texture: am_gamma_doppler_phase3
+
+----------------------
+Name: ★ Bayonet | Gamma Doppler
+Finish Catalog: 570
+Texture: am_gamma_doppler_phase2
+
+----------------------
+Name: ★ Bayonet | Gamma Doppler
+Finish Catalog: 569
+Texture: am_gamma_doppler_phase1
+
+----------------------
+Name: ★ Bayonet | Gamma Doppler
+Finish Catalog: 568
+Texture: am_emerald_marbleized
+
+----------------------
+Name: ★ Bayonet | Black Laminate
+Finish Catalog: 563
+Texture: cu_bayonet_stonewash
+
+----------------------
+Name: ★ Bayonet | Lore
+Finish Catalog: 558
+Texture: cu_bayonet_lore
+
+----------------------
+Name: ★ Bayonet | Doppler
+Finish Catalog: 421
+Texture: am_doppler_phase4
+
+----------------------
+Name: ★ Bayonet | Doppler
+Finish Catalog: 420
+Texture: am_doppler_phase3
+
+----------------------
+Name: ★ Bayonet | Doppler
+Finish Catalog: 419
+Texture: am_doppler_phase2
+
+----------------------
+Name: ★ Bayonet | Doppler
+Finish Catalog: 418
+Texture: am_doppler_phase1
+
+----------------------
+Name: ★ Bayonet | Doppler
+Finish Catalog: 417
+Texture: am_blackpearl_marbleized
+
+----------------------
+Name: ★ Bayonet | Doppler
+Finish Catalog: 416
+Texture: am_sapphire_marbleized
+
+----------------------
+Name: ★ Bayonet | Doppler
+Finish Catalog: 415
+Texture: am_ruby_marbleized
+
+----------------------
+Name: ★ Bayonet | Rust Coat
+Finish Catalog: 414
+Texture: aq_steel_knife
+
+----------------------
+Name: ★ Bayonet | Marble Fade
+Finish Catalog: 413
+Texture: am_marble_fade
+
+----------------------
+Name: ★ Bayonet | Damascus Steel
+Finish Catalog: 410
+Texture: aq_damascus
+
+----------------------
+Name: ★ Bayonet | Tiger Tooth
+Finish Catalog: 409
+Texture: an_tiger_orange
+
+----------------------
+Name: ★ Bayonet | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Bayonet | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Bayonet | Ultraviolet
+Finish Catalog: 98
+Texture: so_purple
+
+----------------------
+Name: ★ Bayonet | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Bayonet | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Bayonet | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Bayonet | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Bayonet | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Bayonet | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Bayonet | Night
+Finish Catalog: 40
+Texture: so_night
+
+----------------------
+Name: ★ Bayonet | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ Bayonet | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Bayonet | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Bowie Knife | Autotronic
+Finish Catalog: 1114
+Texture: gs_bowie_autotronic
+
+----------------------
+Name: ★ Bowie Knife | Black Laminate
+Finish Catalog: 1109
+Texture: gs_bowie_black_laminate
+
+----------------------
+Name: ★ Bowie Knife | Lore
+Finish Catalog: 1104
+Texture: cu_bowie_lore
+
+----------------------
+Name: ★ Bowie Knife | Freehand
+Finish Catalog: 581
+Texture: am_marked_up_90
+
+----------------------
+Name: ★ Bowie Knife | Bright Water
+Finish Catalog: 579
+Texture: hy_ocean_knife_90
+
+----------------------
+Name: ★ Bowie Knife | Gamma Doppler
+Finish Catalog: 572
+Texture: am_gamma_doppler_phase4
+
+----------------------
+Name: ★ Bowie Knife | Gamma Doppler
+Finish Catalog: 571
+Texture: am_gamma_doppler_phase3
+
+----------------------
+Name: ★ Bowie Knife | Gamma Doppler
+Finish Catalog: 570
+Texture: am_gamma_doppler_phase2
+
+----------------------
+Name: ★ Bowie Knife | Gamma Doppler
+Finish Catalog: 569
+Texture: am_gamma_doppler_phase1
+
+----------------------
+Name: ★ Bowie Knife | Gamma Doppler
+Finish Catalog: 568
+Texture: am_emerald_marbleized
+
+----------------------
+Name: ★ Bowie Knife | Doppler
+Finish Catalog: 421
+Texture: am_doppler_phase4
+
+----------------------
+Name: ★ Bowie Knife | Doppler
+Finish Catalog: 420
+Texture: am_doppler_phase3
+
+----------------------
+Name: ★ Bowie Knife | Doppler
+Finish Catalog: 419
+Texture: am_doppler_phase2
+
+----------------------
+Name: ★ Bowie Knife | Doppler
+Finish Catalog: 418
+Texture: am_doppler_phase1
+
+----------------------
+Name: ★ Bowie Knife | Doppler
+Finish Catalog: 417
+Texture: am_blackpearl_marbleized
+
+----------------------
+Name: ★ Bowie Knife | Doppler
+Finish Catalog: 416
+Texture: am_sapphire_marbleized
+
+----------------------
+Name: ★ Bowie Knife | Doppler
+Finish Catalog: 415
+Texture: am_ruby_marbleized
+
+----------------------
+Name: ★ Bowie Knife | Rust Coat
+Finish Catalog: 414
+Texture: aq_steel_knife
+
+----------------------
+Name: ★ Bowie Knife | Marble Fade
+Finish Catalog: 413
+Texture: am_marble_fade
+
+----------------------
+Name: ★ Bowie Knife | Damascus Steel
+Finish Catalog: 411
+Texture: aq_damascus_90
+
+----------------------
+Name: ★ Bowie Knife | Tiger Tooth
+Finish Catalog: 409
+Texture: an_tiger_orange
+
+----------------------
+Name: ★ Bowie Knife | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Bowie Knife | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Bowie Knife | Ultraviolet
+Finish Catalog: 98
+Texture: so_purple
+
+----------------------
+Name: ★ Bowie Knife | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Bowie Knife | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Bowie Knife | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Bowie Knife | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Bowie Knife | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Bowie Knife | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Bowie Knife | Night
+Finish Catalog: 40
+Texture: so_night
+
+----------------------
+Name: ★ Bowie Knife | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ Bowie Knife | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Bowie Knife | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Butterfly Knife | Autotronic
+Finish Catalog: 1115
+Texture: gs_butterfly_autotronic
+
+----------------------
+Name: ★ Butterfly Knife | Black Laminate
+Finish Catalog: 1110
+Texture: gs_butterfly_black_laminate
+
+----------------------
+Name: ★ Butterfly Knife | Lore
+Finish Catalog: 1105
+Texture: cu_butterfly_lore
+
+----------------------
+Name: ★ Butterfly Knife | Doppler
+Finish Catalog: 619
+Texture: am_sapphire_marbleized_b
+
+----------------------
+Name: ★ Butterfly Knife | Doppler
+Finish Catalog: 618
+Texture: am_doppler_phase2_b
+
+----------------------
+Name: ★ Butterfly Knife | Doppler
+Finish Catalog: 617
+Texture: am_blackpearl_marbleized_b
+
+----------------------
+Name: ★ Butterfly Knife | Freehand
+Finish Catalog: 581
+Texture: am_marked_up_90
+
+----------------------
+Name: ★ Butterfly Knife | Bright Water
+Finish Catalog: 579
+Texture: hy_ocean_knife_90
+
+----------------------
+Name: ★ Butterfly Knife | Gamma Doppler
+Finish Catalog: 572
+Texture: am_gamma_doppler_phase4
+
+----------------------
+Name: ★ Butterfly Knife | Gamma Doppler
+Finish Catalog: 571
+Texture: am_gamma_doppler_phase3
+
+----------------------
+Name: ★ Butterfly Knife | Gamma Doppler
+Finish Catalog: 570
+Texture: am_gamma_doppler_phase2
+
+----------------------
+Name: ★ Butterfly Knife | Gamma Doppler
+Finish Catalog: 569
+Texture: am_gamma_doppler_phase1
+
+----------------------
+Name: ★ Butterfly Knife | Gamma Doppler
+Finish Catalog: 568
+Texture: am_emerald_marbleized
+
+----------------------
+Name: ★ Butterfly Knife | Doppler
+Finish Catalog: 421
+Texture: am_doppler_phase4
+
+----------------------
+Name: ★ Butterfly Knife | Doppler
+Finish Catalog: 420
+Texture: am_doppler_phase3
+
+----------------------
+Name: ★ Butterfly Knife | Doppler
+Finish Catalog: 418
+Texture: am_doppler_phase1
+
+----------------------
+Name: ★ Butterfly Knife | Doppler
+Finish Catalog: 415
+Texture: am_ruby_marbleized
+
+----------------------
+Name: ★ Butterfly Knife | Rust Coat
+Finish Catalog: 414
+Texture: aq_steel_knife
+
+----------------------
+Name: ★ Butterfly Knife | Marble Fade
+Finish Catalog: 413
+Texture: am_marble_fade
+
+----------------------
+Name: ★ Butterfly Knife | Damascus Steel
+Finish Catalog: 411
+Texture: aq_damascus_90
+
+----------------------
+Name: ★ Butterfly Knife | Tiger Tooth
+Finish Catalog: 409
+Texture: an_tiger_orange
+
+----------------------
+Name: ★ Butterfly Knife | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Butterfly Knife | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Butterfly Knife | Ultraviolet
+Finish Catalog: 98
+Texture: so_purple
+
+----------------------
+Name: ★ Butterfly Knife | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Butterfly Knife | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Butterfly Knife | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Butterfly Knife | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Butterfly Knife | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Butterfly Knife | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Butterfly Knife | Night
+Finish Catalog: 40
+Texture: so_night
+
+----------------------
+Name: ★ Butterfly Knife | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ Butterfly Knife | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Butterfly Knife | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Classic Knife | Night Stripe
+Finish Catalog: 735
+Texture: sp_nightstripe
+
+----------------------
+Name: ★ Classic Knife | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Classic Knife | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Classic Knife | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Classic Knife | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Classic Knife | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Classic Knife | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Classic Knife | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Classic Knife | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Classic Knife | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ Classic Knife | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Classic Knife | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Falchion Knife | Autotronic
+Finish Catalog: 1116
+Texture: gs_falchion_autotronic
+
+----------------------
+Name: ★ Falchion Knife | Black Laminate
+Finish Catalog: 1111
+Texture: gs_falchion_black_laminate
+
+----------------------
+Name: ★ Falchion Knife | Lore
+Finish Catalog: 1106
+Texture: cu_falchion_lore
+
+----------------------
+Name: ★ Falchion Knife | Ultraviolet
+Finish Catalog: 621
+Texture: so_purple_falchion
+
+----------------------
+Name: ★ Falchion Knife | Freehand
+Finish Catalog: 581
+Texture: am_marked_up_90
+
+----------------------
+Name: ★ Falchion Knife | Bright Water
+Finish Catalog: 579
+Texture: hy_ocean_knife_90
+
+----------------------
+Name: ★ Falchion Knife | Gamma Doppler
+Finish Catalog: 572
+Texture: am_gamma_doppler_phase4
+
+----------------------
+Name: ★ Falchion Knife | Gamma Doppler
+Finish Catalog: 571
+Texture: am_gamma_doppler_phase3
+
+----------------------
+Name: ★ Falchion Knife | Gamma Doppler
+Finish Catalog: 570
+Texture: am_gamma_doppler_phase2
+
+----------------------
+Name: ★ Falchion Knife | Gamma Doppler
+Finish Catalog: 569
+Texture: am_gamma_doppler_phase1
+
+----------------------
+Name: ★ Falchion Knife | Gamma Doppler
+Finish Catalog: 568
+Texture: am_emerald_marbleized
+
+----------------------
+Name: ★ Falchion Knife | Doppler
+Finish Catalog: 421
+Texture: am_doppler_phase4
+
+----------------------
+Name: ★ Falchion Knife | Doppler
+Finish Catalog: 420
+Texture: am_doppler_phase3
+
+----------------------
+Name: ★ Falchion Knife | Doppler
+Finish Catalog: 419
+Texture: am_doppler_phase2
+
+----------------------
+Name: ★ Falchion Knife | Doppler
+Finish Catalog: 418
+Texture: am_doppler_phase1
+
+----------------------
+Name: ★ Falchion Knife | Doppler
+Finish Catalog: 417
+Texture: am_blackpearl_marbleized
+
+----------------------
+Name: ★ Falchion Knife | Doppler
+Finish Catalog: 416
+Texture: am_sapphire_marbleized
+
+----------------------
+Name: ★ Falchion Knife | Doppler
+Finish Catalog: 415
+Texture: am_ruby_marbleized
+
+----------------------
+Name: ★ Falchion Knife | Rust Coat
+Finish Catalog: 414
+Texture: aq_steel_knife
+
+----------------------
+Name: ★ Falchion Knife | Marble Fade
+Finish Catalog: 413
+Texture: am_marble_fade
+
+----------------------
+Name: ★ Falchion Knife | Damascus Steel
+Finish Catalog: 411
+Texture: aq_damascus_90
+
+----------------------
+Name: ★ Falchion Knife | Tiger Tooth
+Finish Catalog: 409
+Texture: an_tiger_orange
+
+----------------------
+Name: ★ Falchion Knife | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Falchion Knife | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Falchion Knife | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Falchion Knife | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Falchion Knife | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Falchion Knife | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Falchion Knife | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Falchion Knife | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Falchion Knife | Night
+Finish Catalog: 40
+Texture: so_night
+
+----------------------
+Name: ★ Falchion Knife | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ Falchion Knife | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Falchion Knife | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Flip Knife | Freehand
+Finish Catalog: 580
+Texture: am_marked_up
+
+----------------------
+Name: ★ Flip Knife | Bright Water
+Finish Catalog: 578
+Texture: hy_ocean_knife
+
+----------------------
+Name: ★ Flip Knife | Autotronic
+Finish Catalog: 574
+Texture: gs_flip_autotronic
+
+----------------------
+Name: ★ Flip Knife | Gamma Doppler
+Finish Catalog: 572
+Texture: am_gamma_doppler_phase4
+
+----------------------
+Name: ★ Flip Knife | Gamma Doppler
+Finish Catalog: 571
+Texture: am_gamma_doppler_phase3
+
+----------------------
+Name: ★ Flip Knife | Gamma Doppler
+Finish Catalog: 570
+Texture: am_gamma_doppler_phase2
+
+----------------------
+Name: ★ Flip Knife | Gamma Doppler
+Finish Catalog: 569
+Texture: am_gamma_doppler_phase1
+
+----------------------
+Name: ★ Flip Knife | Gamma Doppler
+Finish Catalog: 568
+Texture: am_emerald_marbleized
+
+----------------------
+Name: ★ Flip Knife | Black Laminate
+Finish Catalog: 564
+Texture: cu_flip_stonewash
+
+----------------------
+Name: ★ Flip Knife | Lore
+Finish Catalog: 559
+Texture: cu_flip_lore
+
+----------------------
+Name: ★ Flip Knife | Doppler
+Finish Catalog: 421
+Texture: am_doppler_phase4
+
+----------------------
+Name: ★ Flip Knife | Doppler
+Finish Catalog: 420
+Texture: am_doppler_phase3
+
+----------------------
+Name: ★ Flip Knife | Doppler
+Finish Catalog: 419
+Texture: am_doppler_phase2
+
+----------------------
+Name: ★ Flip Knife | Doppler
+Finish Catalog: 418
+Texture: am_doppler_phase1
+
+----------------------
+Name: ★ Flip Knife | Doppler
+Finish Catalog: 417
+Texture: am_blackpearl_marbleized
+
+----------------------
+Name: ★ Flip Knife | Doppler
+Finish Catalog: 416
+Texture: am_sapphire_marbleized
+
+----------------------
+Name: ★ Flip Knife | Doppler
+Finish Catalog: 415
+Texture: am_ruby_marbleized
+
+----------------------
+Name: ★ Flip Knife | Rust Coat
+Finish Catalog: 414
+Texture: aq_steel_knife
+
+----------------------
+Name: ★ Flip Knife | Marble Fade
+Finish Catalog: 413
+Texture: am_marble_fade
+
+----------------------
+Name: ★ Flip Knife | Damascus Steel
+Finish Catalog: 410
+Texture: aq_damascus
+
+----------------------
+Name: ★ Flip Knife | Tiger Tooth
+Finish Catalog: 409
+Texture: an_tiger_orange
+
+----------------------
+Name: ★ Flip Knife | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Flip Knife | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Flip Knife | Ultraviolet
+Finish Catalog: 98
+Texture: so_purple
+
+----------------------
+Name: ★ Flip Knife | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Flip Knife | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Flip Knife | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Flip Knife | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Flip Knife | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Flip Knife | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Flip Knife | Night
+Finish Catalog: 40
+Texture: so_night
+
+----------------------
+Name: ★ Flip Knife | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ Flip Knife | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Flip Knife | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Gut Knife | Freehand
+Finish Catalog: 580
+Texture: am_marked_up
+
+----------------------
+Name: ★ Gut Knife | Bright Water
+Finish Catalog: 578
+Texture: hy_ocean_knife
+
+----------------------
+Name: ★ Gut Knife | Autotronic
+Finish Catalog: 575
+Texture: gs_gut_autotronic
+
+----------------------
+Name: ★ Gut Knife | Gamma Doppler
+Finish Catalog: 572
+Texture: am_gamma_doppler_phase4
+
+----------------------
+Name: ★ Gut Knife | Gamma Doppler
+Finish Catalog: 571
+Texture: am_gamma_doppler_phase3
+
+----------------------
+Name: ★ Gut Knife | Gamma Doppler
+Finish Catalog: 570
+Texture: am_gamma_doppler_phase2
+
+----------------------
+Name: ★ Gut Knife | Gamma Doppler
+Finish Catalog: 569
+Texture: am_gamma_doppler_phase1
+
+----------------------
+Name: ★ Gut Knife | Gamma Doppler
+Finish Catalog: 568
+Texture: am_emerald_marbleized
+
+----------------------
+Name: ★ Gut Knife | Black Laminate
+Finish Catalog: 565
+Texture: cu_gut_stonewash
+
+----------------------
+Name: ★ Gut Knife | Lore
+Finish Catalog: 560
+Texture: cu_gut_lore
+
+----------------------
+Name: ★ Gut Knife | Doppler
+Finish Catalog: 421
+Texture: am_doppler_phase4
+
+----------------------
+Name: ★ Gut Knife | Doppler
+Finish Catalog: 420
+Texture: am_doppler_phase3
+
+----------------------
+Name: ★ Gut Knife | Doppler
+Finish Catalog: 419
+Texture: am_doppler_phase2
+
+----------------------
+Name: ★ Gut Knife | Doppler
+Finish Catalog: 418
+Texture: am_doppler_phase1
+
+----------------------
+Name: ★ Gut Knife | Doppler
+Finish Catalog: 417
+Texture: am_blackpearl_marbleized
+
+----------------------
+Name: ★ Gut Knife | Doppler
+Finish Catalog: 416
+Texture: am_sapphire_marbleized
+
+----------------------
+Name: ★ Gut Knife | Doppler
+Finish Catalog: 415
+Texture: am_ruby_marbleized
+
+----------------------
+Name: ★ Gut Knife | Rust Coat
+Finish Catalog: 414
+Texture: aq_steel_knife
+
+----------------------
+Name: ★ Gut Knife | Marble Fade
+Finish Catalog: 413
+Texture: am_marble_fade
+
+----------------------
+Name: ★ Gut Knife | Damascus Steel
+Finish Catalog: 410
+Texture: aq_damascus
+
+----------------------
+Name: ★ Gut Knife | Tiger Tooth
+Finish Catalog: 409
+Texture: an_tiger_orange
+
+----------------------
+Name: ★ Gut Knife | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Gut Knife | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Gut Knife | Ultraviolet
+Finish Catalog: 98
+Texture: so_purple
+
+----------------------
+Name: ★ Gut Knife | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Gut Knife | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Gut Knife | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Gut Knife | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Gut Knife | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Gut Knife | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Gut Knife | Night
+Finish Catalog: 40
+Texture: so_night
+
+----------------------
+Name: ★ Gut Knife | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ Gut Knife | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Gut Knife | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Huntsman Knife | Autotronic
+Finish Catalog: 1117
+Texture: gs_huntsman_autotronic
+
+----------------------
+Name: ★ Huntsman Knife | Black Laminate
+Finish Catalog: 1112
+Texture: gs_huntsman_black_laminate
+
+----------------------
+Name: ★ Huntsman Knife | Lore
+Finish Catalog: 1107
+Texture: cu_huntsman_lore
+
+----------------------
+Name: ★ Huntsman Knife | Ultraviolet
+Finish Catalog: 620
+Texture: cu_purple_huntsman
+
+----------------------
+Name: ★ Huntsman Knife | Freehand
+Finish Catalog: 581
+Texture: am_marked_up_90
+
+----------------------
+Name: ★ Huntsman Knife | Bright Water
+Finish Catalog: 579
+Texture: hy_ocean_knife_90
+
+----------------------
+Name: ★ Huntsman Knife | Gamma Doppler
+Finish Catalog: 572
+Texture: am_gamma_doppler_phase4
+
+----------------------
+Name: ★ Huntsman Knife | Gamma Doppler
+Finish Catalog: 571
+Texture: am_gamma_doppler_phase3
+
+----------------------
+Name: ★ Huntsman Knife | Gamma Doppler
+Finish Catalog: 570
+Texture: am_gamma_doppler_phase2
+
+----------------------
+Name: ★ Huntsman Knife | Gamma Doppler
+Finish Catalog: 569
+Texture: am_gamma_doppler_phase1
+
+----------------------
+Name: ★ Huntsman Knife | Gamma Doppler
+Finish Catalog: 568
+Texture: am_emerald_marbleized
+
+----------------------
+Name: ★ Huntsman Knife | Doppler
+Finish Catalog: 421
+Texture: am_doppler_phase4
+
+----------------------
+Name: ★ Huntsman Knife | Doppler
+Finish Catalog: 420
+Texture: am_doppler_phase3
+
+----------------------
+Name: ★ Huntsman Knife | Doppler
+Finish Catalog: 419
+Texture: am_doppler_phase2
+
+----------------------
+Name: ★ Huntsman Knife | Doppler
+Finish Catalog: 418
+Texture: am_doppler_phase1
+
+----------------------
+Name: ★ Huntsman Knife | Doppler
+Finish Catalog: 417
+Texture: am_blackpearl_marbleized
+
+----------------------
+Name: ★ Huntsman Knife | Doppler
+Finish Catalog: 416
+Texture: am_sapphire_marbleized
+
+----------------------
+Name: ★ Huntsman Knife | Doppler
+Finish Catalog: 415
+Texture: am_ruby_marbleized
+
+----------------------
+Name: ★ Huntsman Knife | Rust Coat
+Finish Catalog: 414
+Texture: aq_steel_knife
+
+----------------------
+Name: ★ Huntsman Knife | Marble Fade
+Finish Catalog: 413
+Texture: am_marble_fade
+
+----------------------
+Name: ★ Huntsman Knife | Damascus Steel
+Finish Catalog: 411
+Texture: aq_damascus_90
+
+----------------------
+Name: ★ Huntsman Knife | Tiger Tooth
+Finish Catalog: 409
+Texture: an_tiger_orange
+
+----------------------
+Name: ★ Huntsman Knife | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Huntsman Knife | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Huntsman Knife | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Huntsman Knife | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Huntsman Knife | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Huntsman Knife | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Huntsman Knife | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Huntsman Knife | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Huntsman Knife | Night
+Finish Catalog: 40
+Texture: so_night
+
+----------------------
+Name: ★ Huntsman Knife | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ Huntsman Knife | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Huntsman Knife | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Karambit | Freehand
+Finish Catalog: 582
+Texture: am_marked_up_fine
+
+----------------------
+Name: ★ Karambit | Bright Water
+Finish Catalog: 578
+Texture: hy_ocean_knife
+
+----------------------
+Name: ★ Karambit | Autotronic
+Finish Catalog: 576
+Texture: gs_karam_autotronic
+
+----------------------
+Name: ★ Karambit | Gamma Doppler
+Finish Catalog: 572
+Texture: am_gamma_doppler_phase4
+
+----------------------
+Name: ★ Karambit | Gamma Doppler
+Finish Catalog: 571
+Texture: am_gamma_doppler_phase3
+
+----------------------
+Name: ★ Karambit | Gamma Doppler
+Finish Catalog: 570
+Texture: am_gamma_doppler_phase2
+
+----------------------
+Name: ★ Karambit | Gamma Doppler
+Finish Catalog: 569
+Texture: am_gamma_doppler_phase1
+
+----------------------
+Name: ★ Karambit | Gamma Doppler
+Finish Catalog: 568
+Texture: am_emerald_marbleized
+
+----------------------
+Name: ★ Karambit | Black Laminate
+Finish Catalog: 566
+Texture: cu_karam_stonewash
+
+----------------------
+Name: ★ Karambit | Lore
+Finish Catalog: 561
+Texture: cu_karam_lore
+
+----------------------
+Name: ★ Karambit | Doppler
+Finish Catalog: 421
+Texture: am_doppler_phase4
+
+----------------------
+Name: ★ Karambit | Doppler
+Finish Catalog: 420
+Texture: am_doppler_phase3
+
+----------------------
+Name: ★ Karambit | Doppler
+Finish Catalog: 419
+Texture: am_doppler_phase2
+
+----------------------
+Name: ★ Karambit | Doppler
+Finish Catalog: 418
+Texture: am_doppler_phase1
+
+----------------------
+Name: ★ Karambit | Doppler
+Finish Catalog: 417
+Texture: am_blackpearl_marbleized
+
+----------------------
+Name: ★ Karambit | Doppler
+Finish Catalog: 416
+Texture: am_sapphire_marbleized
+
+----------------------
+Name: ★ Karambit | Doppler
+Finish Catalog: 415
+Texture: am_ruby_marbleized
+
+----------------------
+Name: ★ Karambit | Rust Coat
+Finish Catalog: 414
+Texture: aq_steel_knife
+
+----------------------
+Name: ★ Karambit | Marble Fade
+Finish Catalog: 413
+Texture: am_marble_fade
+
+----------------------
+Name: ★ Karambit | Damascus Steel
+Finish Catalog: 410
+Texture: aq_damascus
+
+----------------------
+Name: ★ Karambit | Tiger Tooth
+Finish Catalog: 409
+Texture: an_tiger_orange
+
+----------------------
+Name: ★ Karambit | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Karambit | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Karambit | Ultraviolet
+Finish Catalog: 98
+Texture: so_purple
+
+----------------------
+Name: ★ Karambit | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Karambit | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Karambit | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Karambit | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Karambit | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Karambit | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Karambit | Night
+Finish Catalog: 40
+Texture: so_night
+
+----------------------
+Name: ★ Karambit | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ Karambit | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Karambit | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Kukri Knife | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Kukri Knife | Night Stripe
+Finish Catalog: 735
+Texture: sp_nightstripe
+
+----------------------
+Name: ★ Kukri Knife | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Kukri Knife | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Kukri Knife | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Kukri Knife | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Kukri Knife | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Kukri Knife | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Kukri Knife | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Kukri Knife | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Kukri Knife | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Kukri Knife | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ M9 Bayonet | Freehand
+Finish Catalog: 581
+Texture: am_marked_up_90
+
+----------------------
+Name: ★ M9 Bayonet | Bright Water
+Finish Catalog: 579
+Texture: hy_ocean_knife_90
+
+----------------------
+Name: ★ M9 Bayonet | Autotronic
+Finish Catalog: 577
+Texture: gs_m9_bay_autotronic
+
+----------------------
+Name: ★ M9 Bayonet | Gamma Doppler
+Finish Catalog: 572
+Texture: am_gamma_doppler_phase4
+
+----------------------
+Name: ★ M9 Bayonet | Gamma Doppler
+Finish Catalog: 571
+Texture: am_gamma_doppler_phase3
+
+----------------------
+Name: ★ M9 Bayonet | Gamma Doppler
+Finish Catalog: 570
+Texture: am_gamma_doppler_phase2
+
+----------------------
+Name: ★ M9 Bayonet | Gamma Doppler
+Finish Catalog: 569
+Texture: am_gamma_doppler_phase1
+
+----------------------
+Name: ★ M9 Bayonet | Gamma Doppler
+Finish Catalog: 568
+Texture: am_emerald_marbleized
+
+----------------------
+Name: ★ M9 Bayonet | Black Laminate
+Finish Catalog: 567
+Texture: cu_m9_bay_stonewash
+
+----------------------
+Name: ★ M9 Bayonet | Lore
+Finish Catalog: 562
+Texture: cu_m9_bay_lore
+
+----------------------
+Name: ★ M9 Bayonet | Doppler
+Finish Catalog: 421
+Texture: am_doppler_phase4
+
+----------------------
+Name: ★ M9 Bayonet | Doppler
+Finish Catalog: 420
+Texture: am_doppler_phase3
+
+----------------------
+Name: ★ M9 Bayonet | Doppler
+Finish Catalog: 419
+Texture: am_doppler_phase2
+
+----------------------
+Name: ★ M9 Bayonet | Doppler
+Finish Catalog: 418
+Texture: am_doppler_phase1
+
+----------------------
+Name: ★ M9 Bayonet | Doppler
+Finish Catalog: 417
+Texture: am_blackpearl_marbleized
+
+----------------------
+Name: ★ M9 Bayonet | Doppler
+Finish Catalog: 416
+Texture: am_sapphire_marbleized
+
+----------------------
+Name: ★ M9 Bayonet | Doppler
+Finish Catalog: 415
+Texture: am_ruby_marbleized
+
+----------------------
+Name: ★ M9 Bayonet | Rust Coat
+Finish Catalog: 414
+Texture: aq_steel_knife
+
+----------------------
+Name: ★ M9 Bayonet | Marble Fade
+Finish Catalog: 413
+Texture: am_marble_fade
+
+----------------------
+Name: ★ M9 Bayonet | Damascus Steel
+Finish Catalog: 411
+Texture: aq_damascus_90
+
+----------------------
+Name: ★ M9 Bayonet | Tiger Tooth
+Finish Catalog: 409
+Texture: an_tiger_orange
+
+----------------------
+Name: ★ M9 Bayonet | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ M9 Bayonet | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ M9 Bayonet | Ultraviolet
+Finish Catalog: 98
+Texture: so_purple
+
+----------------------
+Name: ★ M9 Bayonet | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ M9 Bayonet | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ M9 Bayonet | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ M9 Bayonet | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ M9 Bayonet | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ M9 Bayonet | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ M9 Bayonet | Night
+Finish Catalog: 40
+Texture: so_night
+
+----------------------
+Name: ★ M9 Bayonet | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ M9 Bayonet | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ M9 Bayonet | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Navaja Knife | Damascus Steel
+Finish Catalog: 857
+Texture: aq_damascus_prisma
+
+----------------------
+Name: ★ Navaja Knife | Night Stripe
+Finish Catalog: 735
+Texture: sp_nightstripe
+
+----------------------
+Name: ★ Navaja Knife | Doppler
+Finish Catalog: 421
+Texture: am_doppler_phase4
+
+----------------------
+Name: ★ Navaja Knife | Doppler
+Finish Catalog: 420
+Texture: am_doppler_phase3
+
+----------------------
+Name: ★ Navaja Knife | Doppler
+Finish Catalog: 419
+Texture: am_doppler_phase2
+
+----------------------
+Name: ★ Navaja Knife | Doppler
+Finish Catalog: 418
+Texture: am_doppler_phase1
+
+----------------------
+Name: ★ Navaja Knife | Doppler
+Finish Catalog: 417
+Texture: am_blackpearl_marbleized
+
+----------------------
+Name: ★ Navaja Knife | Doppler
+Finish Catalog: 416
+Texture: am_sapphire_marbleized
+
+----------------------
+Name: ★ Navaja Knife | Doppler
+Finish Catalog: 415
+Texture: am_ruby_marbleized
+
+----------------------
+Name: ★ Navaja Knife | Rust Coat
+Finish Catalog: 414
+Texture: aq_steel_knife
+
+----------------------
+Name: ★ Navaja Knife | Marble Fade
+Finish Catalog: 413
+Texture: am_marble_fade
+
+----------------------
+Name: ★ Navaja Knife | Tiger Tooth
+Finish Catalog: 409
+Texture: an_tiger_orange
+
+----------------------
+Name: ★ Navaja Knife | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Navaja Knife | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Navaja Knife | Ultraviolet
+Finish Catalog: 98
+Texture: so_purple
+
+----------------------
+Name: ★ Navaja Knife | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Navaja Knife | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Navaja Knife | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Navaja Knife | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Navaja Knife | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Navaja Knife | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Navaja Knife | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ Navaja Knife | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Navaja Knife | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Nomad Knife | Ultraviolet
+Finish Catalog: 98
+Texture: so_purple
+
+----------------------
+Name: ★ Nomad Knife | Rust Coat
+Finish Catalog: 414
+Texture: aq_steel_knife
+
+----------------------
+Name: ★ Nomad Knife | Damascus Steel
+Finish Catalog: 410
+Texture: aq_damascus
+
+----------------------
+Name: ★ Nomad Knife | Tiger Tooth
+Finish Catalog: 409
+Texture: an_tiger_orange
+
+----------------------
+Name: ★ Nomad Knife | Doppler
+Finish Catalog: 416
+Texture: am_sapphire_marbleized
+
+----------------------
+Name: ★ Nomad Knife | Doppler
+Finish Catalog: 415
+Texture: am_ruby_marbleized
+
+----------------------
+Name: ★ Nomad Knife | Marble Fade
+Finish Catalog: 413
+Texture: am_marble_fade
+
+----------------------
+Name: ★ Nomad Knife | Doppler
+Finish Catalog: 421
+Texture: am_doppler_phase4
+
+----------------------
+Name: ★ Nomad Knife | Doppler
+Finish Catalog: 420
+Texture: am_doppler_phase3
+
+----------------------
+Name: ★ Nomad Knife | Doppler
+Finish Catalog: 419
+Texture: am_doppler_phase2
+
+----------------------
+Name: ★ Nomad Knife | Doppler
+Finish Catalog: 418
+Texture: am_doppler_phase1
+
+----------------------
+Name: ★ Nomad Knife | Doppler
+Finish Catalog: 417
+Texture: am_blackpearl_marbleized
+
+----------------------
+Name: ★ Nomad Knife | Night Stripe
+Finish Catalog: 735
+Texture: sp_nightstripe
+
+----------------------
+Name: ★ Nomad Knife | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Nomad Knife | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Nomad Knife | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Nomad Knife | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Nomad Knife | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Nomad Knife | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Nomad Knife | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Nomad Knife | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Nomad Knife | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ Nomad Knife | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Nomad Knife | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Paracord Knife | Ultraviolet
+Finish Catalog: 621
+Texture: so_purple_falchion
+
+----------------------
+Name: ★ Paracord Knife | Rust Coat
+Finish Catalog: 414
+Texture: aq_steel_knife
+
+----------------------
+Name: ★ Paracord Knife | Damascus Steel
+Finish Catalog: 410
+Texture: aq_damascus
+
+----------------------
+Name: ★ Paracord Knife | Tiger Tooth
+Finish Catalog: 409
+Texture: an_tiger_orange
+
+----------------------
+Name: ★ Paracord Knife | Doppler
+Finish Catalog: 416
+Texture: am_sapphire_marbleized
+
+----------------------
+Name: ★ Paracord Knife | Doppler
+Finish Catalog: 415
+Texture: am_ruby_marbleized
+
+----------------------
+Name: ★ Paracord Knife | Marble Fade
+Finish Catalog: 413
+Texture: am_marble_fade
+
+----------------------
+Name: ★ Paracord Knife | Doppler
+Finish Catalog: 421
+Texture: am_doppler_phase4
+
+----------------------
+Name: ★ Paracord Knife | Doppler
+Finish Catalog: 420
+Texture: am_doppler_phase3
+
+----------------------
+Name: ★ Paracord Knife | Doppler
+Finish Catalog: 419
+Texture: am_doppler_phase2
+
+----------------------
+Name: ★ Paracord Knife | Doppler
+Finish Catalog: 418
+Texture: am_doppler_phase1
+
+----------------------
+Name: ★ Paracord Knife | Doppler
+Finish Catalog: 417
+Texture: am_blackpearl_marbleized
+
+----------------------
+Name: ★ Paracord Knife | Night Stripe
+Finish Catalog: 735
+Texture: sp_nightstripe
+
+----------------------
+Name: ★ Paracord Knife | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Paracord Knife | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Paracord Knife | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Paracord Knife | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Paracord Knife | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Paracord Knife | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Paracord Knife | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Paracord Knife | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Paracord Knife | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ Paracord Knife | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Paracord Knife | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Shadow Daggers | Autotronic
+Finish Catalog: 1118
+Texture: gs_push_autotronic
+
+----------------------
+Name: ★ Shadow Daggers | Black Laminate
+Finish Catalog: 1113
+Texture: gs_push_black_laminate
+
+----------------------
+Name: ★ Shadow Daggers | Lore
+Finish Catalog: 1108
+Texture: cu_push_lore
+
+----------------------
+Name: ★ Shadow Daggers | Doppler
+Finish Catalog: 619
+Texture: am_sapphire_marbleized_b
+
+----------------------
+Name: ★ Shadow Daggers | Doppler
+Finish Catalog: 618
+Texture: am_doppler_phase2_b
+
+----------------------
+Name: ★ Shadow Daggers | Doppler
+Finish Catalog: 617
+Texture: am_blackpearl_marbleized_b
+
+----------------------
+Name: ★ Shadow Daggers | Freehand
+Finish Catalog: 581
+Texture: am_marked_up_90
+
+----------------------
+Name: ★ Shadow Daggers | Bright Water
+Finish Catalog: 579
+Texture: hy_ocean_knife_90
+
+----------------------
+Name: ★ Shadow Daggers | Gamma Doppler
+Finish Catalog: 572
+Texture: am_gamma_doppler_phase4
+
+----------------------
+Name: ★ Shadow Daggers | Gamma Doppler
+Finish Catalog: 571
+Texture: am_gamma_doppler_phase3
+
+----------------------
+Name: ★ Shadow Daggers | Gamma Doppler
+Finish Catalog: 570
+Texture: am_gamma_doppler_phase2
+
+----------------------
+Name: ★ Shadow Daggers | Gamma Doppler
+Finish Catalog: 569
+Texture: am_gamma_doppler_phase1
+
+----------------------
+Name: ★ Shadow Daggers | Gamma Doppler
+Finish Catalog: 568
+Texture: am_emerald_marbleized
+
+----------------------
+Name: ★ Shadow Daggers | Doppler
+Finish Catalog: 421
+Texture: am_doppler_phase4
+
+----------------------
+Name: ★ Shadow Daggers | Doppler
+Finish Catalog: 420
+Texture: am_doppler_phase3
+
+----------------------
+Name: ★ Shadow Daggers | Doppler
+Finish Catalog: 418
+Texture: am_doppler_phase1
+
+----------------------
+Name: ★ Shadow Daggers | Doppler
+Finish Catalog: 415
+Texture: am_ruby_marbleized
+
+----------------------
+Name: ★ Shadow Daggers | Rust Coat
+Finish Catalog: 414
+Texture: aq_steel_knife
+
+----------------------
+Name: ★ Shadow Daggers | Marble Fade
+Finish Catalog: 413
+Texture: am_marble_fade
+
+----------------------
+Name: ★ Shadow Daggers | Damascus Steel
+Finish Catalog: 411
+Texture: aq_damascus_90
+
+----------------------
+Name: ★ Shadow Daggers | Tiger Tooth
+Finish Catalog: 409
+Texture: an_tiger_orange
+
+----------------------
+Name: ★ Shadow Daggers | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Shadow Daggers | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Shadow Daggers | Ultraviolet
+Finish Catalog: 98
+Texture: so_purple
+
+----------------------
+Name: ★ Shadow Daggers | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Shadow Daggers | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Shadow Daggers | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Shadow Daggers | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Shadow Daggers | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Shadow Daggers | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Shadow Daggers | Night
+Finish Catalog: 40
+Texture: so_night
+
+----------------------
+Name: ★ Shadow Daggers | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ Shadow Daggers | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Shadow Daggers | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Skeleton Knife | Ultraviolet
+Finish Catalog: 98
+Texture: so_purple
+
+----------------------
+Name: ★ Skeleton Knife | Rust Coat
+Finish Catalog: 414
+Texture: aq_steel_knife
+
+----------------------
+Name: ★ Skeleton Knife | Damascus Steel
+Finish Catalog: 410
+Texture: aq_damascus
+
+----------------------
+Name: ★ Skeleton Knife | Tiger Tooth
+Finish Catalog: 409
+Texture: an_tiger_orange
+
+----------------------
+Name: ★ Skeleton Knife | Doppler
+Finish Catalog: 416
+Texture: am_sapphire_marbleized
+
+----------------------
+Name: ★ Skeleton Knife | Doppler
+Finish Catalog: 415
+Texture: am_ruby_marbleized
+
+----------------------
+Name: ★ Skeleton Knife | Marble Fade
+Finish Catalog: 413
+Texture: am_marble_fade
+
+----------------------
+Name: ★ Skeleton Knife | Doppler
+Finish Catalog: 421
+Texture: am_doppler_phase4
+
+----------------------
+Name: ★ Skeleton Knife | Doppler
+Finish Catalog: 420
+Texture: am_doppler_phase3
+
+----------------------
+Name: ★ Skeleton Knife | Doppler
+Finish Catalog: 419
+Texture: am_doppler_phase2
+
+----------------------
+Name: ★ Skeleton Knife | Doppler
+Finish Catalog: 418
+Texture: am_doppler_phase1
+
+----------------------
+Name: ★ Skeleton Knife | Doppler
+Finish Catalog: 417
+Texture: am_blackpearl_marbleized
+
+----------------------
+Name: ★ Skeleton Knife | Night Stripe
+Finish Catalog: 735
+Texture: sp_nightstripe
+
+----------------------
+Name: ★ Skeleton Knife | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Skeleton Knife | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Skeleton Knife | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Skeleton Knife | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Skeleton Knife | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Skeleton Knife | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Skeleton Knife | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Skeleton Knife | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Skeleton Knife | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ Skeleton Knife | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Skeleton Knife | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Stiletto Knife | Damascus Steel
+Finish Catalog: 857
+Texture: aq_damascus_prisma
+
+----------------------
+Name: ★ Stiletto Knife | Night Stripe
+Finish Catalog: 735
+Texture: sp_nightstripe
+
+----------------------
+Name: ★ Stiletto Knife | Doppler
+Finish Catalog: 421
+Texture: am_doppler_phase4
+
+----------------------
+Name: ★ Stiletto Knife | Doppler
+Finish Catalog: 420
+Texture: am_doppler_phase3
+
+----------------------
+Name: ★ Stiletto Knife | Doppler
+Finish Catalog: 419
+Texture: am_doppler_phase2
+
+----------------------
+Name: ★ Stiletto Knife | Doppler
+Finish Catalog: 418
+Texture: am_doppler_phase1
+
+----------------------
+Name: ★ Stiletto Knife | Doppler
+Finish Catalog: 417
+Texture: am_blackpearl_marbleized
+
+----------------------
+Name: ★ Stiletto Knife | Doppler
+Finish Catalog: 416
+Texture: am_sapphire_marbleized
+
+----------------------
+Name: ★ Stiletto Knife | Doppler
+Finish Catalog: 415
+Texture: am_ruby_marbleized
+
+----------------------
+Name: ★ Stiletto Knife | Rust Coat
+Finish Catalog: 414
+Texture: aq_steel_knife
+
+----------------------
+Name: ★ Stiletto Knife | Marble Fade
+Finish Catalog: 413
+Texture: am_marble_fade
+
+----------------------
+Name: ★ Stiletto Knife | Tiger Tooth
+Finish Catalog: 409
+Texture: an_tiger_orange
+
+----------------------
+Name: ★ Stiletto Knife | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Stiletto Knife | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Stiletto Knife | Ultraviolet
+Finish Catalog: 98
+Texture: so_purple
+
+----------------------
+Name: ★ Stiletto Knife | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Stiletto Knife | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Stiletto Knife | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Stiletto Knife | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Stiletto Knife | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Stiletto Knife | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Stiletto Knife | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ Stiletto Knife | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Stiletto Knife | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Survival Knife | Ultraviolet
+Finish Catalog: 98
+Texture: so_purple
+
+----------------------
+Name: ★ Survival Knife | Rust Coat
+Finish Catalog: 414
+Texture: aq_steel_knife
+
+----------------------
+Name: ★ Survival Knife | Damascus Steel
+Finish Catalog: 410
+Texture: aq_damascus
+
+----------------------
+Name: ★ Survival Knife | Tiger Tooth
+Finish Catalog: 409
+Texture: an_tiger_orange
+
+----------------------
+Name: ★ Survival Knife | Doppler
+Finish Catalog: 416
+Texture: am_sapphire_marbleized
+
+----------------------
+Name: ★ Survival Knife | Doppler
+Finish Catalog: 415
+Texture: am_ruby_marbleized
+
+----------------------
+Name: ★ Survival Knife | Marble Fade
+Finish Catalog: 413
+Texture: am_marble_fade
+
+----------------------
+Name: ★ Survival Knife | Doppler
+Finish Catalog: 421
+Texture: am_doppler_phase4
+
+----------------------
+Name: ★ Survival Knife | Doppler
+Finish Catalog: 420
+Texture: am_doppler_phase3
+
+----------------------
+Name: ★ Survival Knife | Doppler
+Finish Catalog: 419
+Texture: am_doppler_phase2
+
+----------------------
+Name: ★ Survival Knife | Doppler
+Finish Catalog: 418
+Texture: am_doppler_phase1
+
+----------------------
+Name: ★ Survival Knife | Doppler
+Finish Catalog: 417
+Texture: am_blackpearl_marbleized
+
+----------------------
+Name: ★ Survival Knife | Night Stripe
+Finish Catalog: 735
+Texture: sp_nightstripe
+
+----------------------
+Name: ★ Survival Knife | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Survival Knife | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Survival Knife | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Survival Knife | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Survival Knife | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Survival Knife | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Survival Knife | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Survival Knife | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Survival Knife | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ Survival Knife | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Survival Knife | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Talon Knife | Damascus Steel
+Finish Catalog: 858
+Texture: aq_damascus_widow
+
+----------------------
+Name: ★ Talon Knife | Marble Fade
+Finish Catalog: 856
+Texture: am_marble_fade_widow
+
+----------------------
+Name: ★ Talon Knife | Doppler
+Finish Catalog: 855
+Texture: am_doppler_phase4_widow
+
+----------------------
+Name: ★ Talon Knife | Doppler
+Finish Catalog: 854
+Texture: am_doppler_phase3_widow
+
+----------------------
+Name: ★ Talon Knife | Doppler
+Finish Catalog: 853
+Texture: am_doppler_phase2_widow
+
+----------------------
+Name: ★ Talon Knife | Doppler
+Finish Catalog: 852
+Texture: am_doppler_phase1_widow
+
+----------------------
+Name: ★ Talon Knife | Night Stripe
+Finish Catalog: 735
+Texture: sp_nightstripe
+
+----------------------
+Name: ★ Talon Knife | Doppler
+Finish Catalog: 417
+Texture: am_blackpearl_marbleized
+
+----------------------
+Name: ★ Talon Knife | Doppler
+Finish Catalog: 416
+Texture: am_sapphire_marbleized
+
+----------------------
+Name: ★ Talon Knife | Doppler
+Finish Catalog: 415
+Texture: am_ruby_marbleized
+
+----------------------
+Name: ★ Talon Knife | Rust Coat
+Finish Catalog: 414
+Texture: aq_steel_knife
+
+----------------------
+Name: ★ Talon Knife | Tiger Tooth
+Finish Catalog: 409
+Texture: an_tiger_orange
+
+----------------------
+Name: ★ Talon Knife | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Talon Knife | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Talon Knife | Ultraviolet
+Finish Catalog: 98
+Texture: so_purple
+
+----------------------
+Name: ★ Talon Knife | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Talon Knife | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Talon Knife | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Talon Knife | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Talon Knife | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Talon Knife | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Talon Knife | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ Talon Knife | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Talon Knife | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
+
+----------------------
+Name: ★ Ursus Knife | Damascus Steel
+Finish Catalog: 857
+Texture: aq_damascus_prisma
+
+----------------------
+Name: ★ Ursus Knife | Night Stripe
+Finish Catalog: 735
+Texture: sp_nightstripe
+
+----------------------
+Name: ★ Ursus Knife | Doppler
+Finish Catalog: 421
+Texture: am_doppler_phase4
+
+----------------------
+Name: ★ Ursus Knife | Doppler
+Finish Catalog: 420
+Texture: am_doppler_phase3
+
+----------------------
+Name: ★ Ursus Knife | Doppler
+Finish Catalog: 419
+Texture: am_doppler_phase2
+
+----------------------
+Name: ★ Ursus Knife | Doppler
+Finish Catalog: 418
+Texture: am_doppler_phase1
+
+----------------------
+Name: ★ Ursus Knife | Doppler
+Finish Catalog: 417
+Texture: am_blackpearl_marbleized
+
+----------------------
+Name: ★ Ursus Knife | Doppler
+Finish Catalog: 416
+Texture: am_sapphire_marbleized
+
+----------------------
+Name: ★ Ursus Knife | Doppler
+Finish Catalog: 415
+Texture: am_ruby_marbleized
+
+----------------------
+Name: ★ Ursus Knife | Rust Coat
+Finish Catalog: 414
+Texture: aq_steel_knife
+
+----------------------
+Name: ★ Ursus Knife | Marble Fade
+Finish Catalog: 413
+Texture: am_marble_fade
+
+----------------------
+Name: ★ Ursus Knife | Tiger Tooth
+Finish Catalog: 409
+Texture: an_tiger_orange
+
+----------------------
+Name: ★ Ursus Knife | Scorched
+Finish Catalog: 175
+Texture: sp_dapple
+
+----------------------
+Name: ★ Ursus Knife | Urban Masked
+Finish Catalog: 143
+Texture: sp_tape_urban
+
+----------------------
+Name: ★ Ursus Knife | Ultraviolet
+Finish Catalog: 98
+Texture: so_purple
+
+----------------------
+Name: ★ Ursus Knife | Boreal Forest
+Finish Catalog: 77
+Texture: hy_forest_boreal
+
+----------------------
+Name: ★ Ursus Knife | Safari Mesh
+Finish Catalog: 72
+Texture: sp_mesh_tan
+
+----------------------
+Name: ★ Ursus Knife | Slaughter
+Finish Catalog: 59
+Texture: am_zebra
+
+----------------------
+Name: ★ Ursus Knife | Case Hardened
+Finish Catalog: 44
+Texture: aq_oiled
+
+----------------------
+Name: ★ Ursus Knife | Stained
+Finish Catalog: 43
+Texture: aq_forced
+
+----------------------
+Name: ★ Ursus Knife | Blue Steel
+Finish Catalog: 42
+Texture: aq_blued
+
+----------------------
+Name: ★ Ursus Knife | Fade
+Finish Catalog: 38
+Texture: aa_fade
+
+----------------------
+Name: ★ Ursus Knife | Crimson Web
+Finish Catalog: 12
+Texture: hy_webs
+
+----------------------
+Name: ★ Ursus Knife | Forest DDPAT
+Finish Catalog: 5
+Texture: hy_ddpat
