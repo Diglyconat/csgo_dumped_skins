@@ -109,10 +109,15 @@
             block = block.replace(new RegExp(`^${texture}`, 'm'), '"SkinData');
 
             // Подставляем has_stattrak если нужно
-            const statTrakValue = inspected?.statTrak;
-            if(statTrakValue === 0){
-                block = block.replace(/\}\s*$/, `\t"has_stattrak"\t\t"1"\n}`);
-            }
+let isStatTrak = /StatTrak™/i.test(originalName);
+if (!isStatTrak && inspected?.statTrak >= 0) {
+    isStatTrak = true;
+}
+
+if (isStatTrak) {
+    block = block.replace(/\}\s*$/, `\t"has_stattrak"\t\t"1"\n}`);
+}
+
 
 
             // Сохраняем
